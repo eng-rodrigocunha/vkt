@@ -1,0 +1,417 @@
+Marca_Cod,Marca,Modelo_Cod,Modelo,Link_Modelo
+99,Aston Martin,mdl_1035,Vantage,https://www.icarros.com.br/aston-martin/vantage
+99,Aston Martin,mdl_2501,Vanquish,https://www.icarros.com.br/aston-martin/vanquish
+99,Aston Martin,mdl_2635,Rapide,https://www.icarros.com.br/aston-martin/rapide
+3,Audi,mdl_2380,Q3,https://www.icarros.com.br/audi/q3
+3,Audi,mdl_15,A3,https://www.icarros.com.br/audi/a3
+3,Audi,mdl_2517,A3 Sedan,https://www.icarros.com.br/audi/a3-sedan
+3,Audi,mdl_16,A4,https://www.icarros.com.br/audi/a4
+3,Audi,mdl_2251,A1,https://www.icarros.com.br/audi/a1
+3,Audi,mdl_984,A5,https://www.icarros.com.br/audi/a5
+3,Audi,mdl_35,TT,https://www.icarros.com.br/audi/tt
+3,Audi,mdl_1020,Q5,https://www.icarros.com.br/audi/q5
+3,Audi,mdl_22,A4 Avant,https://www.icarros.com.br/audi/a4-avant
+3,Audi,mdl_2550,A3 Cabriolet,https://www.icarros.com.br/audi/a3-cabriolet
+3,Audi,mdl_2573,RS Q3,https://www.icarros.com.br/audi/rs-q3
+3,Audi,mdl_895,Q7,https://www.icarros.com.br/audi/q7
+3,Audi,mdl_941,R8,https://www.icarros.com.br/audi/r8
+3,Audi,mdl_2575,TT RS,https://www.icarros.com.br/audi/tt-rs
+3,Audi,mdl_18,A6,https://www.icarros.com.br/audi/a6
+3,Audi,mdl_2785,Q8,https://www.icarros.com.br/audi/q8
+3,Audi,mdl_2257,A7,https://www.icarros.com.br/audi/a7
+3,Audi,mdl_2331,RS3,https://www.icarros.com.br/audi/rs3
+3,Audi,mdl_27,RS6 Avant,https://www.icarros.com.br/audi/rs6-avant
+3,Audi,mdl_2544,SQ5,https://www.icarros.com.br/audi/sq5
+3,Audi,mdl_19,A8,https://www.icarros.com.br/audi/a8
+3,Audi,mdl_1111,TTS,https://www.icarros.com.br/audi/tts
+3,Audi,mdl_2246,RS5,https://www.icarros.com.br/audi/rs5
+3,Audi,mdl_23,A6 Avant,https://www.icarros.com.br/audi/a6-avant
+3,Audi,mdl_2545,RS7,https://www.icarros.com.br/audi/rs7
+3,Audi,mdl_2801,E-tron,https://www.icarros.com.br/audi/e-tron
+3,Audi,mdl_2748,RS3 Sedan,https://www.icarros.com.br/audi/rs3-sedan
+3,Audi,mdl_26,RS4 Avant,https://www.icarros.com.br/audi/rs4-avant
+3,Audi,mdl_34,S8,https://www.icarros.com.br/audi/s8
+3,Audi,mdl_847,RS4,https://www.icarros.com.br/audi/rs4
+104,Bentley,mdl_1080,Continental GT,https://www.icarros.com.br/bentley/continental-gt
+104,Bentley,mdl_1079,Continental Flying Spur,https://www.icarros.com.br/bentley/continental-flying-spur
+104,Bentley,mdl_1081,Continental GTC,https://www.icarros.com.br/bentley/continental-gtc
+104,Bentley,mdl_2686,Mulsanne,https://www.icarros.com.br/bentley/mulsanne
+4,BMW,mdl_1077,X1,https://www.icarros.com.br/bmw/x1
+4,BMW,mdl_37,Série 3,https://www.icarros.com.br/bmw/serie-3
+4,BMW,mdl_821,Série 1,https://www.icarros.com.br/bmw/serie-1
+4,BMW,mdl_965,X6,https://www.icarros.com.br/bmw/x6
+4,BMW,mdl_802,X3,https://www.icarros.com.br/bmw/x3
+4,BMW,mdl_524,X5,https://www.icarros.com.br/bmw/x5
+4,BMW,mdl_115,Z4 Roadster,https://www.icarros.com.br/bmw/z4-roadster
+4,BMW,mdl_2617,X4,https://www.icarros.com.br/bmw/x4
+4,BMW,mdl_2756,X2,https://www.icarros.com.br/bmw/x2
+4,BMW,mdl_74,Série 5,https://www.icarros.com.br/bmw/serie-5
+4,BMW,mdl_2548,I8,https://www.icarros.com.br/bmw/i8
+4,BMW,mdl_2518,Série 4,https://www.icarros.com.br/bmw/serie-4
+4,BMW,mdl_2626,Série 2,https://www.icarros.com.br/bmw/serie-2
+4,BMW,mdl_2615,M4,https://www.icarros.com.br/bmw/m4
+4,BMW,mdl_864,M6,https://www.icarros.com.br/bmw/m6
+4,BMW,mdl_1026,M3 Sedan,https://www.icarros.com.br/bmw/m3-sedan
+4,BMW,mdl_112,M5,https://www.icarros.com.br/bmw/m5
+4,BMW,mdl_2651,I3,https://www.icarros.com.br/bmw/i3
+4,BMW,mdl_2693,M2,https://www.icarros.com.br/bmw/m2
+4,BMW,mdl_92,Série 7,https://www.icarros.com.br/bmw/serie-7
+4,BMW,mdl_2805,X7,https://www.icarros.com.br/bmw/x7
+4,BMW,mdl_104,Série 8,https://www.icarros.com.br/bmw/serie-8
+100,Caoa Chery,mdl_2757,Tiggo 2,https://www.icarros.com.br/caoa-chery/tiggo-2
+100,Caoa Chery,mdl_2772,Tiggo 5X,https://www.icarros.com.br/caoa-chery/tiggo-5x
+100,Caoa Chery,mdl_2260,QQ,https://www.icarros.com.br/caoa-chery/qq
+100,Caoa Chery,mdl_2777,Tiggo 7,https://www.icarros.com.br/caoa-chery/tiggo-7
+100,Caoa Chery,mdl_2770,Arrizo5,https://www.icarros.com.br/caoa-chery/arrizo5
+100,Caoa Chery,mdl_2458,Celer,https://www.icarros.com.br/caoa-chery/celer
+100,Caoa Chery,mdl_2806,Arrizo6,https://www.icarros.com.br/caoa-chery/arrizo6
+100,Caoa Chery,mdl_2808,Tiggo 8,https://www.icarros.com.br/caoa-chery/tiggo-8
+5,Chevrolet,mdl_2428,Onix,https://www.icarros.com.br/chevrolet/onix
+5,Chevrolet,mdl_902,Prisma,https://www.icarros.com.br/chevrolet/prisma
+5,Chevrolet,mdl_560,S10 Cabine Dupla,https://www.icarros.com.br/chevrolet/s10-cabine-dupla
+5,Chevrolet,mdl_2388,Spin,https://www.icarros.com.br/chevrolet/spin
+5,Chevrolet,mdl_2317,Cruze,https://www.icarros.com.br/chevrolet/cruze
+5,Chevrolet,mdl_2329,Cobalt,https://www.icarros.com.br/chevrolet/cobalt
+5,Chevrolet,mdl_2794,Onix Plus,https://www.icarros.com.br/chevrolet/onix-plus
+5,Chevrolet,mdl_567,Tracker,https://www.icarros.com.br/chevrolet/tracker
+5,Chevrolet,mdl_558,Montana,https://www.icarros.com.br/chevrolet/montana
+5,Chevrolet,mdl_2363,Cruze Sport6,https://www.icarros.com.br/chevrolet/cruze-sport6
+5,Chevrolet,mdl_2487,S10 Cabine Simples,https://www.icarros.com.br/chevrolet/s10-cabine-simples
+5,Chevrolet,mdl_125,Camaro,https://www.icarros.com.br/chevrolet/camaro
+5,Chevrolet,mdl_2431,TrailBlazer,https://www.icarros.com.br/chevrolet/trailblazer
+5,Chevrolet,mdl_833,Equinox,https://www.icarros.com.br/chevrolet/equinox
+5,Chevrolet,mdl_2791,Joy,https://www.icarros.com.br/chevrolet/joy
+5,Chevrolet,mdl_2792,Joy Plus,https://www.icarros.com.br/chevrolet/joy-plus
+5,Chevrolet,mdl_2811,Bolt EV,https://www.icarros.com.br/chevrolet/bolt-ev
+7,Citroën,mdl_165,C3,https://www.icarros.com.br/citroen/c3
+7,Citroën,mdl_1108,Aircross,https://www.icarros.com.br/citroen/aircross
+7,Citroën,mdl_2496,C4 Lounge,https://www.icarros.com.br/citroen/c4-lounge
+7,Citroën,mdl_2762,C4 Cactus,https://www.icarros.com.br/citroen/c4-cactus
+7,Citroën,mdl_991,C4 Picasso,https://www.icarros.com.br/citroen/c4-picasso
+7,Citroën,mdl_942,Grand C4 Picasso,https://www.icarros.com.br/citroen/grand-c4-picasso
+7,Citroën,mdl_2738,Jumpy,https://www.icarros.com.br/citroen/jumpy
+7,Citroën,mdl_572,Jumper,https://www.icarros.com.br/citroen/jumper
+7,Citroën,mdl_163,Berlingo,https://www.icarros.com.br/citroen/berlingo
+12,Dodge,mdl_957,Journey,https://www.icarros.com.br/dodge/journey
+12,Dodge,mdl_584,Ram Pickup,https://www.icarros.com.br/dodge/ram-pickup
+91,Effa,mdl_2673,K01,https://www.icarros.com.br/effa/k01
+91,Effa,mdl_2675,V21,https://www.icarros.com.br/effa/v21
+91,Effa,mdl_2676,V22,https://www.icarros.com.br/effa/v22
+91,Effa,mdl_2674,K02,https://www.icarros.com.br/effa/k02
+91,Effa,mdl_2810,V25,https://www.icarros.com.br/effa/v25
+13,Ferrari,mdl_1083,458 Italia,https://www.icarros.com.br/ferrari/458-italia
+13,Ferrari,mdl_1085,Califórnia,https://www.icarros.com.br/ferrari/california
+13,Ferrari,mdl_2335,FF,https://www.icarros.com.br/ferrari/ff
+13,Ferrari,mdl_2809,Portofino,https://www.icarros.com.br/ferrari/portofino
+13,Ferrari,mdl_2681,488 GTB,https://www.icarros.com.br/ferrari/488-gtb
+14,Fiat,mdl_601,Strada,https://www.icarros.com.br/fiat/strada
+14,Fiat,mdl_1087,Uno,https://www.icarros.com.br/fiat/uno
+14,Fiat,mdl_2667,Toro,https://www.icarros.com.br/fiat/toro
+14,Fiat,mdl_2723,Argo,https://www.icarros.com.br/fiat/argo
+14,Fiat,mdl_2354,Grand Siena,https://www.icarros.com.br/fiat/grand-siena
+14,Fiat,mdl_2679,Mobi,https://www.icarros.com.br/fiat/mobi
+14,Fiat,mdl_893,Fiorino,https://www.icarros.com.br/fiat/fiorino
+14,Fiat,mdl_208,Doblò,https://www.icarros.com.br/fiat/doblo
+14,Fiat,mdl_2753,Cronos,https://www.icarros.com.br/fiat/cronos
+14,Fiat,mdl_1103,Doblò Cargo,https://www.icarros.com.br/fiat/doblo-cargo
+14,Fiat,mdl_591,Ducato,https://www.icarros.com.br/fiat/ducato
+14,Fiat,mdl_2543,Weekend,https://www.icarros.com.br/fiat/weekend
+15,Ford,mdl_607,EcoSport,https://www.icarros.com.br/ford/ecosport
+15,Ford,mdl_287,Ka,https://www.icarros.com.br/ford/ka
+15,Ford,mdl_2381,New Fiesta Hatch,https://www.icarros.com.br/ford/new-fiesta-hatch
+15,Ford,mdl_2547,Ka Sedan,https://www.icarros.com.br/ford/ka-sedan
+15,Ford,mdl_628,Ranger (Cabine Dupla),https://www.icarros.com.br/ford/ranger-cabine-dupla
+15,Ford,mdl_285,Focus Hatch,https://www.icarros.com.br/ford/focus-hatch
+15,Ford,mdl_881,Fusion,https://www.icarros.com.br/ford/fusion
+15,Ford,mdl_286,Focus Sedan,https://www.icarros.com.br/ford/focus-sedan
+15,Ford,mdl_2328,New Fiesta Sedan,https://www.icarros.com.br/ford/new-fiesta-sedan
+15,Ford,mdl_2498,Ranger (Cabine Simples-Estendida),https://www.icarros.com.br/ford/ranger-cabine-simples-estendida
+15,Ford,mdl_961,Edge,https://www.icarros.com.br/ford/edge
+15,Ford,mdl_290,Mustang,https://www.icarros.com.br/ford/mustang
+15,Ford,mdl_2807,Territory,https://www.icarros.com.br/ford/territory
+264,Hitech Electric,mdl_2787,e.co Tech,https://www.icarros.com.br/hitech-electric/e.co-tech
+264,Hitech Electric,mdl_2786,e.co Cargo,https://www.icarros.com.br/hitech-electric/e.co-cargo
+264,Hitech Electric,mdl_2788,e.co Truck,https://www.icarros.com.br/hitech-electric/e.co-truck
+16,Honda,mdl_231,Civic,https://www.icarros.com.br/honda/civic
+16,Honda,mdl_233,Fit,https://www.icarros.com.br/honda/fit
+16,Honda,mdl_2627,HR-V,https://www.icarros.com.br/honda/hr-v
+16,Honda,mdl_1036,City,https://www.icarros.com.br/honda/city
+16,Honda,mdl_647,CR-V,https://www.icarros.com.br/honda/cr-v
+16,Honda,mdl_2720,WR-V,https://www.icarros.com.br/honda/wr-v
+16,Honda,mdl_227,Accord,https://www.icarros.com.br/honda/accord
+17,Hyundai,mdl_2398,HB20,https://www.icarros.com.br/hyundai/hb20
+17,Hyundai,mdl_2448,HB20S,https://www.icarros.com.br/hyundai/hb20s
+17,Hyundai,mdl_2714,Creta,https://www.icarros.com.br/hyundai/creta
+17,Hyundai,mdl_826,Tucson,https://www.icarros.com.br/hyundai/tucson
+17,Hyundai,mdl_1082,ix35,https://www.icarros.com.br/hyundai/ix35
+17,Hyundai,mdl_656,Santa Fe,https://www.icarros.com.br/hyundai/santa-fe
+17,Hyundai,mdl_2439,HB20X,https://www.icarros.com.br/hyundai/hb20x
+17,Hyundai,mdl_926,Azera,https://www.icarros.com.br/hyundai/azera
+17,Hyundai,mdl_241,Elantra,https://www.icarros.com.br/hyundai/elantra
+17,Hyundai,mdl_865,HR,https://www.icarros.com.br/hyundai/hr
+71,Iveco,mdl_661,Daily,https://www.icarros.com.br/iveco/daily
+71,Iveco,mdl_2684,Daily Furgão,https://www.icarros.com.br/iveco/daily-furgao
+71,Iveco,mdl_2510,Daily Minibus,https://www.icarros.com.br/iveco/daily-minibus
+228,Jac,mdl_2731,T40,https://www.icarros.com.br/jac/t40
+228,Jac,mdl_2671,T5,https://www.icarros.com.br/jac/t5
+228,Jac,mdl_2780,T50,https://www.icarros.com.br/jac/t50
+228,Jac,mdl_2522,T8,https://www.icarros.com.br/jac/t8
+228,Jac,mdl_2779,T80,https://www.icarros.com.br/jac/t80
+228,Jac,mdl_2739,V260,https://www.icarros.com.br/jac/v260
+228,Jac,mdl_2796,T60,https://www.icarros.com.br/jac/t60
+228,Jac,mdl_2783,IEV 20,https://www.icarros.com.br/jac/iev-20
+228,Jac,mdl_2784,IEV 40,https://www.icarros.com.br/jac/iev-40
+228,Jac,mdl_2804,IEV 330P,https://www.icarros.com.br/jac/iev-330p
+228,Jac,mdl_2802,IEV 1200T,https://www.icarros.com.br/jac/iev-1200t
+228,Jac,mdl_2803,IEV 60,https://www.icarros.com.br/jac/iev-60
+18,Jaguar,mdl_2745,E-PACE,https://www.icarros.com.br/jaguar/e-pace
+18,Jaguar,mdl_2694,F-PACE,https://www.icarros.com.br/jaguar/f-pace
+18,Jaguar,mdl_947,XF,https://www.icarros.com.br/jaguar/xf
+18,Jaguar,mdl_2657,XE,https://www.icarros.com.br/jaguar/xe
+18,Jaguar,mdl_2782,I-PACE,https://www.icarros.com.br/jaguar/i-pace
+18,Jaguar,mdl_2499,F-Type,https://www.icarros.com.br/jaguar/f-type
+19,Jeep,mdl_2628,Renegade,https://www.icarros.com.br/jeep/renegade
+19,Jeep,mdl_2340,Compass,https://www.icarros.com.br/jeep/compass
+19,Jeep,mdl_883,Grand Cherokee,https://www.icarros.com.br/jeep/grand-cherokee
+19,Jeep,mdl_666,Wrangler,https://www.icarros.com.br/jeep/wrangler
+20,Kia,mdl_674,Sportage,https://www.icarros.com.br/kia/sportage
+20,Kia,mdl_885,Cerato,https://www.icarros.com.br/kia/cerato
+20,Kia,mdl_1033,Soul,https://www.icarros.com.br/kia/soul
+20,Kia,mdl_673,Sorento,https://www.icarros.com.br/kia/sorento
+20,Kia,mdl_889,Picanto,https://www.icarros.com.br/kia/picanto
+20,Kia,mdl_869,Bongo,https://www.icarros.com.br/kia/bongo
+20,Kia,mdl_2645,Rio,https://www.icarros.com.br/kia/rio
+20,Kia,mdl_1000,Mohave,https://www.icarros.com.br/kia/mohave
+20,Kia,mdl_2654,Grand Carnival,https://www.icarros.com.br/kia/grand-carnival
+20,Kia,mdl_2769,Stinger,https://www.icarros.com.br/kia/stinger
+52,Lamborghini,mdl_2330,Aventador,https://www.icarros.com.br/lamborghini/aventador
+52,Lamborghini,mdl_2598,Huracan,https://www.icarros.com.br/lamborghini/huracan
+22,Land Rover,mdl_2326,Range Rover Evoque,https://www.icarros.com.br/land-rover/range-rover-evoque
+22,Land Rover,mdl_681,Discovery,https://www.icarros.com.br/land-rover/discovery
+22,Land Rover,mdl_2637,Discovery Sport,https://www.icarros.com.br/land-rover/discovery-sport
+22,Land Rover,mdl_860,Range Rover Sport,https://www.icarros.com.br/land-rover/range-rover-sport
+22,Land Rover,mdl_2722,Range Rover Velar,https://www.icarros.com.br/land-rover/range-rover-velar
+22,Land Rover,mdl_684,Range Rover Vogue,https://www.icarros.com.br/land-rover/range-rover-vogue
+22,Land Rover,mdl_2509,Range Rover,https://www.icarros.com.br/land-rover/range-rover
+22,Land Rover,mdl_678,Defender,https://www.icarros.com.br/land-rover/defender
+23,Lexus,mdl_2746,LS 500,https://www.icarros.com.br/lexus/ls-500
+23,Lexus,mdl_2504,CT 200h,https://www.icarros.com.br/lexus/ct-200h
+23,Lexus,mdl_2641,NX 200t,https://www.icarros.com.br/lexus/nx-200t
+23,Lexus,mdl_2781,UX 250,https://www.icarros.com.br/lexus/ux-250
+23,Lexus,mdl_2747,NX 300,https://www.icarros.com.br/lexus/nx-300
+23,Lexus,mdl_1011,RX 350,https://www.icarros.com.br/lexus/rx-350
+23,Lexus,mdl_931,ES 350,https://www.icarros.com.br/lexus/es-350
+23,Lexus,mdl_925,LS 460,https://www.icarros.com.br/lexus/ls-460
+23,Lexus,mdl_266,ES 300,https://www.icarros.com.br/lexus/es-300
+23,Lexus,mdl_2798,RX 450,https://www.icarros.com.br/lexus/rx-450
+106,Lifan,mdl_2486,X60,https://www.icarros.com.br/lifan/x60
+106,Lifan,mdl_2600,530,https://www.icarros.com.br/lifan/530
+106,Lifan,mdl_2760,X80,https://www.icarros.com.br/lifan/x80
+24,Maserati,mdl_934,GranTurismo,https://www.icarros.com.br/maserati/granturismo
+24,Maserati,mdl_2729,Levante,https://www.icarros.com.br/maserati/levante
+24,Maserati,mdl_2529,Ghibli,https://www.icarros.com.br/maserati/ghibli
+24,Maserati,mdl_305,Quattroporte,https://www.icarros.com.br/maserati/quattroporte
+24,Maserati,mdl_1094,Grancabrio,https://www.icarros.com.br/maserati/grancabrio
+26,Mercedes-Benz,mdl_699,Sprinter,https://www.icarros.com.br/mercedes-benz/sprinter
+26,Mercedes-Benz,mdl_2597,Classe GLA,https://www.icarros.com.br/mercedes-benz/classe-gla
+26,Mercedes-Benz,mdl_338,Classe A,https://www.icarros.com.br/mercedes-benz/classe-a
+26,Mercedes-Benz,mdl_2520,Classe CLA,https://www.icarros.com.br/mercedes-benz/classe-cla
+26,Mercedes-Benz,mdl_882,Classe B,https://www.icarros.com.br/mercedes-benz/classe-b
+26,Mercedes-Benz,mdl_347,Classe E,https://www.icarros.com.br/mercedes-benz/classe-e
+26,Mercedes-Benz,mdl_2672,Classe GLC,https://www.icarros.com.br/mercedes-benz/classe-glc
+26,Mercedes-Benz,mdl_2467,Classe C AMG,https://www.icarros.com.br/mercedes-benz/classe-c-amg
+26,Mercedes-Benz,mdl_2692,Classe GLA AMG,https://www.icarros.com.br/mercedes-benz/classe-gla-amg
+26,Mercedes-Benz,mdl_2677,Classe GLE,https://www.icarros.com.br/mercedes-benz/classe-gle
+26,Mercedes-Benz,mdl_2570,Classe A AMG,https://www.icarros.com.br/mercedes-benz/classe-a-amg
+26,Mercedes-Benz,mdl_326,Classe C Touring,https://www.icarros.com.br/mercedes-benz/classe-c-touring
+26,Mercedes-Benz,mdl_2711,Classe GLC AMG,https://www.icarros.com.br/mercedes-benz/classe-glc-amg
+26,Mercedes-Benz,mdl_2566,Classe CLA AMG,https://www.icarros.com.br/mercedes-benz/classe-cla-amg
+26,Mercedes-Benz,mdl_2688,Classe GLE AMG,https://www.icarros.com.br/mercedes-benz/classe-gle-amg
+26,Mercedes-Benz,mdl_827,Classe CLS,https://www.icarros.com.br/mercedes-benz/classe-cls
+26,Mercedes-Benz,mdl_2474,Classe S AMG,https://www.icarros.com.br/mercedes-benz/classe-s-amg
+26,Mercedes-Benz,mdl_2472,Classe G AMG,https://www.icarros.com.br/mercedes-benz/classe-g-amg
+26,Mercedes-Benz,mdl_364,Classe S,https://www.icarros.com.br/mercedes-benz/classe-s
+26,Mercedes-Benz,mdl_2471,Classe E AMG,https://www.icarros.com.br/mercedes-benz/classe-e-amg
+26,Mercedes-Benz,mdl_2699,Classe SLC AMG,https://www.icarros.com.br/mercedes-benz/classe-slc-amg
+26,Mercedes-Benz,mdl_356,Classe E Cabrio,https://www.icarros.com.br/mercedes-benz/classe-e-cabrio
+26,Mercedes-Benz,mdl_2698,Classe SLC,https://www.icarros.com.br/mercedes-benz/classe-slc
+26,Mercedes-Benz,mdl_2691,Classe GLS AMG,https://www.icarros.com.br/mercedes-benz/classe-gls-amg
+26,Mercedes-Benz,mdl_1048,Classe E Coupé,https://www.icarros.com.br/mercedes-benz/classe-e-coupe
+26,Mercedes-Benz,mdl_368,Classe SL,https://www.icarros.com.br/mercedes-benz/classe-sl
+26,Mercedes-Benz,mdl_2475,Classe SL AMG,https://www.icarros.com.br/mercedes-benz/classe-sl-amg
+26,Mercedes-Benz,mdl_2690,Classe GLS,https://www.icarros.com.br/mercedes-benz/classe-gls
+26,Mercedes-Benz,mdl_2656,Vito,https://www.icarros.com.br/mercedes-benz/vito
+26,Mercedes-Benz,mdl_2659,AMG GT,https://www.icarros.com.br/mercedes-benz/amg-gt
+26,Mercedes-Benz,mdl_2733,AMG GT Roadster,https://www.icarros.com.br/mercedes-benz/amg-gt-roadster
+26,Mercedes-Benz,mdl_2815,GLB 200,https://www.icarros.com.br/mercedes-benz/glb-200
+56,MINI,mdl_2574,Cooper,https://www.icarros.com.br/mini/cooper
+56,MINI,mdl_2568,Countryman,https://www.icarros.com.br/mini/countryman
+56,MINI,mdl_2442,John Cooper,https://www.icarros.com.br/mini/john-cooper
+56,MINI,mdl_2571,Cabrio,https://www.icarros.com.br/mini/cabrio
+56,MINI,mdl_2489,Clubman,https://www.icarros.com.br/mini/clubman
+27,Mitsubishi,mdl_1110,L200 Triton,https://www.icarros.com.br/mitsubishi/l200-triton
+27,Mitsubishi,mdl_2244,ASX,https://www.icarros.com.br/mitsubishi/asx
+27,Mitsubishi,mdl_915,Outlander,https://www.icarros.com.br/mitsubishi/outlander
+27,Mitsubishi,mdl_384,Lancer,https://www.icarros.com.br/mitsubishi/lancer
+27,Mitsubishi,mdl_875,Pajero Full,https://www.icarros.com.br/mitsubishi/pajero-full
+27,Mitsubishi,mdl_876,Pajero Sport,https://www.icarros.com.br/mitsubishi/pajero-sport
+27,Mitsubishi,mdl_1109,L200 Outdoor,https://www.icarros.com.br/mitsubishi/l200-outdoor
+27,Mitsubishi,mdl_2763,Eclipse Cross,https://www.icarros.com.br/mitsubishi/eclipse-cross
+27,Mitsubishi,mdl_2827,Outlander Sport,https://www.icarros.com.br/mitsubishi/outlander-sport
+28,Nissan,mdl_2696,Kicks,https://www.icarros.com.br/nissan/kicks
+28,Nissan,mdl_2318,Versa,https://www.icarros.com.br/nissan/versa
+28,Nissan,mdl_393,Sentra,https://www.icarros.com.br/nissan/sentra
+28,Nissan,mdl_2314,March,https://www.icarros.com.br/nissan/march
+28,Nissan,mdl_721,Frontier,https://www.icarros.com.br/nissan/frontier
+28,Nissan,mdl_2258,GT-R,https://www.icarros.com.br/nissan/gt-r
+28,Nissan,mdl_2701,LEAF,https://www.icarros.com.br/nissan/leaf
+40,Outras,mdl_468,Corolla,https://www.icarros.com.br/toyota/corolla
+40,Outras,mdl_231,Civic,https://www.icarros.com.br/honda/civic
+40,Outras,mdl_902,Prisma,https://www.icarros.com.br/chevrolet/prisma
+40,Outras,mdl_495,Voyage,https://www.icarros.com.br/volkswagen/voyage
+40,Outras,mdl_2317,Cruze,https://www.icarros.com.br/chevrolet/cruze
+40,Outras,mdl_1036,City,https://www.icarros.com.br/honda/city
+40,Outras,mdl_2448,HB20S,https://www.icarros.com.br/hyundai/hb20s
+40,Outras,mdl_910,Logan,https://www.icarros.com.br/renault/logan
+40,Outras,mdl_2354,Grand Siena,https://www.icarros.com.br/fiat/grand-siena
+40,Outras,mdl_2329,Cobalt,https://www.icarros.com.br/chevrolet/cobalt
+40,Outras,mdl_2318,Versa,https://www.icarros.com.br/nissan/versa
+40,Outras,mdl_2547,Ka Sedan,https://www.icarros.com.br/ford/ka-sedan
+40,Outras,mdl_483,Jetta,https://www.icarros.com.br/volkswagen/jetta
+40,Outras,mdl_2794,Onix Plus,https://www.icarros.com.br/chevrolet/onix-plus
+40,Outras,mdl_2418,Etios Sedan,https://www.icarros.com.br/toyota/etios-sedan
+40,Outras,mdl_2750,Virtus,https://www.icarros.com.br/volkswagen/virtus
+40,Outras,mdl_393,Sentra,https://www.icarros.com.br/nissan/sentra
+40,Outras,mdl_881,Fusion,https://www.icarros.com.br/ford/fusion
+40,Outras,mdl_2753,Cronos,https://www.icarros.com.br/fiat/cronos
+40,Outras,mdl_2243,Fluence,https://www.icarros.com.br/renault/fluence
+40,Outras,mdl_286,Focus Sedan,https://www.icarros.com.br/ford/focus-sedan
+40,Outras,mdl_885,Cerato,https://www.icarros.com.br/kia/cerato
+40,Outras,mdl_2328,New Fiesta Sedan,https://www.icarros.com.br/ford/new-fiesta-sedan
+40,Outras,mdl_323,Classe C,https://www.icarros.com.br/mercedes-benz/classe-c
+40,Outras,mdl_2496,C4 Lounge,https://www.icarros.com.br/citroen/c4-lounge
+40,Outras,mdl_37,Série 3,https://www.icarros.com.br/bmw/serie-3
+40,Outras,mdl_926,Azera,https://www.icarros.com.br/hyundai/azera
+40,Outras,mdl_241,Elantra,https://www.icarros.com.br/hyundai/elantra
+40,Outras,mdl_384,Lancer,https://www.icarros.com.br/mitsubishi/lancer
+40,Outras,mdl_2517,A3 Sedan,https://www.icarros.com.br/audi/a3-sedan
+40,Outras,mdl_2249,408,https://www.icarros.com.br/peugeot/408
+40,Outras,mdl_2759,Yaris Sedan,https://www.icarros.com.br/toyota/yaris-sedan
+40,Outras,mdl_338,Classe A,https://www.icarros.com.br/mercedes-benz/classe-a
+40,Outras,mdl_16,A4,https://www.icarros.com.br/audi/a4
+40,Outras,mdl_487,Passat,https://www.icarros.com.br/volkswagen/passat
+40,Outras,mdl_2520,Classe CLA,https://www.icarros.com.br/mercedes-benz/classe-cla
+40,Outras,mdl_227,Accord,https://www.icarros.com.br/honda/accord
+40,Outras,mdl_347,Classe E,https://www.icarros.com.br/mercedes-benz/classe-e
+40,Outras,mdl_984,A5,https://www.icarros.com.br/audi/a5
+40,Outras,mdl_465,Camry,https://www.icarros.com.br/toyota/camry
+40,Outras,mdl_2467,Classe C AMG,https://www.icarros.com.br/mercedes-benz/classe-c-amg
+40,Outras,mdl_2792,Joy Plus,https://www.icarros.com.br/chevrolet/joy-plus
+40,Outras,mdl_2566,Classe CLA AMG,https://www.icarros.com.br/mercedes-benz/classe-cla-amg
+40,Outras,mdl_827,Classe CLS,https://www.icarros.com.br/mercedes-benz/classe-cls
+40,Outras,mdl_2474,Classe S AMG,https://www.icarros.com.br/mercedes-benz/classe-s-amg
+40,Outras,mdl_364,Classe S,https://www.icarros.com.br/mercedes-benz/classe-s
+40,Outras,mdl_2471,Classe E AMG,https://www.icarros.com.br/mercedes-benz/classe-e-amg
+40,Outras,mdl_2770,Arrizo5,https://www.icarros.com.br/caoa-chery/arrizo5
+40,Outras,mdl_851,S60,https://www.icarros.com.br/volvo/s60
+40,Outras,mdl_2458,Celer,https://www.icarros.com.br/caoa-chery/celer
+40,Outras,mdl_74,Série 5,https://www.icarros.com.br/bmw/serie-5
+40,Outras,mdl_947,XF,https://www.icarros.com.br/jaguar/xf
+40,Outras,mdl_2657,XE,https://www.icarros.com.br/jaguar/xe
+40,Outras,mdl_2600,530,https://www.icarros.com.br/lifan/530
+40,Outras,mdl_864,M6,https://www.icarros.com.br/bmw/m6
+40,Outras,mdl_18,A6,https://www.icarros.com.br/audi/a6
+40,Outras,mdl_1026,M3 Sedan,https://www.icarros.com.br/bmw/m3-sedan
+40,Outras,mdl_112,M5,https://www.icarros.com.br/bmw/m5
+40,Outras,mdl_2806,Arrizo6,https://www.icarros.com.br/caoa-chery/arrizo6
+40,Outras,mdl_19,A8,https://www.icarros.com.br/audi/a8
+40,Outras,mdl_2769,Stinger,https://www.icarros.com.br/kia/stinger
+40,Outras,mdl_931,ES 350,https://www.icarros.com.br/lexus/es-350
+40,Outras,mdl_2748,RS3 Sedan,https://www.icarros.com.br/audi/rs3-sedan
+40,Outras,mdl_2437,Ghost,https://www.icarros.com.br/rolls-royce/ghost
+40,Outras,mdl_305,Quattroporte,https://www.icarros.com.br/maserati/quattroporte
+40,Outras,mdl_1079,Continental Flying Spur,https://www.icarros.com.br/bentley/continental-flying-spur
+40,Outras,mdl_925,LS 460,https://www.icarros.com.br/lexus/ls-460
+40,Outras,mdl_34,S8,https://www.icarros.com.br/audi/s8
+40,Outras,mdl_2686,Mulsanne,https://www.icarros.com.br/bentley/mulsanne
+40,Outras,mdl_2687,Phantom,https://www.icarros.com.br/rolls-royce/phantom
+29,Peugeot,mdl_2419,208,https://www.icarros.com.br/peugeot/208
+29,Peugeot,mdl_2636,2008,https://www.icarros.com.br/peugeot/2008
+29,Peugeot,mdl_2351,308,https://www.icarros.com.br/peugeot/308
+29,Peugeot,mdl_2249,408,https://www.icarros.com.br/peugeot/408
+29,Peugeot,mdl_1123,3008,https://www.icarros.com.br/peugeot/3008
+29,Peugeot,mdl_732,Partner,https://www.icarros.com.br/peugeot/partner
+29,Peugeot,mdl_2743,Expert,https://www.icarros.com.br/peugeot/expert
+29,Peugeot,mdl_2754,5008,https://www.icarros.com.br/peugeot/5008
+29,Peugeot,mdl_730,Boxer,https://www.icarros.com.br/peugeot/boxer
+30,Porsche,mdl_735,Cayenne,https://www.icarros.com.br/porsche/cayenne
+30,Porsche,mdl_2541,Macan,https://www.icarros.com.br/porsche/macan
+30,Porsche,mdl_1053,Panamera,https://www.icarros.com.br/porsche/panamera
+30,Porsche,mdl_420,911,https://www.icarros.com.br/porsche/911
+30,Porsche,mdl_2697,718 Boxster,https://www.icarros.com.br/porsche/718-boxster
+30,Porsche,mdl_873,911 Cabriolet,https://www.icarros.com.br/porsche/911-cabriolet
+30,Porsche,mdl_2715,718 Cayman,https://www.icarros.com.br/porsche/718-cayman
+30,Porsche,mdl_2824,Taycan,https://www.icarros.com.br/porsche/taycan
+31,Renault,mdl_2320,Duster,https://www.icarros.com.br/renault/duster
+31,Renault,mdl_919,Sandero,https://www.icarros.com.br/renault/sandero
+31,Renault,mdl_910,Logan,https://www.icarros.com.br/renault/logan
+31,Renault,mdl_2727,Kwid,https://www.icarros.com.br/renault/kwid
+31,Renault,mdl_2634,Sandero Stepway,https://www.icarros.com.br/renault/sandero-stepway
+31,Renault,mdl_2652,Duster Oroch,https://www.icarros.com.br/renault/duster-oroch
+31,Renault,mdl_2717,Captur,https://www.icarros.com.br/renault/captur
+31,Renault,mdl_2243,Fluence,https://www.icarros.com.br/renault/fluence
+31,Renault,mdl_739,Master,https://www.icarros.com.br/renault/master
+31,Renault,mdl_736,Kangoo Express,https://www.icarros.com.br/renault/kangoo-express
+31,Renault,mdl_2497,Master Chassi,https://www.icarros.com.br/renault/master-chassi
+31,Renault,mdl_2771,Zoe,https://www.icarros.com.br/renault/zoe
+238,Rolls-Royce,mdl_2437,Ghost,https://www.icarros.com.br/rolls-royce/ghost
+238,Rolls-Royce,mdl_2687,Phantom,https://www.icarros.com.br/rolls-royce/phantom
+41,SsangYong,mdl_745,Korando,https://www.icarros.com.br/ssangyong/korando
+41,SsangYong,mdl_930,Actyon Sports,https://www.icarros.com.br/ssangyong/actyon-sports
+41,SsangYong,mdl_2764,Tivoli,https://www.icarros.com.br/ssangyong/tivoli
+41,SsangYong,mdl_2765,XLV,https://www.icarros.com.br/ssangyong/xlv
+33,Subaru,mdl_450,Forester,https://www.icarros.com.br/subaru/forester
+33,Subaru,mdl_2521,XV,https://www.icarros.com.br/subaru/xv
+34,Suzuki,mdl_751,Jimny,https://www.icarros.com.br/suzuki/jimny
+34,Suzuki,mdl_758,Vitara,https://www.icarros.com.br/suzuki/vitara
+34,Suzuki,mdl_2633,S-Cross,https://www.icarros.com.br/suzuki/s-cross
+34,Suzuki,mdl_2793,Jimny Sierra,https://www.icarros.com.br/suzuki/jimny-sierra
+35,Toyota,mdl_468,Corolla,https://www.icarros.com.br/toyota/corolla
+35,Toyota,mdl_763,Hilux Cabine Dupla,https://www.icarros.com.br/toyota/hilux-cabine-dupla
+35,Toyota,mdl_2417,Etios Hatch,https://www.icarros.com.br/toyota/etios-hatch
+35,Toyota,mdl_2418,Etios Sedan,https://www.icarros.com.br/toyota/etios-sedan
+35,Toyota,mdl_765,SW4,https://www.icarros.com.br/toyota/sw4
+35,Toyota,mdl_767,RAV4,https://www.icarros.com.br/toyota/rav4
+35,Toyota,mdl_2758,Yaris Hatch,https://www.icarros.com.br/toyota/yaris-hatch
+35,Toyota,mdl_2759,Yaris Sedan,https://www.icarros.com.br/toyota/yaris-sedan
+35,Toyota,mdl_764,Hilux Cabine Simples,https://www.icarros.com.br/toyota/hilux-cabine-simples
+35,Toyota,mdl_2435,Prius,https://www.icarros.com.br/toyota/prius
+35,Toyota,mdl_465,Camry,https://www.icarros.com.br/toyota/camry
+35,Toyota,mdl_2823,Corolla Cross,https://www.icarros.com.br/toyota/corolla-cross
+47,Troller,mdl_772,T4,https://www.icarros.com.br/troller/t4
+36,Volkswagen,mdl_480,Gol,https://www.icarros.com.br/volkswagen/gol
+36,Volkswagen,mdl_478,Fox,https://www.icarros.com.br/volkswagen/fox
+36,Volkswagen,mdl_779,Saveiro,https://www.icarros.com.br/volkswagen/saveiro
+36,Volkswagen,mdl_495,Voyage,https://www.icarros.com.br/volkswagen/voyage
+36,Volkswagen,mdl_491,Polo,https://www.icarros.com.br/volkswagen/polo
+36,Volkswagen,mdl_481,Golf,https://www.icarros.com.br/volkswagen/golf
+36,Volkswagen,mdl_2519,Up!,https://www.icarros.com.br/volkswagen/up
+36,Volkswagen,mdl_483,Jetta,https://www.icarros.com.br/volkswagen/jetta
+36,Volkswagen,mdl_2750,Virtus,https://www.icarros.com.br/volkswagen/virtus
+36,Volkswagen,mdl_829,CrossFox,https://www.icarros.com.br/volkswagen/crossfox
+36,Volkswagen,mdl_1089,Amarok,https://www.icarros.com.br/volkswagen/amarok
+36,Volkswagen,mdl_879,SpaceFox,https://www.icarros.com.br/volkswagen/spacefox
+36,Volkswagen,mdl_1015,Tiguan,https://www.icarros.com.br/volkswagen/tiguan
+36,Volkswagen,mdl_2774,T-Cross,https://www.icarros.com.br/volkswagen/t-cross
+36,Volkswagen,mdl_2638,Golf Variant,https://www.icarros.com.br/volkswagen/golf-variant
+36,Volkswagen,mdl_487,Passat,https://www.icarros.com.br/volkswagen/passat
+36,Volkswagen,mdl_2315,SpaceCross,https://www.icarros.com.br/volkswagen/spacecross
+36,Volkswagen,mdl_2800,Nivus,https://www.icarros.com.br/volkswagen/nivus
+36,Volkswagen,mdl_2825,Delivery,https://www.icarros.com.br/volkswagen/delivery
+38,Volvo,mdl_994,XC60,https://www.icarros.com.br/volvo/xc60
+38,Volvo,mdl_2749,XC40,https://www.icarros.com.br/volvo/xc40
+38,Volvo,mdl_863,V40,https://www.icarros.com.br/volvo/v40
+38,Volvo,mdl_856,XC90,https://www.icarros.com.br/volvo/xc90
+38,Volvo,mdl_851,S60,https://www.icarros.com.br/volvo/s60
+38,Volvo,mdl_2434,V60,https://www.icarros.com.br/volvo/v60
+38,Volvo,mdl_2767,S90,https://www.icarros.com.br/volvo/s90
