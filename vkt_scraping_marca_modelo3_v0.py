@@ -10,7 +10,7 @@ import pandas as pd
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
 options.add_argument("--incognito")
-options.headless = True
+#options.headless = True
 driver = webdriver.Chrome(executable_path='C:\\WebDriver\\bin\\chromedriver.exe', options=options)
 
 marcas_modelos2 = pd.read_csv('datasets/priority_v1.csv')
@@ -18,7 +18,7 @@ marcas_modelos2['Chave_A'] = marcas_modelos2.apply(lambda x: '{}-{}-{}'.format(x
 marcas_modelos2.drop_duplicates(subset=['Chave_A'], inplace=True)
 print(marcas_modelos2)
 
-marcas_modelos3 = pd.read_csv('marca_modelo_lista3.csv')
+marcas_modelos3 = pd.read_csv('datasets/marca_modelo_lista3.csv')
 #marcas_modelos3.drop_duplicates(subset=['Chave_B'], inplace=True)
 #print(marcas_modelos3)
 #marcas_modelos3 = marcas_modelos3.head(len(marcas_modelos3)-1)
@@ -26,7 +26,7 @@ marcas_chaveA_modelos3_lista = marcas_modelos3['Chave_A'].tolist()
 marcas_chaveA_modelos3_lista = list(set(marcas_chaveA_modelos3_lista))
 #print(marcas_chaveA_modelos3_lista)
 
-df_exc = pd.read_csv('marca_modelo_lista2_exc.csv')
+df_exc = pd.read_csv('datasets/marca_modelo_lista2_exc.csv')
 df_exc.drop_duplicates(subset=['Chave_A'], inplace=True)
 exc_chaveA_lista = df_exc['Chave_A'].tolist()
 #print(exc_chaveA_lista)
