@@ -15,7 +15,7 @@ driver = webdriver.Chrome(executable_path='C:\\WebDriver\\bin\\chromedriver.exe'
 
 marcas_modelos4 = pd.read_csv('datasets/marca_modelo_lista4_priority.csv')
 marcas_modelos4.sort_values(['Consumo_Cidade_Gasolina'], inplace=True)
-marcas_modelos4.drop_duplicates(subset=['Chave_B'], inplace=True)
+marcas_modelos4.drop_duplicates(subset=['Chave_A'], inplace=True)
 
 df_exc = pd.read_csv('datasets/marca_modelo_lista2_exc_priority.csv')
 df_exc.drop_duplicates(subset=['Chave_A'], inplace=True)
@@ -25,8 +25,8 @@ exc_chaveA_lista = df_exc['Chave_A'].tolist()
 #df_exc2.drop_duplicates(subset=['Chave_B'], inplace=True)
 #exc_chaveB_lista = df_exc2['Chave_B'].tolist()
 
-df_priority = pd.read_csv('datasets/priority_v1.csv')
-df_priority['Chave_A'] = df_priority.apply(lambda x: '{}-{}-{}'.format(x['Marca_Cod'], x['Modelo_Cod'], x['Ano']), axis=1)
+df_priority = pd.read_csv('datasets/priority_v3.csv')
+#df_priority['Chave_A'] = df_priority.apply(lambda x: '{}-{}-{}'.format(x['Marca_Cod'], x['Modelo_Cod'], x['Ano']), axis=1)
 df_priority.drop_duplicates(subset=['Chave_A'], inplace=True)
 priority_chaveA_lista = df_priority['Chave_A'].tolist()
 
