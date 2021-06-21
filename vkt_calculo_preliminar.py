@@ -101,6 +101,8 @@ df_marca_modelo['Modelo'] = df_marca_modelo['Modelo'].str.upper()
 df_marca_modelo_denatran['Modelo_DENATRAN'] = df_marca_modelo_denatran.index.get_level_values('Modelo_A').map(lambda x: get_close_matches(x, df_marca_modelo['Modelo'], n=1))
 df_marca_modelo_denatran['Modelo_DENATRAN'] = df_marca_modelo_denatran['Modelo_DENATRAN'].map(lambda x: get_first_list(x))
 df_marca_modelo_denatran['Ano'] = df_marca_modelo_denatran.index.get_level_values('Ano')
+#df_marca_modelo_denatran2 = df_marca_modelo_denatran[df_marca_modelo_denatran['Ano'].apply(lambda x: ~x.isnumeric())]
+df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['Ano'].apply(lambda x: x.isnumeric())]
 df_marca_modelo_denatran['Ano'] = df_marca_modelo_denatran['Ano'].astype(np.int64)
 #marca_modelo_denatran_novo_index = df_marca_modelo_denatran_novo_index.to_list()
 #marca_modelo_denatran_novo_index = list(itertools.chain.from_iterable(marca_modelo_denatran_novo_index))
