@@ -11,9 +11,26 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano,Versao,Versao_Cod,Combustivel_Gasolina,Com
 5,Chevrolet,2388,Spin,2019,Spin 1.8 Econoflex LS 5S (Aut),31172,Álcool,Gasolina,8.0,11.7,9.3,13.6,5-2388-2019,5-2388-31172-2019
 5,Chevrolet,2388,Spin,2018,Spin 1.8 Econoflex LS 5S (Aut),31172,Álcool,Gasolina,8.0,11.7,9.3,13.6,5-2388-2018,5-2388-31172-2018
 5,Chevrolet,2388,Spin,2017,Spin 1.8 Econoflex LS 5S (Aut),31172,Álcool,Gasolina,8.0,11.7,9.3,13.6,5-2388-2017,5-2388-31172-2017
-5,Chevrolet,2388,Spin,2016,Spin 1.8 Econoflex LS 5S (Aut),31172,Álcool,Gasolina,8,11.7,9.3,13.6,5-2388-2016,5-2388-31172-2016
-5,Chevrolet,2388,Spin,2015,Spin 1.8 Econoflex LS 5S (Aut),31172,Álcool,Gasolina,8,11.7,9.3,13.6,5-2388-2015,5-2388-31172-2015
-5,Chevrolet,2388,Spin,2014,Spin 1.8 Econoflex LS 5S (Aut),31172,Álcool,Gasolina,8,11.7,9.3,13.6,5-2388-2014,5-2388-31172-2014
-5,Chevrolet,2388,Spin,2013,Spin 1.8 Econoflex LS 5S (Aut),31172,Álcool,Gasolina,8,11.7,9.3,13.6,5-2388-2013,5-2388-31172-2013
+5,Chevrolet,2388,Spin,2016,Spin 1.8 Econoflex LS 5S (Aut),31172,Álcool,Gasolina,8.0,11.7,9.3,13.6,5-2388-2016,5-2388-31172-2016
+5,Chevrolet,2388,Spin,2015,Spin 1.8 Econoflex LS 5S (Aut),31172,Álcool,Gasolina,8.0,11.7,9.3,13.6,5-2388-2015,5-2388-31172-2015
+5,Chevrolet,2388,Spin,2014,Spin 1.8 Econoflex LS 5S (Aut),31172,Álcool,Gasolina,8.0,11.7,9.3,13.6,5-2388-2014,5-2388-31172-2014
+5,Chevrolet,2388,Spin,2013,Spin 1.8 Econoflex LS 5S (Aut),31172,Álcool,Gasolina,8.0,11.7,9.3,13.6,5-2388-2013,5-2388-31172-2013
 7,Citroën,165,C3,2017,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2017,7-165-30407-2017
 7,Citroën,165,C3,2016,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2016,7-165-30407-2016
+7,Citroën,165,C3,2015,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2015,7-165-30407-2015
+7,Citroën,165,C3,2014,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2014,7-165-30407-2014
+7,Citroën,165,C3,2013,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2013,7-165-30407-2013
+7,Citroën,165,C3,2012,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2012,7-165-30407-2012
+7,Citroën,165,C3,2011,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2011,7-165-30407-2011
+7,Citroën,165,C3,2010,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2010,7-165-30407-2010
+7,Citroën,165,C3,2009,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2009,7-165-30407-2009
+7,Citroën,165,C3,2008,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2008,7-165-30407-2008
+7,Citroën,165,C3,2007,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2007,7-165-30407-2007
+7,Citroën,165,C3,2006,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2006,7-165-30407-2006
+7,Citroën,165,C3,2005,C3 1.2 Attraction Pure Tech,30407,Álcool,Gasolina,9.3,13.2,10.1,14.8,7-165-2005,7-165-30407-2005
+7,Citroën,2762,C4 Cactus,2019,C4 Cactus 1.6 Feel Pack (Aut),29561,Álcool,Gasolina,7.3,10.4,9.1,13,7-2762-2019,7-2762-29561-2019
+14,Fiat,2723,Argo,2020,Argo 1.0,31197,Álcool,Gasolina,9.3,13.2,10,14.2,14-2723-2020,14-2723-31197-2020
+14,Fiat,2723,Argo,2019,Argo 1.0,31197,Álcool,Gasolina,9.3,13.2,10,14.2,14-2723-2019,14-2723-31197-2019
+14,Fiat,2723,Argo,2018,Argo 1.0,31197,Álcool,Gasolina,9.3,13.2,10,14.2,14-2723-2018,14-2723-31197-2018
+14,Fiat,2679,Mobi,2020,Mobi 1.0 Easy,31161,Álcool,Gasolina,9.2,13.5,10.2,15.2,14-2679-2020,14-2679-31161-2020
+14,Fiat,2679,Mobi,2019,Mobi 1.0 Easy,31161,Álcool,Gasolina,9.2,13.5,10.2,15.2,14-2679-2019,14-2679-31161-2019

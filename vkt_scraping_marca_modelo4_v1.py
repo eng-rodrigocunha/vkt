@@ -6,11 +6,13 @@ from selenium.webdriver.support.wait import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import StaleElementReferenceException
 import pandas as pd
+import time
+import random
 
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
 options.add_argument("--incognito")
-options.headless = True
+#options.headless = True
 driver = webdriver.Chrome(executable_path='C:\\WebDriver\\bin\\chromedriver.exe', options=options)
 
 marcas_modelos3 = pd.read_csv('datasets/marca_modelo_lista3_priority.csv')
@@ -53,10 +55,12 @@ chave_temp = ''
 for index, row in marcas_modelos3.iterrows():
     #Scraping de Modelos do Veículo
     try:
-        if(index > 5):
+        if(index > 300):
             break
 
         print('Faltam ' + str(len(marcas_modelos3)-index))
+
+        time.sleep(random.randint(0,3))
 
         print('https://www.icarros.com.br/catalogo/fichatecnica.jsp?modelo={}&anomodelo={}&versao={}'.format(row['Modelo_Cod'], row['Ano'], row['Versao_Cod']))
         driver.get('https://www.icarros.com.br/catalogo/fichatecnica.jsp?modelo={}&anomodelo={}&versao={}'.format(row['Modelo_Cod'], row['Ano'], row['Versao_Cod']))
