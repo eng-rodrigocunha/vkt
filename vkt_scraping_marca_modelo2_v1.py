@@ -14,11 +14,11 @@ options.add_argument("--incognito")
 options.headless = True
 driver = webdriver.Chrome(executable_path='C:\\WebDriver\\bin\\chromedriver.exe', options=options)
 
-marcas_modelos = pd.read_csv('marca_modelo_lista.csv')
+marcas_modelos = pd.read_csv('datasets/marca_modelo_lista.csv')
 marcas_modelos.drop_duplicates(subset=['Marca_Cod'], inplace=True)
-marcas_modelos2 = pd.read_csv('marca_modelo_lista2.csv')
+marcas_modelos2 = pd.read_csv('datasets/marca_modelo_lista2.csv')
 marcas_modelos2.drop_duplicates(subset=['Modelo_Cod'], inplace=True)
-marcas_modelos2.to_csv('marca_modelo_lista2.csv', index=False)
+marcas_modelos2.to_csv('datasets/marca_modelo_lista2.csv', index=False)
 marcas_modelos2.drop_duplicates(subset=['Marca_Cod'], inplace=True)
 marcas_modelos2 = marcas_modelos2.head(len(marcas_modelos2)-1)
 marcas_modelos2_lista = marcas_modelos2['Marca_Cod'].tolist()
@@ -64,11 +64,11 @@ try:
     data = pd.DataFrame(marca_modelo_lista, columns=['Marca_Cod', 'Marca', 'Modelo_Cod', 'Modelo', 'Ano'])
     #print(data)
 
-    data.to_csv('marca_modelo_lista2.csv', index=False, mode='a', header=False)
+    data.to_csv('datasets/marca_modelo_lista2.csv', index=False, mode='a', header=False)
 
 except:
     driver.close()
     data = pd.DataFrame(marca_modelo_lista, columns=['Marca_Cod', 'Marca', 'Modelo_Cod', 'Modelo', 'Ano'])
     #print(data)
 
-    data.to_csv('marca_modelo_lista2.csv', index=False, mode='a', header=False)
+    data.to_csv('datasets/marca_modelo_lista2.csv', index=False, mode='a', header=False)

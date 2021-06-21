@@ -1,0 +1,91 @@
+Marca_Cod,Marca,Modelo_Cod,Modelo,Ano,Versao,Versao_Cod,Combustivel_Gasolina,Combustivel_Alcool,Consumo_Cidade_Gasolina,Consumo_Cidade_Alcool,Consumo_Estrada_Gasolina,Consumo_Estrada_Alcool,Chave_A,Chave_B
+5,Chevrolet,2428,Onix,2022,Onix 1.0 Turbo LTZ (Aut),31049,Álcool,Gasolina,8.3,11.9,10.7,15.1,5-2428-2022,5-2428-31049-2022
+5,Chevrolet,2428,Onix,2022,Onix 1.0 Turbo RS (Aut),31051,Álcool,Gasolina,8.3,11.9,10.7,15.1,5-2428-2022,5-2428-31051-2022
+5,Chevrolet,2428,Onix,2022,Onix 1.0 Turbo Premier (Aut),31050,Álcool,Gasolina,8.3,11.9,10.7,15.1,5-2428-2022,5-2428-31050-2022
+5,Chevrolet,2794,Onix Plus,2022,Onix Plus 1.0 Turbo LT,31056,Álcool,Gasolina,9.6,13.7,12.2,17.0,5-2794-2022,5-2794-31056-2022
+5,Chevrolet,2794,Onix Plus,2022,Onix Plus 1.0 LT,31052,Álcool,Gasolina,10.1,14.5,12.5,17.7,5-2794-2022,5-2794-31052-2022
+5,Chevrolet,2794,Onix Plus,2022,Onix Plus 1.0 LT R8H,31053,Álcool,Gasolina,10.1,14.5,12.5,17.7,5-2794-2022,5-2794-31053-2022
+5,Chevrolet,2428,Onix,2022,Onix 1.0 LT,31044,Álcool,Gasolina,9.9,13.9,11.7,16.7,5-2428-2022,5-2428-31044-2022
+5,Chevrolet,2428,Onix,2022,Onix 1.0 Turbo (Aut),31045,Álcool,Gasolina,8.3,11.9,10.7,15.1,5-2428-2022,5-2428-31045-2022
+5,Chevrolet,2428,Onix,2022,Onix 1.0 LT R7H,31054,Álcool,Gasolina,9.9,13.9,11.7,16.7,5-2428-2022,5-2428-31054-2022
+5,Chevrolet,2428,Onix,2022,Onix 1.0 Turbo LT,31046,Álcool,Gasolina,9.4,13.5,11.2,16.0,5-2428-2022,5-2428-31046-2022
+5,Chevrolet,2428,Onix,2022,Onix 1.0 Turbo LTZ,31048,Álcool,Gasolina,9.4,13.5,11.2,16.0,5-2428-2022,5-2428-31048-2022
+5,Chevrolet,2428,Onix,2022,Onix 1.0 Turbo LT (Aut),31047,Álcool,Gasolina,8.3,11.9,10.7,15.1,5-2428-2022,5-2428-31047-2022
+5,Chevrolet,2794,Onix Plus,2022,Onix Plus 1.0 Turbo LTZ,31058,Álcool,Gasolina,9.6,13.7,12.2,17,5-2794-2022,5-2794-31058-2022
+5,Chevrolet,2794,Onix Plus,2022,Onix Plus 1.0 Turbo LT (Aut),31057,Álcool,Gasolina,8.6,12,10.9,15,5-2794-2022,5-2794-31057-2022
+5,Chevrolet,2794,Onix Plus,2022,Onix Plus 1.0 Turbo LTZ (Aut),31059,Álcool,Gasolina,8.6,12,10.9,15,5-2794-2022,5-2794-31059-2022
+5,Chevrolet,2794,Onix Plus,2022,Onix Plus 1.0 Turbo Premier Midnight (Aut),31061,Álcool,Gasolina,8.6,12,10.9,15,5-2794-2022,5-2794-31061-2022
+5,Chevrolet,2794,Onix Plus,2022,Onix Plus 1.0 Turbo Premier (Aut),31060,Álcool,Gasolina,8.6,12,10.9,15,5-2794-2022,5-2794-31060-2022
+5,Chevrolet,560,S10 Cabine Dupla,2022,S10 2.8 LS Cabine Dupla 4WD,31145,Diesel,N/D,9.4,N/D,10.7,N/D,5-560-2022,5-560-31145-2022
+5,Chevrolet,560,S10 Cabine Dupla,2022,S10 2.5 LTZ Cabine Dupla 4WD (Flex) (Aut),31143,Álcool,Gasolina,5.0,7.4,6.2,9,5-560-2022,5-560-31143-2022
+5,Chevrolet,560,S10 Cabine Dupla,2022,S10 2.8 LT Cabine Dupla 4WD (Aut),31146,Diesel,N/D,8.7,N/D,11.1,N/D,5-560-2022,5-560-31146-2022
+5,Chevrolet,560,S10 Cabine Dupla,2022,S10 2.8 LTZ Cabine Dupla 4WD (Aut),31147,Diesel,N/D,8.7,N/D,11.1,N/D,5-560-2022,5-560-31147-2022
+5,Chevrolet,560,S10 Cabine Dupla,2022,S10 2.8 High Country CD Diesel 4WD (Aut),31144,Diesel,N/D,8.3,N/D,10.6,N/D,5-560-2022,5-560-31144-2022
+5,Chevrolet,2487,S10 Cabine Simples,2022,S10 2.8 LS Cabine Simples 4WD,31148,Diesel,N/D,9.7,N/D,11.0,N/D,5-2487-2022,5-2487-31148-2022
+5,Chevrolet,2388,Spin,2022,Spin 1.8 Econoflex LT 5S,31173,Álcool,Gasolina,8.0,11.7,9.3,13.6,5-2388-2022,5-2388-31173-2022
+5,Chevrolet,2388,Spin,2022,Spin 1.8 Econoflex Premier 7S,31174,Álcool,Gasolina,7.8,11.4,9.0,13.2,5-2388-2022,5-2388-31174-2022
+5,Chevrolet,2388,Spin,2022,Spin 1.8 Econoflex Activ (Aut),31171,Álcool,Gasolina,7.0,10.3,8.3,12,5-2388-2022,5-2388-31171-2022
+5,Chevrolet,2388,Spin,2022,Spin 1.8 Econoflex Premier 7S (Aut),31175,Álcool,Gasolina,7.2,10.6,8.9,12.8,5-2388-2022,5-2388-31175-2022
+5,Chevrolet,2388,Spin,2022,Spin 1.8 Econoflex Activ 7S (Aut),31170,Álcool,Gasolina,7.0,10.3,8.3,12,5-2388-2022,5-2388-31170-2022
+5,Chevrolet,567,Tracker,2022,Tracker 1.0 Turbo,31062,Álcool,Gasolina,9.0,13,10.4,14.8,5-567-2022,5-567-31062-2022
+5,Chevrolet,567,Tracker,2022,Tracker 1.0 Turbo LT (Aut),31064,Álcool,Gasolina,8.2,11.9,9.6,13.7,5-567-2022,5-567-31064-2022
+5,Chevrolet,567,Tracker,2022,Tracker 1.0 Turbo LTZ (Aut),31065,Álcool,Gasolina,8.2,11.9,9.6,13.7,5-567-2022,5-567-31065-2022
+5,Chevrolet,567,Tracker,2022,Tracker 1.0 Turbo Premier (Aut),31066,Álcool,Gasolina,8.2,11.9,9.6,13.7,5-567-2022,5-567-31066-2022
+5,Chevrolet,567,Tracker,2022,Tracker 1.2 Turbo Premier (Aut),31067,Álcool,Gasolina,7.7,11.2,9.4,13.5,5-567-2022,5-567-31067-2022
+14,Fiat,2723,Argo,2022,Argo 1.0 Drive,31198,Álcool,Gasolina,9.3,13.2,10.0,14.2,14-2723-2022,14-2723-31198-2022
+14,Fiat,2723,Argo,2022,Argo 1.3 Drive S-Design,31199,Álcool,Gasolina,8.9,12.5,10.4,14.7,14-2723-2022,14-2723-31199-2022
+14,Fiat,2723,Argo,2022,Argo 1.3 Trekking,31200,Álcool,Gasolina,8.5,12.1,9.6,13.5,14-2723-2022,14-2723-31200-2022
+14,Fiat,2679,Mobi,2022,Mobi 1.0 Like,31162,Álcool,Gasolina,8.8,12.7,9.9,14.3,14-2679-2022,14-2679-31162-2022
+14,Fiat,2679,Mobi,2022,Mobi 1.0 Trekking,31163,Álcool,Gasolina,8.7,12.6,9.7,14.2,14-2679-2022,14-2679-31163-2022
+14,Fiat,2667,Toro,2022,Toro 1.3 T270 Endurance (Aut),31106,Álcool,Gasolina,6.4,N/D,7.8,N/D,14-2667-2022,14-2667-31106-2022
+14,Fiat,2667,Toro,2022,Toro 1.3 T270 Freedom (Aut),31107,Álcool,Gasolina,6.4,N/D,7.8,N/D,14-2667-2022,14-2667-31107-2022
+14,Fiat,2667,Toro,2022,Toro 1.3 T270 Volcano (Aut),31108,Álcool,Gasolina,10.0,N/D,12.6,N/D,14-2667-2022,14-2667-31108-2022
+14,Fiat,2667,Toro,2022,Toro 2.0 TDI Endurance 4WD (Aut),31110,Diesel,N/D,10.0,N/D,12.6,N/D,14-2667-2022,14-2667-31110-2022
+14,Fiat,2667,Toro,2022,Toro 2.0 TDI Freedom 4WD (Aut),31111,Diesel,N/D,10.0,N/D,12.6,N/D,14-2667-2022,14-2667-31111-2022
+14,Fiat,2667,Toro,2022,Toro 2.0 TDI Volcano 4WD (Aut),31114,Diesel,N/D,10.0,N/D,12.6,N/D,14-2667-2022,14-2667-31114-2022
+15,Ford,287,Ka,2021,Ka 1.0 SE Plus,30332,Álcool,Gasolina,9.2,13.4,10.7,15.5,15-287-2021,15-287-30332-2021
+15,Ford,287,Ka,2021,Ka 1.5 SE Plus,30334,Álcool,Gasolina,8.4,12.5,10.3,15,15-287-2021,15-287-30334-2021
+15,Ford,287,Ka,2021,Ka 1.0 Freestyle,30329,Álcool,Gasolina,9.2,13.4,10.7,15.5,15-287-2021,15-287-30329-2021
+15,Ford,287,Ka,2021,Ka 1.5 SE Plus (Aut),30335,Álcool,Gasolina,7.8,11,10.1,14.2,15-287-2021,15-287-30335-2021
+15,Ford,287,Ka,2021,Ka 1.5 Freestyle (Aut),30333,Álcool,Gasolina,7.5,10.7,9.4,13.5,15-287-2021,15-287-30333-2021
+15,Ford,2547,Ka Sedan,2021,Ka Sedan SE Plus 1.0,30336,Álcool,Gasolina,9.2,13.4,10.7,15.5,15-2547-2021,15-2547-30336-2021
+15,Ford,2547,Ka Sedan,2021,Ka Sedan 1.5 SE,30340,Álcool,Gasolina,8.4,12.5,10.3,15,15-2547-2021,15-2547-30340-2021
+15,Ford,2547,Ka Sedan,2021,Ka Sedan 1.5 SE Plus,30338,Álcool,Gasolina,8.4,12.5,10.3,15,15-2547-2021,15-2547-30338-2021
+15,Ford,2547,Ka Sedan,2021,Ka Sedan 1.5 SE Plus (Aut),30339,Álcool,Gasolina,7.8,11,10.1,14.2,15-2547-2021,15-2547-30339-2021
+15,Ford,2547,Ka Sedan,2021,Ka Sedan 1.5 Titanium (Aut),30341,Álcool,Gasolina,7.6,10.9,10.1,14,15-2547-2021,15-2547-30341-2021
+16,Honda,1036,City,2021,City 1.5 Personal CVT,30637,Álcool,Gasolina,8.5,12.3,10.3,14.5,16-1036-2021,16-1036-30637-2021
+16,Honda,1036,City,2021,City 1.5 LX CVT,30636,Álcool,Gasolina,8.5,12.3,10.3,14.5,16-1036-2021,16-1036-30636-2021
+16,Honda,1036,City,2021,City 1.5 EX CVT,30634,Álcool,Gasolina,8.5,12.3,10.3,14.5,16-1036-2021,16-1036-30634-2021
+16,Honda,1036,City,2021,City 1.5 EXL CVT,30635,Álcool,Gasolina,8.5,12.3,10.3,14.5,16-1036-2021,16-1036-30635-2021
+16,Honda,231,Civic,2021,Civic 2.0 EX CVT,30566,Álcool,Gasolina,7.2,10.5,8.9,13,16-231-2021,16-231-30566-2021
+16,Honda,231,Civic,2021,Civic 2.0 Sport CVT,31037,N/D,N/D,N/D,N/D,N/D,N/D,16-231-2021,16-231-31037-2021
+16,Honda,231,Civic,2021,Civic 2.0 EXL CVT,30567,Álcool,Gasolina,7.2,10.5,8.9,13,16-231-2021,16-231-30567-2021
+14,Fiat,2667,Toro,2022,Toro 2.0 TDI Ranch 4WD (Aut),31112,Diesel,N/D,10,N/D,12.6,N/D,14-2667-2022,14-2667-31112-2022
+14,Fiat,2667,Toro,2022,Toro 2.0 TDI Ultra 4WD (Aut),31113,Diesel,N/D,10,N/D,12.6,N/D,14-2667-2022,14-2667-31113-2022
+15,Ford,607,EcoSport,2021,Ecosport 1.5 SE,30324,Álcool,Gasolina,8.3,11.6,9,13.1,15-607-2021,15-607-30324-2021
+15,Ford,607,EcoSport,2021,Ecosport 1.5 Freestyle,30322,Álcool,Gasolina,8.3,11.6,9,13.1,15-607-2021,15-607-30322-2021
+15,Ford,607,EcoSport,2021,Ecosport 1.5 SE (Aut),30325,Álcool,Gasolina,7.1,10.3,8.6,12.6,15-607-2021,15-607-30325-2021
+15,Ford,607,EcoSport,2021,Ecosport 1.5 Freestyle (Aut),30323,Álcool,Gasolina,7.1,10.3,8.6,12.6,15-607-2021,15-607-30323-2021
+15,Ford,607,EcoSport,2021,Ecosport 1.5 Titanium Plus (Aut),30327,Álcool,Gasolina,6.1,8.8,8.3,12,15-607-2021,15-607-30327-2021
+15,Ford,607,EcoSport,2021,Ecosport 2.0 Storm 4WD (Aut),30328,Álcool,Gasolina,6,8.5,8,11.4,15-607-2021,15-607-30328-2021
+15,Ford,287,Ka,2021,Ka 1.0 SE,30331,Álcool,Gasolina,9.2,13.4,10.7,15.5,15-287-2021,15-287-30331-2021
+16,Honda,231,Civic,2021,Civic 1.5 Turbo Touring CVT,30565,Gasolina,N/D,11.8,N/D,14.4,N/D,16-231-2021,16-231-30565-2021
+16,Honda,233,Fit,2021,Fit 1.5 LX CVT,30640,Álcool,Gasolina,8.3,12.3,9.9,14.1,16-233-2021,16-233-30640-2021
+16,Honda,233,Fit,2021,Fit 1.5 EX CVT,30638,Álcool,Gasolina,8.3,12.3,9.9,14.1,16-233-2021,16-233-30638-2021
+16,Honda,233,Fit,2021,Fit 1.5 EXL CVT,30639,Álcool,Gasolina,8.3,12.3,9.9,14.1,16-233-2021,16-233-30639-2021
+16,Honda,2627,HR-V,2021,HR-V 1.8 EX CVT CVT,30642,Álcool,Gasolina,7.7,11,8.6,12.3,16-2627-2021,16-2627-30642-2021
+16,Honda,2627,HR-V,2021,HR-V 1.8 EXL CVT,30643,Álcool,Gasolina,7.7,11,8.6,12.3,16-2627-2021,16-2627-30643-2021
+16,Honda,2627,HR-V,2021,HR-V 1.5 Turbo Touring CVT,30641,Gasolina,N/D,11.4,N/D,12.6,N/D,16-2627-2021,16-2627-30641-2021
+16,Honda,2720,WR-V,2021,WR-V 1.5 EX CVT,30525,Álcool,Gasolina,8.1,11.7,8.8,12.4,16-2720-2021,16-2720-30525-2021
+16,Honda,2720,WR-V,2021,WR-V 1.5 EXL CVT,30526,Álcool,Gasolina,8.1,11.7,8.8,12.4,16-2720-2021,16-2720-30526-2021
+17,Hyundai,2448,HB20S,2022,HB20S 1.6 Vision (Aut),30970,Álcool,Gasolina,8.1,11.5,10.4,14.9,17-2448-2022,17-2448-30970-2022
+17,Hyundai,2448,HB20S,2022,HB20S 1.0 T-GDI Evolution (Aut),30967,Álcool,Gasolina,8,12.1,10.8,15.3,17-2448-2022,17-2448-30967-2022
+17,Hyundai,2448,HB20S,2022,HB20S 1.0 T-GDI Diamond (Aut),31121,Álcool,Gasolina,8,12.1,10.8,15.3,17-2448-2022,17-2448-31121-2022
+17,Hyundai,2439,HB20X,2022,HB20X 1.6 Vision (Aut),30975,Álcool,Gasolina,7.7,10.9,9.2,12.9,17-2439-2022,17-2439-30975-2022
+17,Hyundai,2439,HB20X,2022,HB20X 1.6 Evolution (Aut),30973,Álcool,Gasolina,7.7,10.9,9.2,12.9,17-2439-2022,17-2439-30973-2022
+17,Hyundai,2398,HB20,2022,HB20 1.0 Vision (BlueAudio),30968,Álcool,Gasolina,9.1,12.8,10.1,14.6,17-2398-2022,17-2398-30968-2022
+17,Hyundai,2398,HB20,2022,HB20 1.0 Evolution,30962,Álcool,Gasolina,9.1,12.8,10.1,14.6,17-2398-2022,17-2398-30962-2022
+17,Hyundai,2398,HB20,2022,HB20 1.6 Vision,30971,Álcool,Gasolina,8.6,12.5,10.3,14.7,17-2398-2022,17-2398-30971-2022
+17,Hyundai,2398,HB20,2022,HB20 1.6 Vision (Aut),30972,Álcool,Gasolina,7.8,11.5,9.8,13.9,17-2398-2022,17-2398-30972-2022
+17,Hyundai,2398,HB20,2022,HB20 1.0 T-GDI Evolution (Aut),30966,Álcool,Gasolina,8.2,11.8,10.2,14.2,17-2398-2022,17-2398-30966-2022
+17,Hyundai,2398,HB20,2022,HB20 1.0 T-GDI Sport (Aut),31133,Álcool,Gasolina,8.6,12.2,10.3,13.9,17-2398-2022,17-2398-31133-2022

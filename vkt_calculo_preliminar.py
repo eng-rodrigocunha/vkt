@@ -4,6 +4,23 @@ from unidecode import unidecode
 from difflib import get_close_matches
 import itertools
 
+def get_tipo (modelo):
+    motocicleta = ['CG']
+    #print(modelo)
+    #print(type(modelo))
+    #modelo.contains(motocicleta)
+    if(any([x in modelo for x in motocicleta])):
+        return 'MOTOCICLETA'
+    else:
+        return 'AUTOMOVEL'
+
+def get_first_list (list):
+    if(len(list) > 0):
+        return list[0]
+    else:
+        return ''
+
+
 def vkt_gasolina (ano_fab, ano_base):
     idade = ano_base - ano_fab
     if (idade > 40):
@@ -37,18 +54,21 @@ df_marca_modelo_denatran.rename(columns={'Município': 'Municipio', 'Marca Model
 #df_marca_modelo_denatran[['Marca','Modelo']] = df_marca_modelo_denatran['Marca_Modelo'].str.split("/", expand=True)
 
 #print(df_marca_modelo_denatran)
-df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['UF'].isin(list(set(df_rms['UF'].tolist()))) & df_marca_modelo_denatran['Municipio'].isin(list(set(df_rms['Municipio'].tolist())))]
+#df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['UF'].isin(list(set(df_rms['UF'].tolist()))) & df_marca_modelo_denatran['Municipio'].isin(list(set(df_rms['Municipio'].tolist())))]
+df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran[['UF', 'Municipio']].apply(tuple, axis=1).isin(df_rms[['UF','Municipio']].apply(tuple, axis=1))]
 df_marca_modelo_denatran.reset_index(drop=True, inplace=True)
 #print(df_marca_modelo_denatran)
 #df_marca_modelo_denatran['Marca_Modelo'] = df_marca_modelo_denatran['Marca_Modelo'].str.lower()
 df_marca_modelo_denatran[['Marca','Modelo']] = df_marca_modelo_denatran['Marca_Modelo'].str.split('/', n=1, expand=True)
 df_marca_modelo_denatran[['Modelo_A','Modelo_B']] = df_marca_modelo_denatran['Modelo'].str.split(' ', n=1, expand=True)
-df_marca_modelo_denatran = df_marca_modelo_denatran[~df_marca_modelo_denatran['Modelo_A'].isin(list(set(df_marca_modelo_denatran['Marca'].tolist())))]
-df_marca_modelo_denatran = df_marca_modelo_denatran.groupby(['Modelo_A']).sum().sort_values(by=['Quantidade'], ascending=False)
-print(df_marca_modelo_denatran)
+#df_marca_modelo_denatran = df_marca_modelo_denatran[~df_marca_modelo_denatran['Modelo_A'].isin(list(set(df_marca_modelo_denatran['Marca'].tolist())))]
+df_marca_modelo_denatran = df_marca_modelo_denatran.groupby(['Modelo_A', 'Ano']).sum().sort_values(by=['Quantidade'], ascending=False)
+#print(df_marca_modelo_denatran)
 #print(df_marca_modelo_denatran['Quantidade'])
 df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['Quantidade'] > np.percentile(df_marca_modelo_denatran['Quantidade'],95)]
-print(df_marca_modelo_denatran)
+#print(df_marca_modelo_denatran)
+#df_marca_modelo_denatran = df_marca_modelo_denatran.head(25)
+#print(df_marca_modelo_denatran)
 
 #df_marca_modelo_denatran = df_marca_modelo_denatran.groupby(['Marca_Modelo','Ano','Municipio']).mean().sort_values(by=['Quantidade'], ascending=False).head(25)
 
@@ -65,22 +85,48 @@ print(df_marca_modelo_denatran)
 #print(df_marca_modelo)
 #print(df_marca_modelo)
 #df_marca_modelo_denatran.drop_duplicates(subset=['Marca_Modelo'], inplace=True)
-df_marca_modelo = pd.read_csv('marca_modelo_lista2.csv')
+df_marca_modelo = pd.read_csv('datasets/marca_modelo_lista3_priority.csv')
+df_marca_modelo.drop_duplicates(subset=['Chave_B'], inplace=True)
+#df_marca_modelo['Versao'] = df_marca_modelo['Versao'].str.upper()
 df_marca_modelo['Modelo'] = df_marca_modelo['Modelo'].str.upper()
-df_marca_modelo[['Modelo_A','Modelo_B']] = df_marca_modelo['Modelo'].str.split(' ', n=1, expand=True)
-#print(df_marca_modelo_denatran.index)
-#print(df_marca_modelo_denatran.index)
-df_marca_modelo_denatran_novo_index = df_marca_modelo_denatran.index.map(lambda x: get_close_matches(x, df_marca_modelo['Modelo_A'], n=1))
-df_marca_modelo_denatran_novo_index = df_marca_modelo_denatran_novo_index.to_list()
-df_marca_modelo_denatran_novo_index = list(itertools.chain.from_iterable(df_marca_modelo_denatran_novo_index))
-#df_marca_modelo_denatran_novo_index = list(set(df_marca_modelo_denatran_novo_index))
+#df_marca_modelo[['Modelo_A','Modelo_B']] = df_marca_modelo['Modelo'].str.split(' ', n=1, expand=True)
+#print(df_marca_modelo_denatran.index.names)
+#print(df_marca_modelo_denatran.index.get_level_values('Modelo_A'))
+#print(df_marca_modelo_denatran.index['Modelo_A'])
+#print(df_marca_modelo_denatran.xs(level='Modelo_A'))
+#print(df_marca_modelo_denatran['Modelo_A'])
+#df_marca_modelo_denatran['Modelo_DENATRAN'] = df_marca_modelo_denatran.index['Modelo_A'].map(lambda x: get_close_matches(x, df_marca_modelo['Versao'], n=1))
+#df_marca_modelo_denatran_novo_index = df_marca_modelo_denatran.index.get_level_values('Modelo_A').map(lambda x: get_close_matches(x, df_marca_modelo['Modelo'], n=1))
+#print(df_marca_modelo_denatran_novo_index)
+df_marca_modelo_denatran['Modelo_DENATRAN'] = df_marca_modelo_denatran.index.get_level_values('Modelo_A').map(lambda x: get_close_matches(x, df_marca_modelo['Modelo'], n=1))
+df_marca_modelo_denatran['Modelo_DENATRAN'] = df_marca_modelo_denatran['Modelo_DENATRAN'].map(lambda x: get_first_list(x))
+df_marca_modelo_denatran['Ano'] = df_marca_modelo_denatran.index.get_level_values('Ano')
+df_marca_modelo_denatran['Ano'] = df_marca_modelo_denatran['Ano'].astype(np.int64)
+#marca_modelo_denatran_novo_index = df_marca_modelo_denatran_novo_index.to_list()
+#marca_modelo_denatran_novo_index = list(itertools.chain.from_iterable(marca_modelo_denatran_novo_index))
+#marca_modelo_denatran_novo_index = list(set(marca_modelo_denatran_novo_index))
+#print(df_marca_modelo_denatran)
 
 #print(df_marca_modelo_denatran_novo_index)
+#df_marca_modelo_denatran = df_marca_modelo_denatran.append(pd.DataFrame(marca_modelo_denatran_novo_index))
+#print(df_marca_modelo_denatran)
 #df_marca_modelo.query('Modelo_A == @')
+df_marca_modelo_denatran['Tipo'] = df_marca_modelo_denatran.index.get_level_values('Modelo_A').map(lambda x: get_tipo(x))
+print(df_marca_modelo_denatran)
+df_marca_modelo_denatran = df_marca_modelo_denatran.query("Tipo == 'AUTOMOVEL'")
+print(df_marca_modelo_denatran)
+print(df_marca_modelo)
+#df_marca_modelo = df_marca_modelo[df_marca_modelo['Modelo'].isin(df_marca_modelo_denatran['Modelo_DENATRAN']) & df_marca_modelo['Ano'].isin(df_marca_modelo_denatran['Ano'])]
+print(df_marca_modelo[['Modelo', 'Ano']].apply(tuple, axis=1))
+print(df_marca_modelo_denatran[['Modelo_DENATRAN','Ano']].apply(tuple, axis=1))
+df_marca_modelo = df_marca_modelo[df_marca_modelo[['Modelo', 'Ano']].apply(tuple, axis=1).isin(df_marca_modelo_denatran[['Modelo_DENATRAN','Ano']].apply(tuple, axis=1))]
+#df_marca_modelo = df_marca_modelo[df_marca_modelo['Modelo'].isin(df_marca_modelo_denatran['Modelo_DENATRAN'])]
 #print(df_marca_modelo)
-df_marca_modelo = df_marca_modelo[df_marca_modelo['Modelo_A'].isin(df_marca_modelo_denatran_novo_index)]
-#print(df_marca_modelo)
-df_marca_modelo.to_csv('datasets/priority_v1.csv', index=False)
+#print(df_marca_modelo.dtypes)
+#print(df_marca_modelo_denatran.dtypes)
+#df_marca_modelo = df_marca_modelo[df_marca_modelo['Ano'].isin(df_marca_modelo_denatran['Ano'])]
+print(df_marca_modelo)
+df_marca_modelo.to_csv('datasets/priority_v3.csv', index=False)
 #df_marca_modelo_denatran = df_marca_modelo_denatran.groupby(['Marca_Modelo2']).sum().sort_values(by=['Quantidade'], ascending=False)
 #print(df_marca_modelo_denatran)
 

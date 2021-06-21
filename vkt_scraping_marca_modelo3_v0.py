@@ -10,7 +10,7 @@ import pandas as pd
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
 options.add_argument("--incognito")
-#options.headless = True
+options.headless = True
 driver = webdriver.Chrome(executable_path='C:\\WebDriver\\bin\\chromedriver.exe', options=options)
 
 marcas_modelos2 = pd.read_csv('datasets/priority_v1.csv')
@@ -46,7 +46,7 @@ chave_temp = ''
 for index, row in marcas_modelos2.iterrows():
     #Scraping de Modelos do Veículo
     try:
-        if(index > 500):
+        if(index > 5):
             break
 
         print('Faltam ' + str(len(marcas_modelos2)-index))
