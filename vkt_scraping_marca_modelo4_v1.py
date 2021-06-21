@@ -13,9 +13,13 @@ options.add_argument("--incognito")
 options.headless = True
 driver = webdriver.Chrome(executable_path='C:\\WebDriver\\bin\\chromedriver.exe', options=options)
 
+marcas_modelos3 = pd.read_csv('datasets/marca_modelo_lista3_priority.csv')
+marcas_modelos3 = marcas_modelos3.sort_values(['Consumo_Cidade_Gasolina'], ascending=False)
+#marcas_modelos4 = marcas_modelos4.query("Consumo_Cidade_Gasolina == ''")
+marcas_modelos3.drop_duplicates(subset=['Chave_A'], inplace=True)
+
 marcas_modelos4 = pd.read_csv('datasets/marca_modelo_lista4_priority.csv')
-marcas_modelos4.sort_values(['Consumo_Cidade_Gasolina'], inplace=True)
-marcas_modelos4.drop_duplicates(subset=['Chave_A'], inplace=True)
+m4_chaveA_lista = list(set(marcas_modelos4['Chave_A'].tolist()))
 
 df_exc = pd.read_csv('datasets/marca_modelo_lista2_exc_priority.csv')
 df_exc.drop_duplicates(subset=['Chave_A'], inplace=True)
@@ -32,26 +36,27 @@ priority_chaveA_lista = df_priority['Chave_A'].tolist()
 
 #df_erro = pd.read_csv('datasets/marca_modelo_lista4_erro_priority.csv')
 
-print(marcas_modelos4)
-marcas_modelos4 = marcas_modelos4[~marcas_modelos4['Consumo_Cidade_Gasolina'].notnull()]
-marcas_modelos4 = marcas_modelos4[~marcas_modelos4['Chave_A'].isin(exc_chaveA_lista)]
-#marcas_modelos4 = marcas_modelos4[~marcas_modelos4['Chave_B'].isin(exc_chaveB_lista)]
-marcas_modelos4 = marcas_modelos4[marcas_modelos4['Chave_A'].isin(priority_chaveA_lista)]
-marcas_modelos4.reset_index(drop=True, inplace=True)
-print(marcas_modelos4)
+print(marcas_modelos3)
+marcas_modelos3 = marcas_modelos3[~marcas_modelos3['Consumo_Cidade_Gasolina'].notnull()]
+marcas_modelos3 = marcas_modelos3[~marcas_modelos3['Chave_A'].isin(exc_chaveA_lista)]
+marcas_modelos3 = marcas_modelos3[~marcas_modelos3['Chave_A'].isin(m4_chaveA_lista)]
+#marcas_modelos3 = marcas_modelos3[~marcas_modelos3['Chave_B'].isin(exc_chaveB_lista)]
+marcas_modelos3 = marcas_modelos3[marcas_modelos3['Chave_A'].isin(priority_chaveA_lista)]
+marcas_modelos3.reset_index(drop=True, inplace=True)
+print(marcas_modelos3)
 
 marca_modelo_lista = []
 cadastro_excecao = []
 erro = []
 chave_temp = ''
 
-for index, row in marcas_modelos4.iterrows():
+for index, row in marcas_modelos3.iterrows():
     #Scraping de Modelos do Veículo
     try:
         if(index > 5):
             break
 
-        print('Faltam ' + str(len(marcas_modelos4)-index))
+        print('Faltam ' + str(len(marcas_modelos3)-index))
 
         print('https://www.icarros.com.br/catalogo/fichatecnica.jsp?modelo={}&anomodelo={}&versao={}'.format(row['Modelo_Cod'], row['Ano'], row['Versao_Cod']))
         driver.get('https://www.icarros.com.br/catalogo/fichatecnica.jsp?modelo={}&anomodelo={}&versao={}'.format(row['Modelo_Cod'], row['Ano'], row['Versao_Cod']))
