@@ -53,10 +53,10 @@ df_marca_modelo_denatran[['Modelo_A','Modelo_B']] = df_marca_modelo_denatran['Mo
 #df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['Quantidade'] > np.percentile(df_marca_modelo_denatran['Quantidade'],95)]
 
 df_marca_modelo5 = pd.read_csv('datasets/marca_modelo_lista5_priority.csv')
-print(df_marca_modelo_denatran)
-print(df_marca_modelo5)
-df_marca_modelo_denatran['Modelo_DENATRAN'] = df_marca_modelo_denatran.index.get_level_values('Modelo_A').map(lambda x: get_first_list(get_close_matches(x, df_marca_modelo5['Modelo']), n=1))
-df_marca_modelo_denatran['Ano'] = df_marca_modelo_denatran.index.get_level_values('Ano')
+#print(df_marca_modelo_denatran)
+#print(df_marca_modelo5)
+df_marca_modelo_denatran['Modelo_DENATRAN'] = df_marca_modelo_denatran['Modelo_A'].map(lambda x: get_first_list(get_close_matches(x, df_marca_modelo5['Modelo']), n=1))
+#df_marca_modelo_denatran['Ano'] = df_marca_modelo_denatran.index.get_level_values('Ano')
 print('df_marca_modelo_denatran')
 print(df_marca_modelo_denatran)
 df_marca_modelo_denatran2 = df_marca_modelo_denatran[~df_marca_modelo_denatran['Ano'].apply(lambda x: x.isnumeric())]
@@ -69,5 +69,6 @@ print(df_marca_modelo_denatran)
 df_marca_modelo_denatran['Ano'] = df_marca_modelo_denatran['Ano'].astype(np.int64)
 df_marca_modelo_denatran['Tipo'] = df_marca_modelo_denatran.index.get_level_values('Modelo_A').map(lambda x: get_tipo(x))
 
-df_marca_modelo5.to_csv('datasets/2020/vkt_v0.csv', index=False)
-df_marca_modelo_denatran = pd.read_csv('datasets/2020/I_Frota_por_UF_Municipio_Marca_e_Modelo_Ano_Dezembro_2020.txt', sep=';')
+df_marca_modelo_denatran['VKT'] = df_marca_modelo_denatran[['Ano', 'Combustivel']]
+
+df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v0.csv', index=False)
