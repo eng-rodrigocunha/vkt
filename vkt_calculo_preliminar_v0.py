@@ -42,7 +42,7 @@ def get_vkt (df, ano_base):
     elif(df['Tipo'] == 'ONIBUS'):
         return vkt_onibus(df['Ano'], ano_base)
     elif(df['Tipo'] == 'CAMINHAO'):
-        return vkt_caminhao(df['Ano'], ano_base)]
+        return vkt_caminhao(df['Ano'], ano_base)
     else:
         return 'ERRO'
 
