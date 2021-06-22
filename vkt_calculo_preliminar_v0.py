@@ -21,11 +21,13 @@ def get_tipo (modelo):
     else:
         return 'AUTOMOVEL'
 
+'''
 def get_first_list (list):
     if(len(list) > 0):
         return list[0]
     else:
         return ''
+'''
 
 def get_vkt (df, ano_base):
     if(df['Tipo'] == 'AUTOMOVEL'):
@@ -92,10 +94,24 @@ def vkt_onibus (ano_fab, ano_base):
     else:
         return (-8.8551*(idade**3) + 263.41*(idade**2) - 4219.4*idade + 66435)
 
+def get_close_model (df_denatran, df_marca_modelo):
+    if(df_denatran['Tipo'] != 'AUTOMOVEL'):
+        return ''
+    
+    model = get_close_matches(df_denatran['Modelo_A'], df_marca_modelo, n=1)
+
+    if(len(model) > 0):
+        return model[0]
+    else:
+        return ''
+
+
 df_rms = pd.read_csv('datasets/rms.csv')
 
 df_marca_modelo_denatran = pd.read_csv('datasets/2020/I_Frota_por_UF_Municipio_Marca_e_Modelo_Ano_Dezembro_2020.txt', sep=';')
 df_marca_modelo_denatran.rename(columns={'Município': 'Municipio', 'Marca Modelo': 'Marca_Modelo', 'Ano Fabricação Veículo CRV': 'Ano', 'Qtd. Veículos': 'Quantidade'}, inplace = True)
+
+df_marca_modelo5 = pd.read_csv('datasets/marca_modelo_lista5_priority.csv')
 
 df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran[['UF', 'Municipio']].apply(tuple, axis=1).isin(df_rms[['UF','Municipio']].apply(tuple, axis=1))]
 #df_marca_modelo_denatran[['RM', 'Capital']] = df_rms[['RM', 'Capital']]
@@ -105,13 +121,21 @@ df_marca_modelo_denatran[['Modelo_A','Modelo_B']] = df_marca_modelo_denatran['Mo
 df_marca_modelo_denatran_null = df_marca_modelo_denatran[df_marca_modelo_denatran['Modelo_A'].isnull()]
 df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['Modelo_A'].notnull()]
 df_marca_modelo_denatran['Tipo'] = df_marca_modelo_denatran['Modelo_A'].map(lambda x: get_tipo(x))
-#df_marca_modelo_denatran = df_marca_modelo_denatran.groupby(['Municipio', 'Modelo_A', 'Ano']).sum().sort_values(by=['Quantidade'], ascending=False)
-#df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['Quantidade'] > np.percentile(df_marca_modelo_denatran['Quantidade'],95)]
+df_marca_modelo_denatran_modelos = df_marca_modelo_denatran.groupby(['Modelo_A']).sum().sort_values(by=['Quantidade'], ascending=False)
+print(df_marca_modelo_denatran_modelos)
+df_marca_modelo_denatran_modelos = df_marca_modelo_denatran[df_marca_modelo_denatran['Quantidade'] > np.percentile(df_marca_modelo_denatran['Quantidade'],95)]
+print(df_marca_modelo_denatran_modelos)
+df_marca_modelo_denatran_modelos['Modelo'] = df_marca_modelo_denatran_modelos.index.get_level_values('Modelo')
+df_marca_modelo_denatran_modelos['Tipo'] = df_marca_modelo_denatran_modelos.index.get_level_values('Modelo').map(lambda x: get_tipo(x))
+df_marca_modelo_denatran_modelos['Modelo_iCarros'] = df_marca_modelo_denatran_modelos[['Modelo_A', 'Tipo']].map(lambda x: get_close_model(x, df_marca_modelo5['Modelo']))
+#df_marca_modelo_denatran_modelos['Modelo_iCarros'] = df_marca_modelo_denatran_modelos['Modelo_iCarros'].map(lambda x: get_first_list(x))
 
-df_marca_modelo5 = pd.read_csv('datasets/marca_modelo_lista5_priority.csv')
-#df_marca_modelo_denatran['Modelo_DENATRAN'] = df_marca_modelo_denatran['Modelo_A'].map(lambda x: get_first_list(get_close_matches(x, df_marca_modelo5['Modelo'], n=1)))
-df_marca_modelo_denatran['Modelo_DENATRAN'] = df_marca_modelo_denatran['Modelo_A'].map(lambda x: get_close_matches(x, df_marca_modelo5['Modelo'], n=1))
-df_marca_modelo_denatran['Modelo_DENATRAN'] = df_marca_modelo_denatran['Modelo_DENATRAN'].map(lambda x: get_first_list(x))
+
+df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo_denatran_modelos, on='Modelo_A')
+
+#df_marca_modelo_denatran['Modelo_iCarros'] = df_marca_modelo_denatran['Modelo_A'].map(lambda x: get_first_list(get_close_matches(x, df_marca_modelo5['Modelo'], n=1)))
+#df_marca_modelo_denatran['Modelo_iCarros'] = df_marca_modelo_denatran['Modelo_A'].map(lambda x: get_close_matches(x, df_marca_modelo5['Modelo'], n=1))
+#df_marca_modelo_denatran['Modelo_iCarros'] = df_marca_modelo_denatran['Modelo_iCarros'].map(lambda x: get_first_list(x))
 
 print('df_marca_modelo_denatran')
 print(df_marca_modelo_denatran)
