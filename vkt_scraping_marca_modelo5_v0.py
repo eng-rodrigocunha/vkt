@@ -3,13 +3,13 @@ import pandas as pd
 def get_comb(comb):
     flex = ['Álcool', 'Gasolina']
     if(comb.isin(flex).all()):
-        return 'Flex'
+        return 'FLEX'
     elif(comb.isin(['Diesel']).any()):
-        return 'Diesel'
+        return 'DIESEL'
     elif(comb.isin(['Gasolina']).any()):
-        return 'Gasolina'
-    elif(comb.isin(['Alcool']).any()):
-        return 'Alcool'
+        return 'GASOLINA'
+    elif(comb.isin(['Álcool']).any()):
+        return 'ETANOL'
     else:
         return comb['Combustivel_Gasolina']
 

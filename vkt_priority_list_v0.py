@@ -27,11 +27,14 @@ def vkt_flex (ano_fab, ano_base):
     else:
         return (-24.288*(idade**3) - 426.19*(idade**2) + 2360.4*idade + 19178)
 
-df_rms = pd.read_csv('datasets/rms.csv')
+df_rms = pd.read_csv('datasets/rms_bkp.csv')
 
-#df_rms['Municipio'] = df_rms['Municipio_Acentuado'].apply(unidecode)
-#df_rms.to_csv('datasets/rms.csv', index=False)
+df_rms['Capital'] = df_rms['Capital'].apply(unidecode).str.upper()
+#df_rms['Municipio'] = df_rms['Municipio_Acentuado']
+df_rms = df_rms.drop(['Municipio_Acentuado'], axis=1)
+df_rms.to_csv('datasets/rms.csv', index=False)
 
+'''
 df_marca_modelo_denatran = pd.read_csv('datasets/2020/I_Frota_por_UF_Municipio_Marca_e_Modelo_Ano_Dezembro_2020.txt', sep=';')
 df_marca_modelo_denatran.rename(columns={'Município': 'Municipio', 'Marca Modelo': 'Marca_Modelo', 'Ano Fabricação Veículo CRV': 'Ano', 'Qtd. Veículos': 'Quantidade'}, inplace = True)
 #df_marca_modelo_denatran[['Marca','Modelo']] = df_marca_modelo_denatran['Marca_Modelo'].str.split("/", expand=True)
@@ -90,3 +93,4 @@ df_marca_modelo.to_csv('datasets/priority_v1.csv', index=False)
 #df_marca_modelo_denatran = df_marca_modelo_denatran.sort_values(by=['Quantidade'])
 
 #print(df_marca_modelo_denatran)
+'''
