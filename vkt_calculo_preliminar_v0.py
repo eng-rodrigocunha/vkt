@@ -53,7 +53,8 @@ df_marca_modelo_denatran[['Modelo_A','Modelo_B']] = df_marca_modelo_denatran['Mo
 #df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['Quantidade'] > np.percentile(df_marca_modelo_denatran['Quantidade'],95)]
 
 df_marca_modelo5 = pd.read_csv('datasets/marca_modelo_lista5_priority.csv')
-df_marca_modelo5['Modelo'] = df_marca_modelo5['Modelo'].str.upper()
+print(df_marca_modelo_denatran)
+print(df_marca_modelo5)
 df_marca_modelo_denatran['Modelo_DENATRAN'] = df_marca_modelo_denatran.index.get_level_values('Modelo_A').map(lambda x: get_first_list(get_close_matches(x, df_marca_modelo5['Modelo']), n=1))
 df_marca_modelo_denatran['Ano'] = df_marca_modelo_denatran.index.get_level_values('Ano')
 print('df_marca_modelo_denatran')
