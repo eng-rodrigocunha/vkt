@@ -4,6 +4,16 @@ import math
 from unidecode import unidecode
 from difflib import get_close_matches
 
+df_vkt = pd.read_csv('datasets/2020/vkt_v1.csv')
+print(df_vkt)
+df_vkt2 = df_vkt.groupby(['Combustivel'])['VKT'].sum()
+print(df_vkt2)
+df_vkt3 = df_vkt[df_vkt['VKT'] > np.percentile(df_vkt['VKT'],95)]
+print(np.percentile(df_vkt['Quantidade'],95))
+print(np.percentile(df_vkt['VKT'],95))
+print(df_vkt3)
+
+'''
 def get_tipo (modelo):
     motocicleta = ['CG', 'YS', 'YBS', 'FAZER']
     #onibus = ['']
@@ -142,9 +152,10 @@ df_marca_modelo_denatran['VKT'] = df_marca_modelo_denatran['VKT']*df_marca_model
 #print(df_marca_modelo_denatran)
 #df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['VKT'] < 0]
 
-df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v1.csv', index=False)
+df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v2.csv', index=False)
 
 df_marca_modelo_denatran = df_marca_modelo_denatran.groupby(['RM'])['VKT'].sum()
 print(df_marca_modelo_denatran)
 
-df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v1_rm.csv')
+df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v2_rm.csv')
+'''
