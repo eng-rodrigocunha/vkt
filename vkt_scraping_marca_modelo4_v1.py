@@ -12,7 +12,7 @@ import random
 options = webdriver.ChromeOptions()
 options.add_experimental_option('excludeSwitches', ['enable-logging'])
 options.add_argument("--incognito")
-#options.headless = True
+options.headless = True
 driver = webdriver.Chrome(executable_path='C:\\WebDriver\\bin\\chromedriver.exe', options=options)
 
 marcas_modelos3 = pd.read_csv('datasets/marca_modelo_lista3_priority.csv')
@@ -55,7 +55,7 @@ chave_temp = ''
 for index, row in marcas_modelos3.iterrows():
     #Scraping de Modelos do Veículo
     try:
-        if(index > 3):
+        if(index > 5):
             break
 
         print('Faltam ' + str(len(marcas_modelos3)-index))

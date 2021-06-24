@@ -114,7 +114,7 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 100,Caoa Chery,2808,Tiggo 8,2022
 5,Chevrolet,528,A10,2022
 5,Chevrolet,532,A20,2022
-5,Chevrolet,1055,Agile,2022
+5,Chevrolet,1055,Agile,2011
 5,Chevrolet,121,Astra Hatch,2022
 5,Chevrolet,122,Astra Sedan,2022
 5,Chevrolet,123,Astra Wagon,2022
@@ -135,13 +135,13 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 5,Chevrolet,964,Captiva,2022
 5,Chevrolet,128,Caravan,2022
 5,Chevrolet,129,Cavalier,2022
-5,Chevrolet,130,Celta,2022
-5,Chevrolet,131,Chevette Hatch,2022
-5,Chevrolet,133,Chevette Sedan,2022
+5,Chevrolet,130,Celta,2012
+5,Chevrolet,131,Chevette Hatch,1983
+5,Chevrolet,133,Chevette Sedan,1973
 5,Chevrolet,547,Chevy 500,2022
 5,Chevrolet,1120,Cheyenne,2022
 5,Chevrolet,877,Classic,2022
-5,Chevrolet,2329,Cobalt,2022
+5,Chevrolet,2329,Cobalt,2012
 5,Chevrolet,1125,Colorado,2022
 5,Chevrolet,134,Corsa Hatch,2012
 5,Chevrolet,548,Corsa Pick-Up,2001
@@ -160,8 +160,8 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 5,Chevrolet,141,Ipanema,2022
 5,Chevrolet,2791,Joy,2022
 5,Chevrolet,2792,Joy Plus,2022
-5,Chevrolet,140,Kadett,2022
-5,Chevrolet,139,Kadett Conversivel,2022
+5,Chevrolet,140,Kadett,1996
+5,Chevrolet,139,Kadett Conversivel,1996
 5,Chevrolet,142,Lumina APV,2022
 5,Chevrolet,1084,Lumina Sedan,2022
 5,Chevrolet,1091,Malibu,2022
@@ -169,7 +169,7 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 5,Chevrolet,143,Meriva,2022
 5,Chevrolet,558,Montana,2022
 5,Chevrolet,920,Montana Combo,2022
-5,Chevrolet,145,Monza,2022
+5,Chevrolet,145,Monza,1984
 5,Chevrolet,144,Monza Hatch,2022
 5,Chevrolet,146,Omega,2022
 5,Chevrolet,2428,Onix,2022
@@ -292,11 +292,11 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 14,Fiat,591,Ducato,2022
 14,Fiat,209,Duna,2022
 14,Fiat,210,Elba,2022
-14,Fiat,893,Fiorino,2022
+14,Fiat,893,Fiorino,2014
 14,Fiat,935,Fiorino Pick-Up,2022
 14,Fiat,2311,Freemont,2022
 14,Fiat,2354,Grand Siena,2022
-14,Fiat,857,Idea,2022
+14,Fiat,857,Idea,2009
 14,Fiat,973,Linea,2022
 14,Fiat,211,Marea,2022
 14,Fiat,212,Marea Weekend,2022

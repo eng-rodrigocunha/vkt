@@ -5,7 +5,7 @@ from unidecode import unidecode
 from difflib import get_close_matches
 
 def get_tipo (modelo):
-    motocicleta = ['CG', 'YS', 'YBS', 'FAZER']
+    motocicleta = ['CG', 'YS', 'YBS', 'FAZER', 'CBX', 'BIZ', 'CB', 'XRE', 'YBR', 'NXR', 'SUZUKI', 'POP', 'PCX', 'SPEED', 'NMAX']
     #onibus = ['']
     #caminhao = ['']
     if(any([x in modelo for x in motocicleta])):
@@ -145,6 +145,4 @@ df_marca_modelo_denatran['VKT'] = df_marca_modelo_denatran['VKT']*df_marca_model
 df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v1.csv', index=False)
 
 df_marca_modelo_denatran = df_marca_modelo_denatran.groupby(['RM'])['VKT'].sum()
-print(df_marca_modelo_denatran)
-
 df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v1_rm.csv')

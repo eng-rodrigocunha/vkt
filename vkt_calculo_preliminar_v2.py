@@ -1,31 +1,25 @@
+#from _typeshed import NoneType
 import pandas as pd
 import numpy as np
 import math
 from unidecode import unidecode
 from difflib import get_close_matches
 
-df_vkt = pd.read_csv('datasets/2020/vkt_v1.csv')
-print(df_vkt)
-df_vkt2 = df_vkt.groupby(['Combustivel'])['VKT'].sum()
-print(df_vkt2)
-df_vkt3 = df_vkt[df_vkt['VKT'] > np.percentile(df_vkt['VKT'],95)]
-print(np.percentile(df_vkt['Quantidade'],95))
-print(np.percentile(df_vkt['VKT'],95))
-print(df_vkt3)
-
-'''
 def get_tipo (modelo):
-    motocicleta = ['CG', 'YS', 'YBS', 'FAZER']
+    #print(modelo)
+    motocicleta = ['CG', 'YS', 'YBS', 'FAZER', 'CBX', 'BIZ', 'CB', 'XRE', 'YBR', 'NXR', 'SUZUKI', 'POP', 'PCX', 'SPEED', 'NMAX']
     #onibus = ['']
     #caminhao = ['']
-    if(any([x in modelo for x in motocicleta])):
-        return 'MOTOCICLETA'
-    #elif(any([x in modelo for x in onibus])):
-    #    return 'ONIBUS'
-    #elif(any([x in modelo for x in caminhao])):
-    #    return 'CAMINHAO'
-    else:
-        return 'AUTOMOVEL'
+    for m in modelo:
+        if(m is None):
+            continue
+        if(any([x in m for x in motocicleta])):
+            return 'MOTOCICLETA'
+        #elif(any([x in modelo for x in onibus])):
+        #    return 'ONIBUS'
+        #elif(any([x in modelo for x in caminhao])):
+        #    return 'CAMINHAO'
+    return 'AUTOMOVEL'
 
 def get_vkt (df, ano_base):
     if(df['Tipo'] == 'AUTOMOVEL'):
@@ -102,12 +96,26 @@ def vkt_onibus (ano_fab, ano_base):
     else:
         return (-8.8551*(idade**3) + 263.41*(idade**2) - 4219.4*idade + 66435)
 
-def get_close_model (df_denatran):
+def get_close_model_a (df_denatran):
     #print(df_denatran)
     if(df_denatran['Tipo'] != 'AUTOMOVEL'):
         return ''
     
-    model = get_close_matches(df_denatran.name, df_marca_modelo5['Modelo_A'], n=1)
+    model = get_close_matches(df_denatran.name[0], df_marca_modelo5['Modelo_A'], n=1)
+
+    if(len(model) > 0):
+        return model[0]
+    else:
+        return ''
+
+def get_close_model_b (df_denatran):
+    #print(df_denatran)
+    #print(df_denatran.name[0])
+    #print(df_denatran.name[1])
+    if(df_denatran['Tipo'] != 'AUTOMOVEL' or df_denatran.name[0] != ''):
+        return ''
+    
+    model = get_close_matches(df_denatran.name[1], df_marca_modelo5['Modelo_A'], n=1)
 
     if(len(model) > 0):
         return model[0]
@@ -126,20 +134,27 @@ df_marca_modelo5['Ano'] = df_marca_modelo5['Ano'].astype(np.int64)
 df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran[['UF', 'Municipio']].apply(tuple, axis=1).isin(df_rms[['UF','Municipio']].apply(tuple, axis=1))]
 df_marca_modelo_denatran.reset_index(drop=True, inplace=True)
 df_marca_modelo_denatran[['Marca','Modelo']] = df_marca_modelo_denatran['Marca_Modelo'].str.split('/', n=1, expand=True)
-df_marca_modelo_denatran[['Modelo_A','Modelo_B']] = df_marca_modelo_denatran['Modelo'].str.split(' ', n=1, expand=True)
+df_marca_modelo_denatran[['Modelo_A','Modelo_B','Modelo_C']] = df_marca_modelo_denatran['Modelo'].str.split(' ', n=2, expand=True)
 df_marca_modelo_denatran_null = df_marca_modelo_denatran[df_marca_modelo_denatran['Modelo_A'].isnull()]
 df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['Modelo_A'].notnull()]
-df_marca_modelo_denatran['Tipo'] = df_marca_modelo_denatran['Modelo_A'].map(lambda x: get_tipo(x))
-df_marca_modelo_denatran_modelos = df_marca_modelo_denatran.groupby(['Modelo_A']).sum().sort_values(by=['Quantidade'], ascending=False)
-df_marca_modelo_denatran_modelos = df_marca_modelo_denatran_modelos[df_marca_modelo_denatran_modelos['Quantidade'] > np.percentile(df_marca_modelo_denatran_modelos['Quantidade'],95)]
-df_marca_modelo_denatran_modelos['Tipo'] = df_marca_modelo_denatran_modelos.index.get_level_values('Modelo_A').map(lambda x: get_tipo(x))
-df_marca_modelo_denatran_modelos['Modelo_iCarros'] = df_marca_modelo_denatran_modelos.apply(get_close_model, axis=1)
+df_marca_modelo_denatran['Tipo'] = df_marca_modelo_denatran[['Modelo_A', 'Modelo_B']].apply(lambda x: get_tipo(x), axis=1)
 
-df_marca_modelo_denatran2 = df_marca_modelo_denatran[~df_marca_modelo_denatran['Ano'].map(lambda x: x.isnumeric())]
+df_marca_modelo_denatran_modelos = df_marca_modelo_denatran.groupby(['Modelo_A', 'Modelo_B']).sum().sort_values(by=['Quantidade'], ascending=False)
+#print(df_marca_modelo_denatran_modelos)
+df_marca_modelo_denatran_modelos = df_marca_modelo_denatran_modelos[df_marca_modelo_denatran_modelos['Quantidade'] > np.percentile(df_marca_modelo_denatran_modelos['Quantidade'],95)]
+#print(df_marca_modelo_denatran_modelos)
+
+df_marca_modelo_denatran_modelos['Tipo'] = df_marca_modelo_denatran_modelos.index.map(lambda x: get_tipo(x))
+#df_marca_modelo_denatran_modelos['Modelo_iCarros_A'] = df_marca_modelo_denatran_modelos[['Ano', 'Combustivel', 'Tipo']].apply(lambda x: get_vkt(x, 2020), axis=1)
+df_marca_modelo_denatran_modelos['Modelo_iCarros_A'] = df_marca_modelo_denatran_modelos.apply(get_close_model_a, axis=1)
+df_marca_modelo_denatran_modelos['Modelo_iCarros_B'] = df_marca_modelo_denatran_modelos.apply(get_close_model_b, axis=1)
+
+df_marca_modelo_denatran_sem_ano = df_marca_modelo_denatran[~df_marca_modelo_denatran['Ano'].map(lambda x: x.isnumeric())]
 df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['Ano'].map(lambda x: x.isnumeric())]
 df_marca_modelo_denatran['Ano'] = df_marca_modelo_denatran['Ano'].astype(np.int64)
 
-df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo_denatran_modelos['Modelo_iCarros'], on='Modelo_A', how='outer')
+df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo_denatran_modelos['Modelo_iCarros_A'], on='Modelo_A', how='outer')
+df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo_denatran_modelos['Modelo_iCarros_B'], on='Modelo_B', how='outer')
 df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo5[['Modelo_A', 'Ano', 'Combustivel', 'Consumo_Cidade_Gasolina', 'Consumo_Cidade_Alcool']], on=['Modelo_A', 'Ano'], how='outer')
 df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_rms[['Municipio', 'RM', 'Capital']], on='Municipio', how='outer')
 
@@ -152,10 +167,7 @@ df_marca_modelo_denatran['VKT'] = df_marca_modelo_denatran['VKT']*df_marca_model
 #print(df_marca_modelo_denatran)
 #df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['VKT'] < 0]
 
-df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v2.csv', index=False)
+df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v1.csv', index=False)
 
 df_marca_modelo_denatran = df_marca_modelo_denatran.groupby(['RM'])['VKT'].sum()
-print(df_marca_modelo_denatran)
-
-df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v2_rm.csv')
-'''
+df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v1_rm.csv')
