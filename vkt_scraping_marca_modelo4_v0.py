@@ -31,7 +31,7 @@ exc_chaveA_lista = df_exc['Chave_A'].tolist()
 #df_exc2.drop_duplicates(subset=['Chave_B'], inplace=True)
 #exc_chaveB_lista = df_exc2['Chave_B'].tolist()
 
-df_priority = pd.read_csv('datasets/priority_v1.csv')
+df_priority = pd.read_csv('datasets/priority_v1A.csv')
 df_priority['Chave_A'] = df_priority.apply(lambda x: '{}-{}-{}'.format(x['Marca_Cod'], x['Modelo_Cod'], x['Ano']), axis=1)
 df_priority.drop_duplicates(subset=['Chave_A'], inplace=True)
 priority_chaveA_lista = df_priority['Chave_A'].tolist()
@@ -43,7 +43,7 @@ marcas_modelos3 = marcas_modelos3[~marcas_modelos3['Chave_A'].isin(exc_chaveA_li
 #marcas_modelos3 = marcas_modelos3[~marcas_modelos3['Chave_B'].isin(exc_chaveB_lista)]
 marcas_modelos3 = marcas_modelos3[marcas_modelos3['Chave_A'].isin(priority_chaveA_lista)]
 marcas_modelos3 = marcas_modelos3[~marcas_modelos3['Chave_B'].isin(marcas_chaveB_modelos4_lista)]
-marcas_modelos3 = marcas_modelos3.query("Ano == 2022")
+#marcas_modelos3 = marcas_modelos3.query("Ano == 2022")
 marcas_modelos3.reset_index(drop=True, inplace=True)
 
 marca_modelo_lista = []
@@ -98,8 +98,8 @@ df_exc2 = pd.DataFrame(cadastro_excecao, columns=['Marca_Cod', 'Modelo_Cod', 'Ve
 
 df_erro = df_erro.append(pd.DataFrame(erro, columns=['Marca_Cod', 'Modelo_Cod', 'Versao_Cod', 'Ano']))
 #df_erro = pd.DataFrame(erro, columns=['Marca_Cod', 'Modelo_Cod', 'Versao_Cod', 'Ano'])
-df_erro['Chave_A'] = df_erro.apply(lambda x: '{}-{}-{}'.format(x['Marca_Cod'], x['Modelo_Cod'], x['Ano']), axis=1)
-df_erro['Chave_B'] = df_erro.apply(lambda x: '{}-{}-{}-{}'.format(x['Marca_Cod'], x['Modelo_Cod'], x['Versao_Cod'], x['Ano']), axis=1)
+#df_erro['Chave_A'] = df_erro.apply(lambda x: '{}-{}-{}'.format(x['Marca_Cod'], x['Modelo_Cod'], x['Ano']), axis=1)
+#df_erro['Chave_B'] = df_erro.apply(lambda x: '{}-{}-{}-{}'.format(x['Marca_Cod'], x['Modelo_Cod'], x['Versao_Cod'], x['Ano']), axis=1)
 
 df_erro.to_csv('datasets/marca_modelo_lista4_erro_priority.csv', index=False)
 marcas_modelos4.to_csv('datasets/marca_modelo_lista4_priority.csv', index=False)

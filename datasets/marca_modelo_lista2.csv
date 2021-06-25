@@ -115,7 +115,7 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 5,Chevrolet,528,A10,2022
 5,Chevrolet,532,A20,2022
 5,Chevrolet,1055,Agile,2011
-5,Chevrolet,121,Astra Hatch,2022
+5,Chevrolet,121,Astra Hatch,1995
 5,Chevrolet,122,Astra Sedan,2022
 5,Chevrolet,123,Astra Wagon,2022
 5,Chevrolet,536,Astrovan,2022
@@ -141,7 +141,7 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 5,Chevrolet,547,Chevy 500,2022
 5,Chevrolet,1120,Cheyenne,2022
 5,Chevrolet,877,Classic,2022
-5,Chevrolet,2329,Cobalt,2012
+5,Chevrolet,2329,Cobalt,2014
 5,Chevrolet,1125,Colorado,2022
 5,Chevrolet,134,Corsa Hatch,2012
 5,Chevrolet,548,Corsa Pick-Up,2001
@@ -166,7 +166,7 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 5,Chevrolet,1084,Lumina Sedan,2022
 5,Chevrolet,1091,Malibu,2022
 5,Chevrolet,132,Marajo,2022
-5,Chevrolet,143,Meriva,2022
+5,Chevrolet,143,Meriva,2003
 5,Chevrolet,558,Montana,2022
 5,Chevrolet,920,Montana Combo,2022
 5,Chevrolet,145,Monza,1984
@@ -296,7 +296,7 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 14,Fiat,935,Fiorino Pick-Up,2022
 14,Fiat,2311,Freemont,2022
 14,Fiat,2354,Grand Siena,2022
-14,Fiat,857,Idea,2009
+14,Fiat,857,Idea,2010
 14,Fiat,973,Linea,2022
 14,Fiat,211,Marea,2022
 14,Fiat,212,Marea Weekend,2022
@@ -311,7 +311,7 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 14,Fiat,220,Siena,2022
 14,Fiat,221,Stilo,2022
 14,Fiat,601,Strada,2022
-14,Fiat,222,Tempra,2022
+14,Fiat,222,Tempra,1995
 14,Fiat,268,Tipo,2022
 14,Fiat,2667,Toro,2022
 14,Fiat,1087,Uno,2021
@@ -670,7 +670,7 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 28,Nissan,1027,Grand Livina,2022
 28,Nissan,2258,GT-R,2022
 28,Nissan,2316,Juke,2022
-28,Nissan,2696,Kicks,2022
+28,Nissan,2696,Kicks,2017
 28,Nissan,723,King Cab,2022
 28,Nissan,2701,LEAF,2022
 28,Nissan,1001,Livina,2022
@@ -857,10 +857,10 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 34,Suzuki,464,Wagon R+,2022
 47,Troller,771,RF Sport,2021
 47,Troller,772,T4,2021
+36,Volkswagen,793,Brasilia,1975
 36,Volkswagen,1089,Amarok,2022
 36,Volkswagen,475,Apollo,2022
 36,Volkswagen,476,Bora,2022
-36,Volkswagen,793,Brasília,2022
 36,Volkswagen,773,Caravelle,2022
 36,Volkswagen,2449,CC,2022
 36,Volkswagen,477,Corrado,2022
@@ -899,7 +899,7 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 36,Volkswagen,2678,Scirocco,2022
 36,Volkswagen,1067,SP2,2022
 36,Volkswagen,2315,SpaceCross,2022
-36,Volkswagen,879,SpaceFox,2022
+36,Volkswagen,879,SpaceFox,2013
 36,Volkswagen,2774,T-Cross,2022
 36,Volkswagen,2755,Tanger,2022
 36,Volkswagen,2828,Taos,2022

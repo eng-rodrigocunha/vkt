@@ -21,7 +21,7 @@ df_marcas_modelos5 = df_marcas_modelos5.sort_values(['Consumo_Cidade_Gasolina'],
 df_marcas_modelos5.drop_duplicates(subset=['Chave_B'], inplace=True)
 
 df_marcas_modelos5 = df_marcas_modelos5[df_marcas_modelos5['Consumo_Cidade_Gasolina'].notnull()]
-df_marcas_modelos5 = df_marcas_modelos5.query("Consumo_Cidade_Gasolina != 'N/D' | Consumo_Cidade_Alcool != 'N/D'")
+#df_marcas_modelos5 = df_marcas_modelos5.query("Consumo_Cidade_Gasolina != 'N/D' | Consumo_Cidade_Alcool != 'N/D'")
 df_marcas_modelos5['Modelo'] = df_marcas_modelos5['Modelo'].str.upper()
 df_marcas_modelos5['Combustivel'] = df_marcas_modelos5[['Combustivel_Gasolina', 'Combustivel_Alcool']].apply(get_comb, axis=1)
 df_marcas_modelos5.reset_index(drop=True, inplace=True)
