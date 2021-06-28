@@ -15,7 +15,7 @@ def get_comb (df_denatran):
 
 def get_tipo (modelo):
     motocicleta = ['CG', 'YS', 'YBS', 'FAZER', 'CBX', 'BIZ', 'CB', 'XRE', 'YBR', 'NXR', 'SUZUKI', 'POP', 'PCX', 'SPEED', 'NMAX', 'C100', 'DAFRA', '125', 'CICLOMOTOR']
-    pesado = ['SCANIA', 'MARCOPOLO', 'AGRALE', 'IVECO', 'MPOLO', 'ITAPEMIRIM', 'INDUSCAR', 'INDUSCAR', 'M.BENZ']
+    pesado = ['SCANIA', 'MARCOPOLO', 'AGRALE', 'IVECO', 'MPOLO', 'ITAPEMIRIM', 'INDUSCAR', 'INDUSCAR', 'M.BENZ', 'MBENZ', 'MERCEDES BENZ', 'M.AGRICOLA', 'COMIL']
     #onibus = ['']
     #caminhao = ['']
     for m in modelo:
