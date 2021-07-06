@@ -14,8 +14,9 @@ def get_comb (df_denatran):
         return df_denatran['Combustivel_B']
 
 def get_tipo (modelo):
-    motocicleta = ['CG', 'YS', 'YBS', 'FAZER', 'CBX', 'BIZ', 'CB', 'XRE', 'YBR', 'NXR', 'SUZUKI', 'POP', 'PCX', 'SPEED', 'NMAX', 'C100', 'DAFRA', '125', 'CICLOMOTOR']
-    pesado = ['SCANIA', 'MARCOPOLO', 'AGRALE', 'IVECO', 'MPOLO', 'ITAPEMIRIM', 'INDUSCAR', 'INDUSCAR', 'M.BENZ', 'MBENZ', 'MERCEDES BENZ', 'M.AGRICOLA', 'COMIL']
+    #automovel = ['VITARA', 'A 190', 'SANTANA', '180 CGI']
+    motocicleta = ['HARLEY DAVIDSON', 'CG', 'YS', 'YBS', 'FAZER', 'CBX', 'BIZ', 'CB', 'XRE', 'YBR', 'NXR', 'SUZUKI', 'POP', 'PCX', 'SPEED', 'NMAX', 'C100', 'DAFRA', '125', 'CICLOMOTOR', 'LEAD', 	'LANDER', 	'AT115', 	'CRYPTON', 	'XR', 	'WEB', 	'SHINERAY', 	'YAMAHA', 	'SAHARA', 	'XLX', 	'NX', 	'XT', 	'MT03', 	'TRAXX', 	'XL', 	'SH', 	'WUYANG']
+    pesado = ['SCANIA', 'MARCOPOLO', 'AGRALE', 'IVECO', 'MPOLO', 'ITAPEMIRIM', 'INDUSCAR', 'M.BENZ', 'MBENZ', 'MERCEDES BENZ', 'COMIL', 'HDB', 	'F4000', 	'K2500', 	'24.', 	'8.', 	'F600', 	'DUCATO', 	'CARGO', 	'HDLWBSC', 	'11000', 	'FH', 	'13.', 	'19.', 	'BUS', 	'6X2', 	'TRAFIC', 	'11.', 	'4X2', 	'CABINE', 	'EXPRESS', 	'7.', 	'6.', 	'MASTER', 	'F12000', 	'15.', 	'BOXER', 	'9.', 	'23.', 	'5.', 	'26.', 	'18.', 	'JUMPER', 	'12.', 	'EURO', 	'FURGAO', 	'6X4', 	'F14000', 	'17.', 	'16.', 	'CASA', 	'TRANSIT', 	'B58', 	'N10', 	'ESCOLAR', 	'1618', 	'C60', 	'13000', 	'DAF', 	'1200', 	'MASCA', 	'TRANSFORMERS', 	'700', 	'K2700', 	'NEOBUS', 	'14.', 	'K2400', 	'4030', 	'2425', 	'F2000', 	'1723', 	'1519', 	'F11000', 	'6150', 	'FNM', 	'1418', 	'BUSSCAR', 	'C300', 	'1317', 	'CIFERAL', 	'D6803', 	'D70', 	'6100', 	'1722', 	'14000', 	'T12000', 	'C650', 	'1719', 	'APACHE', 	'GMC', 	'B10', 	'MOTOR-CASA', 	'2626', 	'6000', 	'1419', 	'D11000', 	'JUMP', 	'7900']
     #onibus = ['']
     #caminhao = ['']
     for m in modelo:
@@ -24,6 +25,9 @@ def get_tipo (modelo):
         if(any([x in m for x in motocicleta])):
             return 'MOTOCICLETA'
         elif(any([x in m for x in pesado])):
+            if('6X2' in m):
+                print(m)
+
             return 'PESADO'
         #elif(any([x in modelo for x in onibus])):
         #    return 'ONIBUS'
@@ -118,9 +122,9 @@ def get_close_model (df_denatran):
     if(df_denatran['Tipo'] != 'AUTOMOVEL'):
         return ''
     
-    model = df_marca_modelo5[df_denatran.name == df_marca_modelo5['Modelo_A']]
+    model = df_marca_modelo5[df_denatran.name == df_marca_modelo5['Modelo_A']].head(1)
     if(len(model) > 0):
-        return model.head(1)['Modelo_A']
+        return model['Modelo_A']
 
     model = get_close_matches(df_denatran.name, df_marca_modelo5['Modelo_A'], n=1)
 
@@ -157,13 +161,13 @@ df_marca_modelo5['Ano'] = df_marca_modelo5['Ano'].astype(np.int64)
 df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran[['UF', 'Municipio']].apply(tuple, axis=1).isin(df_rms[['UF','Municipio']].apply(tuple, axis=1))]
 df_marca_modelo_denatran.reset_index(drop=True, inplace=True)
 df_marca_modelo_denatran[['Marca','Modelo']] = df_marca_modelo_denatran['Marca_Modelo'].str.split('/', n=1, expand=True)
-marcas_exc = ['SR', 'REB', 'R']
+marcas_exc = ['SR', 'REB', 'R', 'MO', 'M.A.', 'MA', 'MR', 'M.AGRICOLA', 'SE', 'CASE', 'SRM', 'REBOQUE', 'F.PROPRIA']
 df_marca_modelo_denatran = df_marca_modelo_denatran[~df_marca_modelo_denatran['Marca'].isin(marcas_exc)]
 df_marca_modelo_denatran_marca = df_marca_modelo_denatran.groupby(['Marca']).sum().sort_values(by=['Quantidade'], ascending=False)
 df_marca_modelo_denatran[['Modelo_A','Modelo_B','Modelo_C']] = df_marca_modelo_denatran['Modelo'].str.split(' ', n=2, expand=True)
 df_marca_modelo_denatran_null = df_marca_modelo_denatran[df_marca_modelo_denatran['Modelo_A'].isnull()]
 df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['Modelo_A'].notnull()]
-df_marca_modelo_denatran['Tipo'] = df_marca_modelo_denatran[['Marca', 'Modelo_A', 'Modelo_B']].apply(lambda x: get_tipo(x), axis=1)
+df_marca_modelo_denatran['Tipo'] = df_marca_modelo_denatran[['Marca', 'Modelo_A', 'Modelo_B', 'Modelo_C']].apply(lambda x: get_tipo(x), axis=1)
 print(df_marca_modelo_denatran)
 
 df_marca_modelo_denatran_modelos_a = df_marca_modelo_denatran.groupby(['Modelo_A']).sum().sort_values(by=['Quantidade'], ascending=False)
@@ -219,7 +223,7 @@ df_marca_modelo_denatran['VKT'] = df_marca_modelo_denatran['VKT']*df_marca_model
 #df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['VKT'] < 0]
 print(df_marca_modelo_denatran)
 
-df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v1.csv', index=False)
+df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v3.csv', index=False)
 
 df_marca_modelo_denatran_rm = df_marca_modelo_denatran.groupby(['RM'])['VKT'].sum()
-df_marca_modelo_denatran_rm.to_csv('datasets/2020/vkt_v1_rm.csv')
+df_marca_modelo_denatran_rm.to_csv('datasets/2020/vkt_v3_rm.csv')

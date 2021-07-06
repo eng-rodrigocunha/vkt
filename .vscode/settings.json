@@ -1,7 +1,7 @@
 {
-    "python.pythonPath": "C:\\Users\\rodri\\.conda\\envs\\ambiente\\python.exe",
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\envs\\ambiente\\python.exe",
     "python.terminal.activateEnvironment": true,
-    "python.condaPath": "C:\\Users\\rodri\\anaconda3\\Scripts\\conda.exe",
+    "python.condaPath": "C:\\ProgramData\\Anaconda3\\Scripts\\conda.exe",
     "terminal.integrated.automationShell.windows": "C:\\Windows\\System32\\cmd.exe",
     "jupyter.jupyterServerType": "local"
 }

@@ -55,7 +55,7 @@ chave_temp = ''
 for index, row in marcas_modelos3.iterrows():
     #Scraping de Modelos do Veículo
     try:
-        if(index > 5):
+        if(index > 110):
             break
 
         print('Faltam ' + str(len(marcas_modelos3)-index))

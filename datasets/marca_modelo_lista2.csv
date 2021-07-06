@@ -561,7 +561,7 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 24,Maserati,305,Quattroporte,2016
 24,Maserati,306,Spyder,2016
 26,Mercedes-Benz,692,180 D,2022
-26,Mercedes-Benz,317,190,2022
+26,Mercedes-Benz,317,190,1993
 26,Mercedes-Benz,318,230,2022
 26,Mercedes-Benz,1121,240,2022
 26,Mercedes-Benz,2612,250,2022
@@ -840,7 +840,7 @@ Marca_Cod,Marca,Modelo_Cod,Modelo,Ano
 33,Subaru,457,Vivio,2018
 33,Subaru,2521,XV,2018
 34,Suzuki,459,Baleno,2022
-34,Suzuki,749,Grand Vitara,2022
+34,Suzuki,749,Grand Vitara,2015
 34,Suzuki,750,Ignis,2022
 34,Suzuki,751,Jimny,2022
 34,Suzuki,2793,Jimny Sierra,2022

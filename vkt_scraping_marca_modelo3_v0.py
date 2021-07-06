@@ -13,7 +13,7 @@ options.add_argument("--incognito")
 options.headless = True
 driver = webdriver.Chrome(executable_path='C:\\WebDriver\\bin\\chromedriver.exe', options=options)
 
-marcas_modelos2 = pd.read_csv('datasets/priority_v1A.csv')
+marcas_modelos2 = pd.read_csv('datasets/priority_v1B.csv')
 marcas_modelos2['Chave_A'] = marcas_modelos2.apply(lambda x: '{}-{}-{}'.format(x['Marca_Cod'], x['Modelo_Cod'], x['Ano']), axis=1)
 marcas_modelos2.drop_duplicates(subset=['Chave_A'], inplace=True)
 print(marcas_modelos2)
