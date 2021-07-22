@@ -19,19 +19,28 @@ def get_tipo (modelo):
     pesado = ['SCANIA', 'MARCOPOLO', 'AGRALE', 'IVECO', 'MPOLO', 'ITAPEMIRIM', 'INDUSCAR', 'M.BENZ', 'MBENZ', 'MERCEDES BENZ', 'COMIL', 'HDB', 	'F4000', 	'K2500', 	'24.', 	'8.', 	'F600', 	'DUCATO', 	'CARGO', 	'HDLWBSC', 	'11000', 	'FH', 	'13.', 	'19.', 	'BUS', 	'6X2', 	'TRAFIC', 	'11.', 	'4X2', 	'CABINE', 	'EXPRESS', 	'7.', 	'6.', 	'MASTER', 	'F12000', 	'15.', 	'BOXER', 	'9.', 	'23.', 	'5.', 	'26.', 	'18.', 	'JUMPER', 	'12.', 	'EURO', 	'FURG', 	'6X4', 	'F14000', 	'17.', 	'16.', 	'CASA', 	'TRANSIT', 	'B58', 	'N10', 	'ESCOLAR', 	'1618', 	'C60', 	'13000', 	'DAF', 	'1200', 	'MASCA', 	'TRANSFORMERS', 	'700', 	'K2700', 	'NEOBUS', 	'14.', 	'K2400', 	'4030', 	'2425', 	'F2000', 	'1723', 	'1519', 	'F11000', 	'6150', 	'FNM', 	'1418', 	'BUSSCAR', 	'C300', 	'1317', 	'CIFERAL', 	'D6803', 	'D70', 	'6100', 	'1722', 	'14000', 	'T12000', 	'C650', 	'1719', 	'APACHE', 	'GMC', 	'B10', 	'MOTOR-CASA', 	'2626', 	'6000', 	'1419', 	'D11000', 	'JUMP', 	'7900', '4000', 'NL10', '8X2']
     #onibus = ['']
     #caminhao = ['']
+    a = 0
+    mt = 0
+    p = 0
     for m in modelo:
         if(m is None):
             continue
         if(any([x in m for x in automovel])):
-            return 'AUTOMOVEL'
+            a = a + 1
         if(any([x in m for x in motocicleta])):
-            return 'MOTOCICLETA'
-        elif(any([x in m for x in pesado])):
-            return 'PESADO'
-        #elif(any([x in modelo for x in onibus])):
-        #    return 'ONIBUS'
-        #elif(any([x in modelo for x in caminhao])):
-        #    return 'CAMINHAO'
+            mt =  mt + 1
+        if(any([x in m for x in pesado])):
+            p = p + 1
+
+    if(a >= mt | a >= p):
+        return 'AUTOMOVEL'
+
+    if(mt >= p | mt >= a):
+        return 'MOTOCICLETA'
+
+    if(p >= a | p >= mt):
+        return 'PESADO'
+
     return 'AUTOMOVEL'
 
 def get_vkt (df, ano_base):
@@ -151,7 +160,7 @@ def get_close_model_b (df_denatran):
 df_rms = pd.read_csv('datasets/rms_rev02.csv')
 print(df_rms)
 
-df_marca_modelo_denatran = pd.read_csv('datasets/2020/I_Frota_por_UF_Municipio_Marca_e_Modelo_Ano_Dezembro_2020.txt', sep=';')
+df_marca_modelo_denatran = pd.read_csv('datasets/2020/I_Frota_por_UF_Municipio_Marca_e_Modelo_Ano_Dezembro_2020.txt', sep=';', nrows=50000)
 df_marca_modelo_denatran.rename(columns={'Município': 'Municipio', 'Marca Modelo': 'Marca_Modelo', 'Ano Fabricação Veículo CRV': 'Ano', 'Qtd. Veículos': 'Quantidade'}, inplace = True)
 
 df_marca_modelo5 = pd.read_csv('datasets/marca_modelo_lista5_priority.csv')
@@ -172,13 +181,17 @@ print(df_marca_modelo_denatran)
 
 df_marca_modelo_denatran_modelos_a = df_marca_modelo_denatran.groupby(['Modelo_A']).sum().sort_values(by=['Quantidade'], ascending=False)
 df_marca_modelo_denatran_modelos_b = df_marca_modelo_denatran.groupby(['Modelo_B']).sum().sort_values(by=['Quantidade'], ascending=False)
+df_marca_modelo_denatran_modelos_c = df_marca_modelo_denatran.groupby(['Modelo_C']).sum().sort_values(by=['Quantidade'], ascending=False)
 df_marca_modelo_denatran_modelos_a = df_marca_modelo_denatran_modelos_a[df_marca_modelo_denatran_modelos_a['Quantidade'] > np.percentile(df_marca_modelo_denatran_modelos_a['Quantidade'],95)]
 df_marca_modelo_denatran_modelos_b = df_marca_modelo_denatran_modelos_b[df_marca_modelo_denatran_modelos_b['Quantidade'] > np.percentile(df_marca_modelo_denatran_modelos_b['Quantidade'],95)]
+df_marca_modelo_denatran_modelos_c = df_marca_modelo_denatran_modelos_c[df_marca_modelo_denatran_modelos_c['Quantidade'] > np.percentile(df_marca_modelo_denatran_modelos_c['Quantidade'],95)]
 
 df_marca_modelo_denatran_modelos_a['Tipo'] = df_marca_modelo_denatran_modelos_a.index.map(lambda x: get_tipo(x))
 df_marca_modelo_denatran_modelos_a['Modelo_iCarros_A'] = df_marca_modelo_denatran_modelos_a.apply(get_close_model, axis=1)
 df_marca_modelo_denatran_modelos_b['Tipo'] = df_marca_modelo_denatran_modelos_b.index.map(lambda x: get_tipo(x))
 df_marca_modelo_denatran_modelos_b['Modelo_iCarros_B'] = df_marca_modelo_denatran_modelos_b.apply(get_close_model, axis=1)
+df_marca_modelo_denatran_modelos_c['Tipo'] = df_marca_modelo_denatran_modelos_c.index.map(lambda x: get_tipo(x))
+df_marca_modelo_denatran_modelos_c['Modelo_iCarros_C'] = df_marca_modelo_denatran_modelos_c.apply(get_close_model, axis=1)
 
 df_marca_modelo_denatran_sem_ano = df_marca_modelo_denatran[~df_marca_modelo_denatran['Ano'].map(lambda x: x.isnumeric())]
 df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['Ano'].map(lambda x: x.isnumeric())]
@@ -188,33 +201,41 @@ df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo_de
 #print(df_marca_modelo_denatran)
 df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo_denatran_modelos_b['Modelo_iCarros_B'], on='Modelo_B', how='outer')
 #print(df_marca_modelo_denatran)
-'''
-df_marca_modelo_denatran = df_marca_modelo_denatran.rename(columns={'Modelo_iCarros_A': 'Modelo_iCarros_A_t', 'Modelo_iCarros_B': 'Modelo_iCarros_B_t'})
-df_marca_modelo_denatran['Modelo_iCarros_A'] = df_marca_modelo_denatran['Modelo_iCarros_A_t'].where(df_marca_modelo_denatran['Modelo_iCarros_A_t'].notnull(), df_marca_modelo_denatran['Modelo_A'])
-df_marca_modelo_denatran['Modelo_iCarros_B'] = df_marca_modelo_denatran['Modelo_iCarros_B_t'].where(df_marca_modelo_denatran['Modelo_iCarros_B_t'].notnull(), df_marca_modelo_denatran['Modelo_B'])
-df_marca_modelo_denatran = df_marca_modelo_denatran.drop(['Modelo_iCarros_A_t','Modelo_iCarros_B_t'],axis=1)
+df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo_denatran_modelos_c['Modelo_iCarros_C'], on='Modelo_C', how='outer')
+
+df_marca_modelo_denatran = df_marca_modelo_denatran.rename(columns={'Modelo_iCarros_A': 'Modelo_iCarros_A_t', 'Modelo_iCarros_B': 'Modelo_iCarros_B_t', 'Modelo_iCarros_C': 'Modelo_iCarros_C_t'})
+df_marca_modelo_denatran['Modelo_iCarros_A'] = df_marca_modelo_denatran['Modelo_iCarros_A_t'].where(df_marca_modelo_denatran['Modelo_iCarros_A_t'].isnull(), df_marca_modelo_denatran['Modelo_A'])
+df_marca_modelo_denatran['Modelo_iCarros_B'] = df_marca_modelo_denatran['Modelo_iCarros_B_t'].where(df_marca_modelo_denatran['Modelo_iCarros_B_t'].isnull(), df_marca_modelo_denatran['Modelo_B'])
+df_marca_modelo_denatran['Modelo_iCarros_C'] = df_marca_modelo_denatran['Modelo_iCarros_C_t'].where(df_marca_modelo_denatran['Modelo_iCarros_C_t'].isnull(), df_marca_modelo_denatran['Modelo_C'])
+df_marca_modelo_denatran = df_marca_modelo_denatran.drop(['Modelo_iCarros_A_t','Modelo_iCarros_B_t','Modelo_iCarros_C_t'], axis=1)
+
 df_marca_modelo5 = df_marca_modelo5.rename(columns={'Modelo_A': 'Modelo_iCarros_A'})
-print(df_marca_modelo_denatran)
 df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo5[['Modelo_iCarros_A', 'Ano', 'Combustivel', 'Consumo_Cidade_Gasolina', 'Consumo_Cidade_Alcool']], on=['Modelo_iCarros_A', 'Ano'], how='outer')
-print(df_marca_modelo_denatran)
 df_marca_modelo5 = df_marca_modelo5.rename(columns={'Modelo_iCarros_A': 'Modelo_iCarros_B'})
-df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo5[['Modelo_iCarros_B', 'Ano', 'Combustivel', 'Consumo_Cidade_Gasolina', 'Consumo_Cidade_Alcool']], on=['Modelo_iCarros_B', 'Ano'], how='left', suffixes=[None, '_B'])
-print(df_marca_modelo_denatran)
+df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo5[['Modelo_iCarros_B', 'Ano', 'Combustivel', 'Consumo_Cidade_Gasolina', 'Consumo_Cidade_Alcool']], on=['Modelo_iCarros_B', 'Ano'], how='left', suffixes=['_A', '_B'])
+df_marca_modelo5 = df_marca_modelo5.rename(columns={'Modelo_iCarros_B': 'Modelo_iCarros_C'})
+df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo5[['Modelo_iCarros_C', 'Ano', 'Combustivel', 'Consumo_Cidade_Gasolina', 'Consumo_Cidade_Alcool']], on=['Modelo_iCarros_C', 'Ano'], how='left', suffixes=['_C', '_C'])
+
 '''
 df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo5[['Modelo_A', 'Ano', 'Combustivel', 'Consumo_Cidade_Gasolina', 'Consumo_Cidade_Alcool']], on=['Modelo_A', 'Ano'], how='outer')
 df_marca_modelo5 = df_marca_modelo5.rename(columns={'Modelo_A': 'Modelo_B'})
 df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo5[['Modelo_B', 'Ano', 'Combustivel', 'Consumo_Cidade_Gasolina', 'Consumo_Cidade_Alcool']], on=['Modelo_B', 'Ano'], how='outer', suffixes=['_A', '_B'])
-print(df_marca_modelo_denatran)
+df_marca_modelo5 = df_marca_modelo5.rename(columns={'Modelo_B': 'Modelo_C'})
+df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_marca_modelo5[['Modelo_C', 'Ano', 'Combustivel', 'Consumo_Cidade_Gasolina', 'Consumo_Cidade_Alcool']], on=['Modelo_C', 'Ano'], how='outer', suffixes=['_C', '_D'])
+'''
 df_marca_modelo_denatran = pd.merge(df_marca_modelo_denatran, df_rms[['Municipio', 'RM', 'Capital']], on='Municipio', how='left')
-print(df_marca_modelo_denatran)
-#df_marca_modelo_denatran = df_marca_modelo_denatran.query("'Quantidade' != 0")
-#print(df_marca_modelo_denatran)
 
-#print(df_marca_modelo_denatran)
+#Definir qual consumo será adotado
+#Definir qual tipo de combustível
+#Inserir consumo
+#Calcular médias para os faltantes
+
+
 df_marca_modelo_denatran['Combustivel'] = df_marca_modelo_denatran[['Tipo', 'Combustivel_A', 'Combustivel_B']].apply(lambda x: get_comb(x), axis=1)
 df_marca_modelo_denatran['VKT'] = df_marca_modelo_denatran[['Ano', 'Combustivel', 'Tipo']].apply(lambda x: get_vkt(x, 2020), axis=1)
 print(df_marca_modelo_denatran)
 #df_marca_modelo_denatran = df_marca_modelo_denatran.query("'VKT' != 'ERRO'")
+df_marca_modelo_denatran_vkt_erro = df_marca_modelo_denatran[df_marca_modelo_denatran['VKT'] == 'ERRO']
 df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['VKT'] != 'ERRO']
 print(df_marca_modelo_denatran)
 #print(df_marca_modelo_denatran)
@@ -223,7 +244,7 @@ df_marca_modelo_denatran['VKT'] = df_marca_modelo_denatran['VKT']*df_marca_model
 #df_marca_modelo_denatran = df_marca_modelo_denatran[df_marca_modelo_denatran['VKT'] < 0]
 print(df_marca_modelo_denatran)
 
-df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v5.csv', index=False)
+df_marca_modelo_denatran.to_csv('datasets/2020/vkt_v6.csv', index=False)
 
 df_marca_modelo_denatran_rm = df_marca_modelo_denatran.groupby(['RM'])['VKT'].sum()
-df_marca_modelo_denatran_rm.to_csv('datasets/2020/vkt_v5_rm.csv')
+df_marca_modelo_denatran_rm.to_csv('datasets/2020/vkt_v6_rm.csv')

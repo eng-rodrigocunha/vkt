@@ -1,0 +1,78 @@
+Ano,Subtipo,Combustivel,Consumo
+2003,≤ 150 cc,Gasolina,nd
+2003,>150 e ≤ 500 cc,Gasolina,nd
+2003,≥ 501 cc,Gasolina,nd
+2004,≤ 150 cc,Gasolina,nd
+2004,>150 e ≤ 500 cc,Gasolina,nd
+2004,≥ 501 cc,Gasolina,nd
+2005,≤ 150 cc,Gasolina,nd
+2005,>150 e  ≤ 500 cc,Gasolina,nd
+2005,≥ 501 cc,Gasolina,nd
+2006,≤ 150 cc,Gasolina,nd
+2006,>150 e ≤ 500 cc,Gasolina,nd
+2006,≥ 501 cc,Gasolina,nd
+2007,≤ 150 cc,Gasolina,nd
+2007,>150 e ≤ 500 cc,Gasolina,nd
+2007,≥ 501 cc,Gasolina,nd
+2008,≤ 150 cc,Gasolina,nd
+2008,>150 e ≤ 500 cc,Gasolina,nd
+2008,≥ 501 cc,Gasolina,nd
+2009,≤ 150 cc,Gasolina,nd
+2009,>150 e ≤ 500 cc,Gasolina,nd
+2009,≥ 501 cc,Gasolina,nd
+2010,≤ 150 cc,Gasolina,nd
+2010,> 150 cc,Gasolina,nd
+2010,≤ 150 cc,Flex -Gasolina,nd
+2010,≤ 150 cc,Flex -Etanol,nd
+2011,≤ 150 cc,Gasolina,38.5
+2011,> 150 cc,Gasolina,27.2
+2011,≤ 150 cc,Flex -Gasolina,42.8
+2011,≤ 150 cc,Flex -Etanol,28.0
+2012,≤ 150 cc,Gasolina,37.8
+2012,> 150 cc,Gasolina,26.5
+2012,≤ 150 cc,Flex -Gasolina,43.2
+2012,> 150 cc,Flex -Gasolina,29.4
+2012,≤ 150 cc,Flex -Etanol,29.3
+2012,> 150 cc,Flex -Etanol,19.4
+2013,≤ 150 cc,Gasolina,40.9
+2013,> 150 cc,Gasolina,27.4
+2013,≤ 150 cc,Flex -Gasolina,42.5
+2013,> 150 cc,Flex -Gasolina,27.6
+2013,≤ 150 cc,Flex -Etanol,29.4
+2013,> 150 cc,Flex -Etanol,18.3
+2014,≤ 150 cc,Gasolina,40.9
+2014,> 150 cc,Gasolina,27.4
+2014,≤ 150 cc,Flex -Gasolina,42.5
+2014,> 150 cc,Flex -Gasolina,27.6
+2014,≤ 150 cc,Flex -Etanol,29.4
+2014,> 150 cc,Flex -Etanol,18.3
+2015,≤ 150 cc,Gasolina,44.2
+2015,> 150 cc,Gasolina,31.1
+2015,≤ 150 cc,Flex -Gasolina,47.2
+2015,> 150 cc,Flex -Gasolina,41.0
+2015,≤ 150 cc,Flex -Etanol,32.5
+2015,> 150 cc,Flex -Etanol,28.3
+2016,≤ 150 cc,Gasolina,45.2
+2016,> 150 cc,Gasolina,35.5
+2016,≤ 150 cc,Flex -Gasolina,45.7
+2016,> 150 cc,Flex -Gasolina,34.3
+2016,≤ 150 cc,Flex -Etanol,31.2
+2016,> 150 cc,Flex -Etanol,23.0
+2017,≤ 150 cc,Gasolina,57.1
+2017,> 150 cc,Gasolina,45.6
+2017,≤ 150 cc,Flex -Gasolina,51.9
+2017,> 150 cc,Flex -Gasolina,44.0
+2017,≤ 150 cc,Flex -Etanol,35.8
+2017,> 150 cc,Flex -Etanol,29.8
+2018,≤ 150 cc,Gasolina,58.5
+2018,> 150 cc,Gasolina,44.2
+2018,≤ 150 cc,Flex -Gasolina,51.5
+2018,> 150 cc,Flex -Gasolina,44.0
+2018,≤ 150 cc,Flex -Etanol,35.6
+2018,> 150 cc,Flex -Etanol,30.3
+2019,≤ 150 cc,Gasolina,55.9
+2019,> 150 cc,Gasolina,43.1
+2019,≤ 150 cc,Flex -Gasolina,53.9
+2019,> 150 cc,Flex -Gasolina,44.0
+2019,≤ 150 cc,Flex -Etanol,36.4
+2019,> 150 cc,Flex -Etanol,30.2

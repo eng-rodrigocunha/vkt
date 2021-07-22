@@ -1,0 +1,98 @@
+Ano,Combustivel,Consumo
+1982,Gasolina C,8.9
+1982,Etanol,7.1
+1983,Gasolina C,9.65
+1983,Etanol,7.9
+1984,Gasolina C,10.19
+1984,Etanol,8.25
+1985,Gasolina C,10.39
+1985,Etanol,8.54
+1986,Gasolina C,10.42
+1986,Etanol,8.46
+1987,Gasolina C,10.64
+1987,Etanol,8.52
+1988,Gasolina C,10.86
+1988,Etanol,8.58
+1989,Gasolina C,11.07
+1989,Etanol,8.65
+1990,Gasolina C,11.82
+1990,Etanol,8.65
+1991,Gasolina C,11.82
+1991,Etanol,8.65
+1992,Gasolina C,10.98
+1992,Etanol,8.01
+1993,Gasolina C,10.98
+1993,Etanol,8.54
+1994,Gasolina C,10.04
+1994,Etanol,7.54
+1995,Gasolina C,10.4
+1995,Etanol,7.54
+1996,Gasolina C,11.04
+1996,Etanol,7.17
+1997,Gasolina C,11.04
+1997,Etanol,7.17
+1998,Gasolina C,11.82
+1998,Etanol,7.41
+1999,Gasolina C,11.82
+1999,Etanol,8.01
+2000,Gasolina C,11.89
+2000,Etanol,6.96
+2001,Gasolina C,11.97
+2001,Etanol,6.96
+2002,Gasolina C,10.9
+2002,Etanol,7.2
+2003,Gasolina C,11.2
+2003,Etanol,7.5
+2003,Flex -Gasol.C,10.3
+2003,Flex -Etanol,6.9
+2004,Gasolina C,11.4
+2004,Etanol,8.6
+2004,Flex -Gasol.C,10.8
+2004,Flex -Etanol,7.3
+2005,Gasolina C,11.3
+2005,Etanol,8.6
+2005,Flex -Gasol.C,11.5
+2005,Flex -Etanol,7.7
+2006,Gasolina C,11.3
+2006,Etanol,6.9
+2006,Flex -Gasol.C,11.7
+2006,Flex -Etanol,7.8
+2007,Gasolina C,11.3
+2007,Flex -Gasol.C,11.7
+2007,Flex -Etanol,7.8
+2008,Gasolina C,9.6
+2008,Flex -Gasol.C,11.4
+2008,Flex -Etanol,7.7
+2009,Gasolina C,9.9
+2009,Flex -Gasol.C,11.5
+2009,Flex -Etanol,7.8
+2010,Gasolina C,10.9
+2010,Flex -Gasol.C,12.3
+2010,Flex -Etanol,8.5
+2011,Gasolina C,11.2
+2011,Flex -Gasol.C,12.2
+2011,Flex -Etanol,8.6
+2012,Gasolina C,11.1
+2012,Flex -Gasol.C,12.1
+2012,Flex -Etanol,8.5
+2013,Gasolina C,11.2
+2013,Flex -Gasol.C,12.4
+2013,Flex -Etanol,8.6
+2014,Gasolina C,11.5
+2014,Flex -Gasol.C,12.7
+2014,Flex -Etanol,8.8
+2015,Gasolina,12.0
+2015,Flex -Gasolina,13.2
+2015,Flex -Etanol,9.2
+2016,Gasolina C,12.5
+2016,Flex -Gasol.C,13.8
+2016,Flex -Etanol,9.6
+2017,Gasolina,13.1
+2017,Flex -Gasolina,14.3
+2017,Flex -Etanol,9.8
+2018,Gasolina C,13.4
+2018,Flex -Gasol.C,14.2
+2018,Flex -Etanol,9.8
+2019,Gasolina,12.1
+2019,Flex -Gasolina,14.5
+2019,Flex -Etanol,10.0

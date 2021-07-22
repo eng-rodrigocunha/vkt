@@ -1,0 +1,162 @@
+Ano,Tipo,Subtipo,Consumo
+1999,Caminhão,Semileves,9.1
+1999,Caminhão,Leves,5.6
+1999,Caminhão,Caminhões Médios,5.6
+1999,Caminhão,Semipesados,3.5
+1999,Caminhão,Pesados,3.5
+1999,Ônibus,Urbanos,2.3
+1999,Ônibus,Rodoviários,3.0
+2000,Caminhão,Semileves,9.1
+2000,Caminhão,Leves,5.6
+2000,Caminhão,Caminhões Médios,5.6
+2000,Caminhão,Semipesados,3.5
+2000,Caminhão,Pesados,3.5
+2000,Ônibus,Urbanos,2.3
+2000,Ônibus,Rodoviários,3.0
+2001,Caminhão,Semileves,9.1
+2001,Caminhão,Leves,5.6
+2001,Caminhão,Caminhões Médios,5.6
+2001,Caminhão,Semipesados,3.5
+2001,Caminhão,Pesados,3.5
+2001,Ônibus,Urbanos,2.3
+2001,Ônibus,Rodoviários,3.0
+2002,Caminhão,Semileves,9.1
+2002,Caminhão,Leves,5.6
+2002,Caminhão,Caminhões Médios,5.6
+2002,Caminhão,Semipesados,3.5
+2002,Caminhão,Pesados,3.5
+2002,Ônibus,Urbanos,2.3
+2002,Ônibus,Rodoviários,3.0
+2003,Caminhão,Semileves,9.1
+2003,Caminhão,Leves,5.6
+2003,Caminhão,Caminhões Médios,5.6
+2003,Caminhão,Semipesados,3.5
+2003,Caminhão,Pesados,3.5
+2003,Ônibus,Urbanos,2.3
+2003,Ônibus,Rodoviários,3.0
+2004,Caminhão,Semileves,9.1
+2004,Caminhão,Leves,5.6
+2004,Caminhão,Caminhões Médios,5.6
+2004,Caminhão,Semipesados,3.5
+2004,Caminhão,Pesados,3.5
+2004,Ônibus,Urbanos,2.3
+2004,Ônibus,Rodoviários,3.0
+2005,Caminhão,Semileves,9.1
+2005,Caminhão,Leves,5.6
+2005,Caminhão,Caminhões Médios,5.6
+2005,Caminhão,Semipesados,3.5
+2005,Caminhão,Pesados,3.5
+2005,Ônibus,Urbanos,2.3
+2005,Ônibus,Rodoviários,3.0
+2006,Caminhão,Semileves,9.1
+2006,Caminhão,Leves,5.6
+2006,Caminhão,Caminhões Médios,5.6
+2006,Caminhão,Semipesados,3.4
+2006,Caminhão,Pesados,3.4
+2006,Ônibus,Urbanos,2.1
+2006,Ônibus,Micro-ônibus,3.4
+2006,Ônibus,Rodoviários,3.2
+2007,Caminhão,Semileves,9.1
+2007,Caminhão,Leves,5.6
+2007,Caminhão,Caminhões Médios,5.6
+2007,Caminhão,Semipesados,3.4
+2007,Caminhão,Pesados,3.4
+2007,Ônibus,Urbanos,2.1
+2007,Ônibus,Micro-ônibus,3.4
+2007,Ônibus,Rodoviários,3.2
+2008,Caminhão,Semileves,9.1
+2008,Caminhão,Leves,5.6
+2008,Caminhão,Caminhões Médios,5.6
+2008,Caminhão,Semipesados,3.4
+2008,Caminhão,Pesados,3.4
+2008,Ônibus,Urbanos,2.1
+2008,Ônibus,Micro-ônibus,3.4
+2008,Ônibus,Rodoviários,3.2
+2009,Caminhão,Semileves,9.1
+2009,Caminhão,Leves,5.6
+2009,Caminhão,Caminhões Médios,5.6
+2009,Caminhão,Semipesados,3.4
+2009,Caminhão,Pesados,3.4
+2009,Ônibus,Urbanos,2.1
+2009,Ônibus,Micro-ônibus,3.4
+2009,Ônibus,Rodoviários,3.2
+2010,Caminhão,Semileves,9.1
+2010,Caminhão,Leves,5.6
+2010,Caminhão,Caminhões Médios,5.6
+2010,Caminhão,Semipesados,3.4
+2010,Caminhão,Pesados,3.4
+2010,Ônibus,Urbanos,2.1
+2010,Ônibus,Micro-ônibus,3.4
+2010,Ônibus,Rodoviários,3.2
+2011,Caminhão,Semileves,9.1
+2011,Caminhão,Leves,5.6
+2011,Caminhão,Caminhões Médios,5.6
+2011,Caminhão,Semipesados,3.4
+2011,Caminhão,Pesados,3.4
+2011,Ônibus,Urbanos,2.1
+2011,Ônibus,Micro-ônibus,3.4
+2011,Ônibus,Rodoviários,3.2
+2012,Caminhão,Semileves,9.1
+2012,Caminhão,Leves,5.6
+2012,Caminhão,Caminhões Médios,5.8
+2012,Caminhão,Semipesados,3.6
+2012,Caminhão,Pesados,3.6
+2012,Ônibus,Urbanos,2.1
+2012,Ônibus,Micro-ônibus,3.4
+2012,Ônibus,Rodoviários,3.4
+2013,Caminhão,Semileves,9.1
+2013,Caminhão,Leves,5.6
+2013,Caminhão,Caminhões Médios,5.8
+2013,Caminhão,Semipesados,3.6
+2013,Caminhão,Pesados,3.6
+2013,Ônibus,Urbanos,2.1
+2013,Ônibus,Micro-ônibus,3.4
+2013,Ônibus,Rodoviários,3.4
+2014,Caminhão,Semileves,9.1
+2014,Caminhão,Leves,5.6
+2014,Caminhão,Caminhões Médios,5.8
+2014,Caminhão,Semipesados,3.6
+2014,Caminhão,Pesados,3.6
+2014,Ônibus,Urbanos,2.1
+2014,Ônibus,Micro-ônibus,3.4
+2014,Ônibus,Rodoviários,3.4
+2015,Caminhão,Semileves,9.1
+2015,Caminhão,Leves,5.6
+2015,Caminhão,Caminhões Médios,5.8
+2015,Caminhão,Semipesados,3.6
+2015,Caminhão,Pesados,3.6
+2015,Ônibus,Urbanos,2.1
+2015,Ônibus,Micro-ônibus,3.3
+2015,Ônibus,Rodoviários,3.4
+2016,Caminhão,Semileves,9.1
+2016,Caminhão,Leves,5.6
+2016,Caminhão,Caminhões Médios,5.8
+2016,Caminhão,Semipesados,3.6
+2016,Caminhão,Pesados,3.6
+2016,Ônibus,Urbanos,2.1
+2016,Ônibus,Micro-ônibus,3.3
+2016,Ônibus,Rodoviários,3.4
+2017,Caminhão,Semileves,9.1
+2017,Caminhão,Leves,5.6
+2017,Caminhão,Caminhões Médios,5.8
+2017,Caminhão,Semipesados,3.6
+2017,Caminhão,Pesados,3.6
+2017,Ônibus,Urbanos,2.1
+2017,Ônibus,Micro-ônibus,3.3
+2017,Ônibus,Rodoviários,3.4
+2018,Caminhão,Semileves,9.1
+2018,Caminhão,Leves,5.6
+2018,Caminhão,Caminhões Médios,5.8
+2018,Caminhão,Semipesados,3.6
+2018,Caminhão,Pesados,3.6
+2018,Ônibus,Urbanos,2.1
+2018,Ônibus,Micro-ônibus,3.3
+2018,Ônibus,Rodoviários,3.4
+2019,Caminhão,Semileves,9.1
+2019,Caminhão,Leves,5.6
+2019,Caminhão,Caminhões Médios,5.8
+2019,Caminhão,Semipesados,3.6
+2019,Caminhão,Pesados,3.6
+2019,Ônibus,Urbanos,2.1
+2019,Ônibus,Micro-ônibus,3.3
+2019,Ônibus,Rodoviários,3.4
