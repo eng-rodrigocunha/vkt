@@ -1,0 +1,880 @@
+RM,Ano,Produto,Valor_Venda
+Campo Grande,2013,DIESEL,2.4323784021070938
+Campo Grande,2013,DIESEL S10,2.6086717741935512
+Campo Grande,2013,ALCOOL,2.0837636897001155
+Campo Grande,2013,GASOLINA,2.933737940026058
+Campo Grande,2013,GNV,1.9841213872832424
+Campo Grande,2014,DIESEL,2.6417349862258974
+Campo Grande,2014,DIESEL S10,2.8102070196311804
+Campo Grande,2014,ALCOOL,2.1065957132298583
+Campo Grande,2014,GASOLINA,2.991692535107132
+Campo Grande,2014,GNV,2.1184357142857113
+Campo Grande,2015,DIESEL,2.9868790012803927
+Campo Grande,2015,DIESEL S10,3.1344417001723155
+Campo Grande,2015,ALCOOL,2.2479341680129115
+Campo Grande,2015,GASOLINA,3.2160771405492645
+Campo Grande,2015,GNV,2.2068224299065426
+Campo Grande,2016,DIESEL,3.2222423208191113
+Campo Grande,2016,DIESEL S10,3.3786956168830704
+Campo Grande,2016,ALCOOL,2.7482153941651126
+Campo Grande,2016,GASOLINA,3.3592934243176282
+Campo Grande,2016,GNV,2.373853333333333
+Campo Grande,2017,DIESEL,3.3536429391504
+Campo Grande,2017,DIESEL S10,3.5576586345381687
+Campo Grande,2017,ALCOOL,3.0407022332506144
+Campo Grande,2017,GASOLINA,3.5888380893300074
+Campo Grande,2017,GNV,2.382974358974359
+Campo Grande,2018,DIESEL,3.600910397295006
+Campo Grande,2018,DIESEL S10,3.7169087346024514
+Campo Grande,2018,ALCOOL,3.2649438305708447
+Campo Grande,2018,GASOLINA,4.151166437414034
+Campo Grande,2018,GNV,2.696000000000001
+Campo Grande,2019,DIESEL,3.576942503638997
+Campo Grande,2019,DIESEL S10,3.6865782073813733
+Campo Grande,2019,ALCOOL,3.3209178807946893
+Campo Grande,2019,GASOLINA,4.046990274093737
+Campo Grande,2019,GNV,2.9416036036036037
+Região Integrada de Desenvolvimento da Grande Teresina,2013,DIESEL,2.300680208333327
+Região Integrada de Desenvolvimento da Grande Teresina,2013,DIESEL S10,2.4234534005037753
+Região Integrada de Desenvolvimento da Grande Teresina,2013,ALCOOL,2.3896911247803234
+Região Integrada de Desenvolvimento da Grande Teresina,2013,GASOLINA,2.7194842138167554
+Região Integrada de Desenvolvimento da Grande Teresina,2014,DIESEL,2.4990318289786058
+Região Integrada de Desenvolvimento da Grande Teresina,2014,DIESEL S10,2.630035665294918
+Região Integrada de Desenvolvimento da Grande Teresina,2014,ALCOOL,2.530082823791037
+Região Integrada de Desenvolvimento da Grande Teresina,2014,GASOLINA,2.8235204309063957
+Região Integrada de Desenvolvimento da Grande Teresina,2015,DIESEL,2.884989086731726
+Região Integrada de Desenvolvimento da Grande Teresina,2015,DIESEL S10,3.0240147727272015
+Região Integrada de Desenvolvimento da Grande Teresina,2015,ALCOOL,2.6851988950276686
+Região Integrada de Desenvolvimento da Grande Teresina,2015,GASOLINA,3.235901287553626
+Região Integrada de Desenvolvimento da Grande Teresina,2016,DIESEL,3.1622610619469285
+Região Integrada de Desenvolvimento da Grande Teresina,2016,DIESEL S10,3.269972495088401
+Região Integrada de Desenvolvimento da Grande Teresina,2016,ALCOOL,3.0984590043923386
+Região Integrada de Desenvolvimento da Grande Teresina,2016,GASOLINA,3.639665188470049
+Região Integrada de Desenvolvimento da Grande Teresina,2017,DIESEL,3.152603471295049
+Região Integrada de Desenvolvimento da Grande Teresina,2017,DIESEL S10,3.2789438775510185
+Região Integrada de Desenvolvimento da Grande Teresina,2017,ALCOOL,3.078305953278014
+Região Integrada de Desenvolvimento da Grande Teresina,2017,GASOLINA,3.6212972651605098
+Região Integrada de Desenvolvimento da Grande Teresina,2017,GNV,3.0223333333333335
+Região Integrada de Desenvolvimento da Grande Teresina,2018,DIESEL,3.5764412393162606
+Região Integrada de Desenvolvimento da Grande Teresina,2018,DIESEL S10,3.6654521169354424
+Região Integrada de Desenvolvimento da Grande Teresina,2018,ALCOOL,3.366571678321674
+Região Integrada de Desenvolvimento da Grande Teresina,2018,GASOLINA,4.375232896652105
+Região Integrada de Desenvolvimento da Grande Teresina,2018,GNV,3.7445
+Região Integrada de Desenvolvimento da Grande Teresina,2019,DIESEL,3.652242757242777
+Região Integrada de Desenvolvimento da Grande Teresina,2019,DIESEL S10,3.739817860746712
+Região Integrada de Desenvolvimento da Grande Teresina,2019,ALCOOL,3.4192673160173133
+Região Integrada de Desenvolvimento da Grande Teresina,2019,GASOLINA,4.501984976525814
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2013,DIESEL,2.3786969311496815
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2013,DIESEL S10,2.5807258658806127
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2013,ALCOOL,2.2230835152046184
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2013,GASOLINA,2.9813856437081374
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2014,DIESEL,2.5634514767931935
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2014,DIESEL S10,2.769686819830711
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2014,ALCOOL,2.3991701602958444
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2014,GASOLINA,3.1195802209361454
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2015,DIESEL,2.8771961840628024
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2015,DIESEL S10,3.0537986933441674
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2015,ALCOOL,2.6440296240029744
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2015,GASOLINA,3.515985625118279
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2016,DIESEL,3.095187086092695
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2016,DIESEL S10,3.2861196581196856
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2016,ALCOOL,2.9542418394090686
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2016,GASOLINA,3.7395529495380293
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2017,DIESEL,3.2177677165354064
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2017,DIESEL S10,3.4147579642579746
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2017,ALCOOL,3.0072567299518407
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2017,GASOLINA,3.8127539789587255
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2018,DIESEL,3.6413163265306197
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2018,DIESEL S10,3.7638076480735903
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2018,ALCOOL,3.190646139913995
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2018,GASOLINA,4.5386858277592115
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2018,GNV,3.89
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2019,DIESEL,3.6931620111732038
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2019,DIESEL S10,3.816140148603683
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2019,ALCOOL,3.0952955778056546
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2019,GASOLINA,4.409073439412527
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2019,GNV,3.674777777777778
+Região Metropolitana da Capital,2013,DIESEL,2.6376543026706165
+Região Metropolitana da Capital,2013,DIESEL S10,2.69641494435616
+Região Metropolitana da Capital,2013,ALCOOL,2.6867954911433207
+Região Metropolitana da Capital,2013,GASOLINA,3.025039940828395
+Região Metropolitana da Capital,2014,DIESEL,2.790482999128161
+Região Metropolitana da Capital,2014,DIESEL S10,2.8882656675749616
+Região Metropolitana da Capital,2014,ALCOOL,2.762033333333328
+Região Metropolitana da Capital,2014,GASOLINA,3.1143846153845844
+Região Metropolitana da Capital,2015,DIESEL,3.0724461538461196
+Região Metropolitana da Capital,2015,DIESEL S10,3.160049549549567
+Região Metropolitana da Capital,2015,ALCOOL,2.9959289617486333
+Região Metropolitana da Capital,2015,GASOLINA,3.514964091403686
+Região Metropolitana da Capital,2016,DIESEL,3.2449264367816086
+Região Metropolitana da Capital,2016,DIESEL S10,3.3440646067415694
+Região Metropolitana da Capital,2016,ALCOOL,3.6544936708860756
+Região Metropolitana da Capital,2016,GASOLINA,3.8786526315789467
+Região Metropolitana da Capital,2017,DIESEL,3.2569900497512503
+Região Metropolitana da Capital,2017,DIESEL S10,3.320198177676536
+Região Metropolitana da Capital,2017,ALCOOL,3.6722807017543913
+Região Metropolitana da Capital,2017,GASOLINA,3.759198717948725
+Região Metropolitana da Capital,2018,DIESEL,3.5991590493601486
+Região Metropolitana da Capital,2018,DIESEL S10,3.6629812206572847
+Região Metropolitana da Capital,2018,ALCOOL,3.7712011173184323
+Região Metropolitana da Capital,2018,GASOLINA,4.261685800604235
+Região Metropolitana da Capital,2019,DIESEL,3.666477358490573
+Região Metropolitana da Capital,2019,DIESEL S10,3.7367337367624702
+Região Metropolitana da Capital,2019,ALCOOL,3.787823834196886
+Região Metropolitana da Capital,2019,GASOLINA,4.115451378809856
+Região Metropolitana da Grande São Luís,2013,DIESEL,2.228387018057592
+Região Metropolitana da Grande São Luís,2013,DIESEL S10,2.3444076433121017
+Região Metropolitana da Grande São Luís,2013,ALCOOL,2.339628686327066
+Região Metropolitana da Grande São Luís,2013,GASOLINA,2.7351635906040057
+Região Metropolitana da Grande São Luís,2014,DIESEL,2.421675862068949
+Região Metropolitana da Grande São Luís,2014,DIESEL S10,2.507033190578164
+Região Metropolitana da Grande São Luís,2014,ALCOOL,2.5239899699097244
+Região Metropolitana da Grande São Luís,2014,GASOLINA,2.9381035856573345
+Região Metropolitana da Grande São Luís,2015,DIESEL,2.766537325676753
+Região Metropolitana da Grande São Luís,2015,DIESEL S10,2.9026515798462484
+Região Metropolitana da Grande São Luís,2015,ALCOOL,2.712370680628262
+Região Metropolitana da Grande São Luís,2015,GASOLINA,3.2445733924611746
+Região Metropolitana da Grande São Luís,2015,GNV,2.899
+Região Metropolitana da Grande São Luís,2016,DIESEL,3.0207126099706514
+Região Metropolitana da Grande São Luís,2016,DIESEL S10,3.1404677716390497
+Região Metropolitana da Grande São Luís,2016,ALCOOL,3.125604784688975
+Região Metropolitana da Grande São Luís,2016,GASOLINA,3.433913284920976
+Região Metropolitana da Grande São Luís,2016,GNV,2.9939999999999998
+Região Metropolitana da Grande São Luís,2017,DIESEL,2.99403650442476
+Região Metropolitana da Grande São Luís,2017,DIESEL S10,3.1170798201236556
+Região Metropolitana da Grande São Luís,2017,ALCOOL,3.2289225225225096
+Região Metropolitana da Grande São Luís,2017,GASOLINA,3.446552017937223
+Região Metropolitana da Grande São Luís,2018,DIESEL,3.3407270408163012
+Região Metropolitana da Grande São Luís,2018,DIESEL S10,3.434313940724453
+Região Metropolitana da Grande São Luís,2018,ALCOOL,3.4393062015503912
+Região Metropolitana da Grande São Luís,2018,GASOLINA,4.030740246748984
+Região Metropolitana da Grande São Luís,2018,GNV,3.474
+Região Metropolitana da Grande São Luís,2019,DIESEL,3.5886388415672865
+Região Metropolitana da Grande São Luís,2019,DIESEL S10,3.6282322469983437
+Região Metropolitana da Grande São Luís,2019,ALCOOL,3.549009032258064
+Região Metropolitana da Grande São Luís,2019,GASOLINA,4.267613804173392
+Região Metropolitana da Grande São Luís,2019,GNV,3.565666666666667
+Região Metropolitana da Grande Vitória,2013,DIESEL,2.3314711373127825
+Região Metropolitana da Grande Vitória,2013,DIESEL S10,2.518824404761902
+Região Metropolitana da Grande Vitória,2013,ALCOOL,2.4804442771083894
+Região Metropolitana da Grande Vitória,2013,GASOLINA,2.864217060637293
+Região Metropolitana da Grande Vitória,2013,GNV,1.8451358811040324
+Região Metropolitana da Grande Vitória,2014,DIESEL,2.51080234899324
+Região Metropolitana da Grande Vitória,2014,DIESEL S10,2.6615895627644677
+Região Metropolitana da Grande Vitória,2014,ALCOOL,2.582680989937457
+Região Metropolitana da Grande Vitória,2014,GASOLINA,2.9847091175751523
+Região Metropolitana da Grande Vitória,2014,GNV,1.842999999999996
+Região Metropolitana da Grande Vitória,2015,DIESEL,2.7919182726623903
+Região Metropolitana da Grande Vitória,2015,DIESEL S10,2.9502710941752484
+Região Metropolitana da Grande Vitória,2015,ALCOOL,2.7756810067310242
+Região Metropolitana da Grande Vitória,2015,GASOLINA,3.3482403119667388
+Região Metropolitana da Grande Vitória,2015,GNV,1.9083098039215702
+Região Metropolitana da Grande Vitória,2016,DIESEL,3.0020091831802267
+Região Metropolitana da Grande Vitória,2016,DIESEL S10,3.139607865818391
+Região Metropolitana da Grande Vitória,2016,ALCOOL,3.1974522632179254
+Região Metropolitana da Grande Vitória,2016,GASOLINA,3.6539885714286227
+Região Metropolitana da Grande Vitória,2016,GNV,2.1909694189602535
+Região Metropolitana da Grande Vitória,2017,DIESEL,3.1028049414824284
+Região Metropolitana da Grande Vitória,2017,DIESEL S10,3.2321904198699367
+Região Metropolitana da Grande Vitória,2017,ALCOOL,3.334760975609739
+Região Metropolitana da Grande Vitória,2017,GASOLINA,3.7093088552915736
+Região Metropolitana da Grande Vitória,2017,GNV,2.2929306569343035
+Região Metropolitana da Grande Vitória,2018,DIESEL,3.4049604015616093
+Região Metropolitana da Grande Vitória,2018,DIESEL S10,3.516623595505582
+Região Metropolitana da Grande Vitória,2018,ALCOOL,3.555878655608887
+Região Metropolitana da Grande Vitória,2018,GASOLINA,4.348297735532563
+Região Metropolitana da Grande Vitória,2018,GNV,2.780656756756756
+Região Metropolitana da Grande Vitória,2019,DIESEL,3.576348776678818
+Região Metropolitana da Grande Vitória,2019,DIESEL S10,3.6732444129123984
+Região Metropolitana da Grande Vitória,2019,ALCOOL,3.5771180007515833
+Região Metropolitana da Grande Vitória,2019,GASOLINA,4.442984877646395
+Região Metropolitana da Grande Vitória,2019,GNV,3.260276381909539
+Região Metropolitana de Aracaju,2013,DIESEL,2.319761723700881
+Região Metropolitana de Aracaju,2013,DIESEL S10,2.4639987623762285
+Região Metropolitana de Aracaju,2013,ALCOOL,2.4667218502738786
+Região Metropolitana de Aracaju,2013,GASOLINA,2.865143290831831
+Região Metropolitana de Aracaju,2013,GNV,1.8665494880546105
+Região Metropolitana de Aracaju,2014,DIESEL,2.4591285211267637
+Região Metropolitana de Aracaju,2014,DIESEL S10,2.6312943294329427
+Região Metropolitana de Aracaju,2014,ALCOOL,2.4882965517241478
+Região Metropolitana de Aracaju,2014,GASOLINA,2.91597780959196
+Região Metropolitana de Aracaju,2014,GNV,1.873071599045349
+Região Metropolitana de Aracaju,2015,DIESEL,2.7586759443339806
+Região Metropolitana de Aracaju,2015,DIESEL S10,3.0317929961089347
+Região Metropolitana de Aracaju,2015,ALCOOL,2.631263116057233
+Região Metropolitana de Aracaju,2015,GASOLINA,3.364903270702848
+Região Metropolitana de Aracaju,2015,GNV,2.0762031249999904
+Região Metropolitana de Aracaju,2016,DIESEL,2.971488188976363
+Região Metropolitana de Aracaju,2016,DIESEL S10,3.2051605504587166
+Região Metropolitana de Aracaju,2016,ALCOOL,3.132753709198818
+Região Metropolitana de Aracaju,2016,GASOLINA,3.6778507223114087
+Região Metropolitana de Aracaju,2016,GNV,2.3412111650485494
+Região Metropolitana de Aracaju,2017,DIESEL,3.0325439429928713
+Região Metropolitana de Aracaju,2017,DIESEL S10,3.236827794561916
+Região Metropolitana de Aracaju,2017,ALCOOL,3.1512347417840294
+Região Metropolitana de Aracaju,2017,GASOLINA,3.7018644986449685
+Região Metropolitana de Aracaju,2017,GNV,2.537407407407407
+Região Metropolitana de Aracaju,2018,DIESEL,3.5003310023310057
+Região Metropolitana de Aracaju,2018,DIESEL S10,3.6715225019069306
+Região Metropolitana de Aracaju,2018,ALCOOL,3.517107818930025
+Região Metropolitana de Aracaju,2018,GASOLINA,4.440193205944789
+Região Metropolitana de Aracaju,2018,GNV,3.0972434210526303
+Região Metropolitana de Aracaju,2019,DIESEL,3.6349066937119754
+Região Metropolitana de Aracaju,2019,DIESEL S10,3.7574986754966884
+Região Metropolitana de Aracaju,2019,ALCOOL,3.478680327868856
+Região Metropolitana de Aracaju,2019,GASOLINA,4.410607682619602
+Região Metropolitana de Aracaju,2019,GNV,3.7108532110091734
+Região Metropolitana de Belo Horizonte,2013,DIESEL,2.3451964361477278
+Região Metropolitana de Belo Horizonte,2013,DIESEL S10,2.481329268292668
+Região Metropolitana de Belo Horizonte,2013,ALCOOL,2.063970696681532
+Região Metropolitana de Belo Horizonte,2013,GASOLINA,2.796538483630105
+Região Metropolitana de Belo Horizonte,2013,GNV,1.7732683333333266
+Região Metropolitana de Belo Horizonte,2014,DIESEL,2.519800033806618
+Região Metropolitana de Belo Horizonte,2014,DIESEL S10,2.6595032317636247
+Região Metropolitana de Belo Horizonte,2014,ALCOOL,2.158409989713106
+Região Metropolitana de Belo Horizonte,2014,GASOLINA,2.8940872899515426
+Região Metropolitana de Belo Horizonte,2014,GNV,1.8833042704626366
+Região Metropolitana de Belo Horizonte,2015,DIESEL,2.8006256028058236
+Região Metropolitana de Belo Horizonte,2015,DIESEL S10,2.9340984117097326
+Região Metropolitana de Belo Horizonte,2015,ALCOOL,2.272141248304009
+Região Metropolitana de Belo Horizonte,2015,GASOLINA,3.2754282857905133
+Região Metropolitana de Belo Horizonte,2015,GNV,2.028756653992399
+Região Metropolitana de Belo Horizonte,2016,DIESEL,2.970292974588928
+Região Metropolitana de Belo Horizonte,2016,DIESEL S10,3.094746718146691
+Região Metropolitana de Belo Horizonte,2016,ALCOOL,2.6674635221512277
+Região Metropolitana de Belo Horizonte,2016,GASOLINA,3.6277790826501723
+Região Metropolitana de Belo Horizonte,2016,GNV,2.3137362637362626
+Região Metropolitana de Belo Horizonte,2017,DIESEL,3.0272586466165237
+Região Metropolitana de Belo Horizonte,2017,DIESEL S10,3.195479325572047
+Região Metropolitana de Belo Horizonte,2017,ALCOOL,2.715289732024412
+Região Metropolitana de Belo Horizonte,2017,GASOLINA,3.7286944072785464
+Região Metropolitana de Belo Horizonte,2017,GNV,2.464391304347827
+Região Metropolitana de Belo Horizonte,2018,DIESEL,3.51676807851237
+Região Metropolitana de Belo Horizonte,2018,DIESEL S10,3.6183755687784234
+Região Metropolitana de Belo Horizonte,2018,ALCOOL,3.0389728571428383
+Região Metropolitana de Belo Horizonte,2018,GASOLINA,4.594496553363523
+Região Metropolitana de Belo Horizonte,2018,GNV,2.7992682926829273
+Região Metropolitana de Belo Horizonte,2019,DIESEL,3.5988696794534727
+Região Metropolitana de Belo Horizonte,2019,DIESEL S10,3.7298676377454494
+Região Metropolitana de Belo Horizonte,2019,ALCOOL,2.9861097279852835
+Região Metropolitana de Belo Horizonte,2019,GASOLINA,4.5760593103448395
+Região Metropolitana de Belo Horizonte,2019,GNV,3.4496992481203
+Região Metropolitana de Belém,2013,DIESEL,2.2685600000000012
+Região Metropolitana de Belém,2013,DIESEL S10,2.4476642382008515
+Região Metropolitana de Belém,2013,ALCOOL,2.4992640692640484
+Região Metropolitana de Belém,2013,GASOLINA,2.8524649468892647
+Região Metropolitana de Belém,2014,DIESEL,2.525483870967741
+Região Metropolitana de Belém,2014,DIESEL S10,2.6523861522562533
+Região Metropolitana de Belém,2014,ALCOOL,2.6537055485498167
+Região Metropolitana de Belém,2014,GASOLINA,2.9712866733803436
+Região Metropolitana de Belém,2015,DIESEL,2.913957055214721
+Região Metropolitana de Belém,2015,DIESEL S10,3.011640877120371
+Região Metropolitana de Belém,2015,ALCOOL,2.8607474226803857
+Região Metropolitana de Belém,2015,GASOLINA,3.3580477129337734
+Região Metropolitana de Belém,2016,DIESEL,3.114795031055907
+Região Metropolitana de Belém,2016,DIESEL S10,3.2972998585572775
+Região Metropolitana de Belém,2016,ALCOOL,3.5160696821515742
+Região Metropolitana de Belém,2016,GASOLINA,3.8350924479166575
+Região Metropolitana de Belém,2017,DIESEL,3.082741525423725
+Região Metropolitana de Belém,2017,DIESEL S10,3.2823964313421166
+Região Metropolitana de Belém,2017,ALCOOL,3.4883215739484186
+Região Metropolitana de Belém,2017,GASOLINA,3.8058614008941936
+Região Metropolitana de Belém,2018,DIESEL,3.5549000000000004
+Região Metropolitana de Belém,2018,DIESEL S10,3.6346391509433733
+Região Metropolitana de Belém,2018,ALCOOL,3.570358037578275
+Região Metropolitana de Belém,2018,GASOLINA,4.3104752808988565
+Região Metropolitana de Belém,2019,DIESEL,3.7327614213197937
+Região Metropolitana de Belém,2019,DIESEL S10,3.870726371061826
+Região Metropolitana de Belém,2019,ALCOOL,3.677192105263156
+Região Metropolitana de Belém,2019,GASOLINA,4.3433883008356675
+Região Metropolitana de Belém,2019,GNV,4.559
+Região Metropolitana de Curitiba,2013,DIESEL,2.2109255381035515
+Região Metropolitana de Curitiba,2013,DIESEL S10,2.362054487179456
+Região Metropolitana de Curitiba,2013,ALCOOL,1.928076438230684
+Região Metropolitana de Curitiba,2013,GASOLINA,2.7793969290708005
+Região Metropolitana de Curitiba,2013,GNV,1.761667481662589
+Região Metropolitana de Curitiba,2014,DIESEL,2.4174289651716303
+Região Metropolitana de Curitiba,2014,DIESEL S10,2.558203621730371
+Região Metropolitana de Curitiba,2014,ALCOOL,2.0231455815202493
+Região Metropolitana de Curitiba,2014,GASOLINA,2.9028564908041674
+Região Metropolitana de Curitiba,2014,GNV,1.924637735849061
+Região Metropolitana de Curitiba,2015,DIESEL,2.6705043620501847
+Região Metropolitana de Curitiba,2015,DIESEL S10,2.817273887434567
+Região Metropolitana de Curitiba,2015,ALCOOL,2.1827072105976373
+Região Metropolitana de Curitiba,2015,GASOLINA,3.1831361035832364
+Região Metropolitana de Curitiba,2015,GNV,2.1643892045454454
+Região Metropolitana de Curitiba,2016,DIESEL,2.8029340396445557
+Região Metropolitana de Curitiba,2016,DIESEL S10,2.9247049831855665
+Região Metropolitana de Curitiba,2016,ALCOOL,2.6721074728807106
+Região Metropolitana de Curitiba,2016,GASOLINA,3.5488631132647086
+Região Metropolitana de Curitiba,2016,GNV,2.4593294117647053
+Região Metropolitana de Curitiba,2017,DIESEL,2.8480156249999844
+Região Metropolitana de Curitiba,2017,DIESEL S10,3.0005093701996994
+Região Metropolitana de Curitiba,2017,ALCOOL,2.7181768459435367
+Região Metropolitana de Curitiba,2017,GASOLINA,3.56520420420429
+Região Metropolitana de Curitiba,2017,GNV,2.5253020134228215
+Região Metropolitana de Curitiba,2018,DIESEL,3.2132401365705747
+Região Metropolitana de Curitiba,2018,DIESEL S10,3.3287931286549726
+Região Metropolitana de Curitiba,2018,ALCOOL,2.9092702557682246
+Região Metropolitana de Curitiba,2018,GASOLINA,4.168045130217678
+Região Metropolitana de Curitiba,2018,GNV,2.710526881720426
+Região Metropolitana de Curitiba,2019,DIESEL,3.301742090508612
+Região Metropolitana de Curitiba,2019,DIESEL S10,3.4013536191793676
+Região Metropolitana de Curitiba,2019,ALCOOL,2.885172929773925
+Região Metropolitana de Curitiba,2019,GASOLINA,4.068974761255037
+Região Metropolitana de Curitiba,2019,GNV,3.1258540540540567
+Região Metropolitana de Florianópolis,2013,DIESEL,2.3698324242424404
+Região Metropolitana de Florianópolis,2013,DIESEL S10,2.514532147742819
+Região Metropolitana de Florianópolis,2013,ALCOOL,2.367919952774505
+Região Metropolitana de Florianópolis,2013,GASOLINA,2.844200502397794
+Região Metropolitana de Florianópolis,2013,GNV,1.9654334705075585
+Região Metropolitana de Florianópolis,2014,DIESEL,2.5480106609808066
+Região Metropolitana de Florianópolis,2014,DIESEL S10,2.685201137538792
+Região Metropolitana de Florianópolis,2014,ALCOOL,2.4415843039378466
+Região Metropolitana de Florianópolis,2014,GASOLINA,2.9734172395557197
+Região Metropolitana de Florianópolis,2014,GNV,2.1267645051194584
+Região Metropolitana de Florianópolis,2015,DIESEL,2.8172822085889537
+Região Metropolitana de Florianópolis,2015,DIESEL S10,2.953574903474869
+Região Metropolitana de Florianópolis,2015,ALCOOL,2.567249931637937
+Região Metropolitana de Florianópolis,2015,GASOLINA,3.2750367722165685
+Região Metropolitana de Florianópolis,2015,GNV,2.094729903536991
+Região Metropolitana de Florianópolis,2016,DIESEL,2.977280205655511
+Região Metropolitana de Florianópolis,2016,DIESEL S10,3.105359820089949
+Região Metropolitana de Florianópolis,2016,ALCOOL,3.117563546187236
+Região Metropolitana de Florianópolis,2016,GASOLINA,3.5560945205480086
+Região Metropolitana de Florianópolis,2016,GNV,2.1474601018675763
+Região Metropolitana de Florianópolis,2017,DIESEL,3.053860058309028
+Região Metropolitana de Florianópolis,2017,DIESEL S10,3.189633093525162
+Região Metropolitana de Florianópolis,2017,ALCOOL,3.280828996282488
+Região Metropolitana de Florianópolis,2017,GASOLINA,3.752209821428624
+Região Metropolitana de Florianópolis,2017,GNV,1.9661405295315724
+Região Metropolitana de Florianópolis,2018,DIESEL,3.2977820025348508
+Região Metropolitana de Florianópolis,2018,DIESEL S10,3.4686848101265815
+Região Metropolitana de Florianópolis,2018,ALCOOL,3.4811738544474595
+Região Metropolitana de Florianópolis,2018,GASOLINA,4.124453255017234
+Região Metropolitana de Florianópolis,2018,GNV,2.3038745019920235
+Região Metropolitana de Florianópolis,2019,DIESEL,3.5572608326253485
+Região Metropolitana de Florianópolis,2019,DIESEL S10,3.657706329884449
+Região Metropolitana de Florianópolis,2019,ALCOOL,3.623017921146977
+Região Metropolitana de Florianópolis,2019,GASOLINA,4.121626086956557
+Região Metropolitana de Florianópolis,2019,GNV,2.8316583710407115
+Região Metropolitana de Fortaleza,2013,DIESEL S10,2.331069913919886
+Região Metropolitana de Fortaleza,2013,ALCOOL,2.32339211660858
+Região Metropolitana de Fortaleza,2013,GASOLINA,2.7932915891329477
+Região Metropolitana de Fortaleza,2013,GNV,1.8821514726507729
+Região Metropolitana de Fortaleza,2014,DIESEL S10,2.5781540366518003
+Região Metropolitana de Fortaleza,2014,ALCOOL,2.449550890895723
+Região Metropolitana de Fortaleza,2014,GASOLINA,2.972920419763848
+Região Metropolitana de Fortaleza,2014,GNV,1.9414358974359014
+Região Metropolitana de Fortaleza,2015,DIESEL S10,3.073944598930637
+Região Metropolitana de Fortaleza,2015,ALCOOL,2.6842254779717845
+Região Metropolitana de Fortaleza,2015,GASOLINA,3.4417460011564334
+Região Metropolitana de Fortaleza,2015,GNV,2.3121264755480624
+Região Metropolitana de Fortaleza,2016,DIESEL S10,3.2674009489919507
+Região Metropolitana de Fortaleza,2016,ALCOOL,3.209431836248207
+Região Metropolitana de Fortaleza,2016,GASOLINA,3.897426716839194
+Região Metropolitana de Fortaleza,2016,GNV,2.607122033898308
+Região Metropolitana de Fortaleza,2017,DIESEL S10,3.267696550341004
+Região Metropolitana de Fortaleza,2017,ALCOOL,3.257671913836046
+Região Metropolitana de Fortaleza,2017,GASOLINA,3.907046036829411
+Região Metropolitana de Fortaleza,2017,GNV,2.757172981878081
+Região Metropolitana de Fortaleza,2018,DIESEL S10,3.6354048722164136
+Região Metropolitana de Fortaleza,2018,ALCOOL,3.578464504284031
+Região Metropolitana de Fortaleza,2018,GASOLINA,4.469012321852752
+Região Metropolitana de Fortaleza,2018,GNV,3.1850154061624543
+Região Metropolitana de Fortaleza,2019,DIESEL S10,3.7914878938157317
+Região Metropolitana de Fortaleza,2019,ALCOOL,3.6846122058824013
+Região Metropolitana de Fortaleza,2019,GASOLINA,4.486301607996504
+Região Metropolitana de Fortaleza,2019,GNV,3.614972327044043
+Região Metropolitana de Goiânia,2013,DIESEL,2.2814440636474997
+Região Metropolitana de Goiânia,2013,DIESEL S10,2.501844827586211
+Região Metropolitana de Goiânia,2013,ALCOOL,1.9225352368003834
+Região Metropolitana de Goiânia,2013,GASOLINA,2.8485135992746287
+Região Metropolitana de Goiânia,2013,GNV,2.1969767441860455
+Região Metropolitana de Goiânia,2014,DIESEL,2.5109383062254054
+Região Metropolitana de Goiânia,2014,DIESEL S10,2.689858117326071
+Região Metropolitana de Goiânia,2014,ALCOOL,2.127628299894334
+Região Metropolitana de Goiânia,2014,GASOLINA,3.0953053797468084
+Região Metropolitana de Goiânia,2014,GNV,2.3133863636363645
+Região Metropolitana de Goiânia,2015,DIESEL,2.8331728183118954
+Região Metropolitana de Goiânia,2015,DIESEL S10,2.9869168278530163
+Região Metropolitana de Goiânia,2015,ALCOOL,2.2380518518518504
+Região Metropolitana de Goiânia,2015,GASOLINA,3.3507160264900517
+Região Metropolitana de Goiânia,2015,GNV,2.662932203389832
+Região Metropolitana de Goiânia,2016,DIESEL,2.972987618353924
+Região Metropolitana de Goiânia,2016,DIESEL S10,3.1162976391231285
+Região Metropolitana de Goiânia,2016,ALCOOL,2.7765072231139425
+Região Metropolitana de Goiânia,2016,GASOLINA,3.8274108003857434
+Região Metropolitana de Goiânia,2016,GNV,2.8661999999999987
+Região Metropolitana de Goiânia,2017,DIESEL,3.1090286259541546
+Região Metropolitana de Goiânia,2017,DIESEL S10,3.2898887362637264
+Região Metropolitana de Goiânia,2017,ALCOOL,2.785108537849965
+Região Metropolitana de Goiânia,2017,GASOLINA,3.9226574106212935
+Região Metropolitana de Goiânia,2018,DIESEL,3.507865116279043
+Região Metropolitana de Goiânia,2018,DIESEL S10,3.6188440438871603
+Região Metropolitana de Goiânia,2018,ALCOOL,2.916161558441601
+Região Metropolitana de Goiânia,2018,GASOLINA,4.6429803057787895
+Região Metropolitana de Goiânia,2019,DIESEL,3.558608998393121
+Região Metropolitana de Goiânia,2019,DIESEL S10,3.707993595217755
+Região Metropolitana de Goiânia,2019,ALCOOL,2.986657426246212
+Região Metropolitana de Goiânia,2019,GASOLINA,4.5498404609474985
+Região Metropolitana de João Pessoa,2013,DIESEL,2.232935483870981
+Região Metropolitana de João Pessoa,2013,DIESEL S10,2.4083767361111206
+Região Metropolitana de João Pessoa,2013,ALCOOL,2.257495113096887
+Região Metropolitana de João Pessoa,2013,GASOLINA,2.7496746666666154
+Região Metropolitana de João Pessoa,2013,GNV,1.8134219114219219
+Região Metropolitana de João Pessoa,2014,DIESEL,2.4125630072618716
+Região Metropolitana de João Pessoa,2014,DIESEL S10,2.6033462603878137
+Região Metropolitana de João Pessoa,2014,ALCOOL,2.279120683985529
+Região Metropolitana de João Pessoa,2014,GASOLINA,2.831823052959472
+Região Metropolitana de João Pessoa,2014,GNV,1.8814550458715718
+Região Metropolitana de João Pessoa,2015,DIESEL,2.7004842377261036
+Região Metropolitana de João Pessoa,2015,DIESEL S10,2.8503805379746643
+Região Metropolitana de João Pessoa,2015,ALCOOL,2.3458226620100877
+Região Metropolitana de João Pessoa,2015,GASOLINA,3.0934516246805344
+Região Metropolitana de João Pessoa,2015,GNV,2.0648495575221215
+Região Metropolitana de João Pessoa,2016,DIESEL,2.9578957795003937
+Região Metropolitana de João Pessoa,2016,DIESEL S10,3.0587718832891118
+Região Metropolitana de João Pessoa,2016,ALCOOL,2.981195754716948
+Região Metropolitana de João Pessoa,2016,GASOLINA,3.6026662915025027
+Região Metropolitana de João Pessoa,2016,GNV,2.3426751412429287
+Região Metropolitana de João Pessoa,2017,DIESEL,3.002351635514012
+Região Metropolitana de João Pessoa,2017,DIESEL S10,3.0929697828139773
+Região Metropolitana de João Pessoa,2017,ALCOOL,2.939364134154645
+Região Metropolitana de João Pessoa,2017,GASOLINA,3.6104976775049757
+Região Metropolitana de João Pessoa,2017,GNV,2.5669750000000033
+Região Metropolitana de João Pessoa,2018,DIESEL,3.403245634458673
+Região Metropolitana de João Pessoa,2018,DIESEL S10,3.4863700996677522
+Região Metropolitana de João Pessoa,2018,ALCOOL,3.140795580110458
+Região Metropolitana de João Pessoa,2018,GASOLINA,4.177515151515133
+Região Metropolitana de João Pessoa,2018,GNV,3.234964412811397
+Região Metropolitana de João Pessoa,2019,DIESEL,3.5797067371202145
+Região Metropolitana de João Pessoa,2019,DIESEL S10,3.6073062060889636
+Região Metropolitana de João Pessoa,2019,ALCOOL,3.2610736132710936
+Região Metropolitana de João Pessoa,2019,GASOLINA,4.246621134020576
+Região Metropolitana de João Pessoa,2019,GNV,3.6977168539326097
+Região Metropolitana de Macapá,2013,DIESEL,2.297994366197177
+Região Metropolitana de Macapá,2013,DIESEL S10,2.8141634241245117
+Região Metropolitana de Macapá,2013,ALCOOL,2.4366502463054234
+Região Metropolitana de Macapá,2013,GASOLINA,2.816999090081902
+Região Metropolitana de Macapá,2014,DIESEL,2.5538159509202463
+Região Metropolitana de Macapá,2014,DIESEL S10,3.0019327485380165
+Região Metropolitana de Macapá,2014,ALCOOL,2.7442592592592576
+Região Metropolitana de Macapá,2014,GASOLINA,2.935441890166045
+Região Metropolitana de Macapá,2015,DIESEL,2.9686057268722457
+Região Metropolitana de Macapá,2015,DIESEL S10,3.3924703557312124
+Região Metropolitana de Macapá,2015,ALCOOL,2.8568750000000014
+Região Metropolitana de Macapá,2015,GASOLINA,3.3224076086956633
+Região Metropolitana de Macapá,2016,DIESEL,3.5355560344827697
+Região Metropolitana de Macapá,2016,DIESEL S10,3.9788677811550057
+Região Metropolitana de Macapá,2016,ALCOOL,3.6602926829268285
+Região Metropolitana de Macapá,2016,GASOLINA,3.656966408268738
+Região Metropolitana de Macapá,2016,GNV,2.899125
+Região Metropolitana de Macapá,2017,DIESEL,3.5696911281489454
+Região Metropolitana de Macapá,2017,DIESEL S10,4.058911711711716
+Região Metropolitana de Macapá,2017,ALCOOL,3.770787878787881
+Região Metropolitana de Macapá,2017,GASOLINA,3.6844937238493785
+Região Metropolitana de Macapá,2018,DIESEL,3.8826166219838925
+Região Metropolitana de Macapá,2018,DIESEL S10,4.40604107830552
+Região Metropolitana de Macapá,2018,ALCOOL,3.743475
+Região Metropolitana de Macapá,2018,GASOLINA,4.078939871152452
+Região Metropolitana de Macapá,2019,DIESEL,4.1737981407702645
+Região Metropolitana de Macapá,2019,DIESEL S10,4.613268225584594
+Região Metropolitana de Macapá,2019,ALCOOL,3.7498275862068966
+Região Metropolitana de Macapá,2019,GASOLINA,3.9472724184782315
+Região Metropolitana de Maceió,2013,DIESEL,2.2882372611464956
+Região Metropolitana de Maceió,2013,DIESEL S10,2.421916853932587
+Região Metropolitana de Maceió,2013,ALCOOL,2.4256197850821564
+Região Metropolitana de Maceió,2013,GASOLINA,2.8666741263029327
+Região Metropolitana de Maceió,2013,GNV,1.9498925143954133
+Região Metropolitana de Maceió,2014,DIESEL,2.4624203371397098
+Região Metropolitana de Maceió,2014,DIESEL S10,2.644074589127681
+Região Metropolitana de Maceió,2014,ALCOOL,2.515526004728136
+Região Metropolitana de Maceió,2014,GASOLINA,2.985547975191515
+Região Metropolitana de Maceió,2014,GNV,1.983508235294124
+Região Metropolitana de Maceió,2015,DIESEL,2.7735518644067634
+Região Metropolitana de Maceió,2015,DIESEL S10,2.9051451776649633
+Região Metropolitana de Maceió,2015,ALCOOL,2.5912654627539475
+Região Metropolitana de Maceió,2015,GASOLINA,3.3102724601175457
+Região Metropolitana de Maceió,2015,GNV,2.1198587570621386
+Região Metropolitana de Maceió,2016,DIESEL,2.9904364161849544
+Região Metropolitana de Maceió,2016,DIESEL S10,3.127326745718037
+Região Metropolitana de Maceió,2016,ALCOOL,3.200444211994421
+Região Metropolitana de Maceió,2016,GASOLINA,3.7415275840202855
+Região Metropolitana de Maceió,2016,GNV,2.32579141104294
+Região Metropolitana de Maceió,2017,DIESEL,3.094650537634405
+Região Metropolitana de Maceió,2017,DIESEL S10,3.2104799999999982
+Região Metropolitana de Maceió,2017,ALCOOL,3.2007738486842108
+Região Metropolitana de Maceió,2017,GASOLINA,3.852436857562396
+Região Metropolitana de Maceió,2017,GNV,2.5166073619631883
+Região Metropolitana de Maceió,2018,DIESEL,3.583778443113779
+Região Metropolitana de Maceió,2018,DIESEL S10,3.6590792682926705
+Região Metropolitana de Maceió,2018,ALCOOL,3.4684453608247297
+Região Metropolitana de Maceió,2018,GASOLINA,4.5446469824789055
+Região Metropolitana de Maceió,2018,GNV,2.8696438356164435
+Região Metropolitana de Maceió,2019,DIESEL,3.74455431309904
+Região Metropolitana de Maceió,2019,DIESEL S10,3.8211370967741756
+Região Metropolitana de Maceió,2019,ALCOOL,3.5487079303674802
+Região Metropolitana de Maceió,2019,GASOLINA,4.4790354654844995
+Região Metropolitana de Maceió,2019,GNV,3.500090909090923
+Região Metropolitana de Manaus,2013,DIESEL,2.3828112745098564
+Região Metropolitana de Manaus,2013,DIESEL S10,2.5034106145251505
+Região Metropolitana de Manaus,2013,ALCOOL,2.4395266594124587
+Região Metropolitana de Manaus,2013,GASOLINA,3.005758942766126
+Região Metropolitana de Manaus,2013,GNV,1.9528947368421066
+Região Metropolitana de Manaus,2014,DIESEL,2.6141595268542464
+Região Metropolitana de Manaus,2014,DIESEL S10,2.736000610873575
+Região Metropolitana de Manaus,2014,ALCOOL,2.556642388246341
+Região Metropolitana de Manaus,2014,GASOLINA,3.1910980113637852
+Região Metropolitana de Manaus,2014,GNV,2.1094444444444447
+Região Metropolitana de Manaus,2015,DIESEL,3.0051147421930797
+Região Metropolitana de Manaus,2015,DIESEL S10,3.1147516274412137
+Região Metropolitana de Manaus,2015,ALCOOL,2.7886482710443263
+Região Metropolitana de Manaus,2015,GASOLINA,3.6227340950403235
+Região Metropolitana de Manaus,2015,GNV,2.318474576271185
+Região Metropolitana de Manaus,2016,DIESEL,3.2707086477075067
+Região Metropolitana de Manaus,2016,DIESEL S10,3.3675178571428597
+Região Metropolitana de Manaus,2016,ALCOOL,3.3415279503105406
+Região Metropolitana de Manaus,2016,GASOLINA,3.842829210836352
+Região Metropolitana de Manaus,2016,GNV,2.838499999999999
+Região Metropolitana de Manaus,2017,DIESEL,3.2806331360946945
+Região Metropolitana de Manaus,2017,DIESEL S10,3.3995122739018075
+Região Metropolitana de Manaus,2017,ALCOOL,3.3173385345997057
+Região Metropolitana de Manaus,2017,GASOLINA,3.853436693548391
+Região Metropolitana de Manaus,2017,GNV,2.892439024390243
+Região Metropolitana de Manaus,2018,DIESEL,3.6050216931216688
+Região Metropolitana de Manaus,2018,DIESEL S10,3.7083112377006886
+Região Metropolitana de Manaus,2018,ALCOOL,3.550686335403719
+Região Metropolitana de Manaus,2018,GASOLINA,4.543504999999964
+Região Metropolitana de Manaus,2018,GNV,3.1196226415094337
+Região Metropolitana de Manaus,2019,DIESEL,3.789193967758697
+Região Metropolitana de Manaus,2019,DIESEL S10,3.863099019607843
+Região Metropolitana de Manaus,2019,ALCOOL,3.3985275895450195
+Região Metropolitana de Manaus,2019,GASOLINA,4.2480806916426515
+Região Metropolitana de Manaus,2019,GNV,3.171411764705883
+Região Metropolitana de Natal,2013,DIESEL,2.2555077837531625
+Região Metropolitana de Natal,2013,DIESEL S10,2.5079050505050464
+Região Metropolitana de Natal,2013,ALCOOL,2.427012563485634
+Região Metropolitana de Natal,2013,GASOLINA,2.8598466209081588
+Região Metropolitana de Natal,2013,GNV,1.901940430925221
+Região Metropolitana de Natal,2014,DIESEL,2.4902772553117054
+Região Metropolitana de Natal,2014,DIESEL S10,2.76889696586601
+Região Metropolitana de Natal,2014,ALCOOL,2.6253711340205594
+Região Metropolitana de Natal,2014,GASOLINA,3.0128923955515927
+Região Metropolitana de Natal,2014,GNV,1.974191558441558
+Região Metropolitana de Natal,2015,DIESEL,2.774009860312233
+Região Metropolitana de Natal,2015,DIESEL S10,3.036366114377322
+Região Metropolitana de Natal,2015,ALCOOL,2.6879898916967297
+Região Metropolitana de Natal,2015,GASOLINA,3.32366320723137
+Região Metropolitana de Natal,2015,GNV,2.1003864598025306
+Região Metropolitana de Natal,2016,DIESEL,3.083352903225802
+Região Metropolitana de Natal,2016,DIESEL S10,3.2797723035952013
+Região Metropolitana de Natal,2016,ALCOOL,3.1862155913978043
+Região Metropolitana de Natal,2016,GASOLINA,3.8104478957915733
+Região Metropolitana de Natal,2016,GNV,2.4709369369369383
+Região Metropolitana de Natal,2017,DIESEL,3.113635489510478
+Região Metropolitana de Natal,2017,DIESEL S10,3.2742019230769346
+Região Metropolitana de Natal,2017,ALCOOL,3.2174691358024865
+Região Metropolitana de Natal,2017,GASOLINA,3.8204501492537406
+Região Metropolitana de Natal,2017,GNV,2.608375358166187
+Região Metropolitana de Natal,2018,DIESEL,3.5721738437001425
+Região Metropolitana de Natal,2018,DIESEL S10,3.7040462427745586
+Região Metropolitana de Natal,2018,ALCOOL,3.474983536909197
+Região Metropolitana de Natal,2018,GASOLINA,4.405718117408914
+Região Metropolitana de Natal,2018,GNV,3.1960819672131007
+Região Metropolitana de Natal,2019,DIESEL,3.719201201201197
+Região Metropolitana de Natal,2019,DIESEL S10,3.8513728448275626
+Região Metropolitana de Natal,2019,ALCOOL,3.609748387096732
+Região Metropolitana de Natal,2019,GASOLINA,4.474107421874951
+Região Metropolitana de Natal,2019,GNV,3.5822836676217835
+Região Metropolitana de Palmas,2013,DIESEL,2.2596506986027767
+Região Metropolitana de Palmas,2013,DIESEL S10,2.3937518248175143
+Região Metropolitana de Palmas,2013,ALCOOL,2.242180940892657
+Região Metropolitana de Palmas,2013,GASOLINA,3.0233808104886517
+Região Metropolitana de Palmas,2014,DIESEL,2.4449739932885937
+Região Metropolitana de Palmas,2014,DIESEL S10,2.558257636122167
+Região Metropolitana de Palmas,2014,ALCOOL,2.325658747300203
+Região Metropolitana de Palmas,2014,GASOLINA,3.083037642045438
+Região Metropolitana de Palmas,2015,DIESEL,2.8203279932546184
+Região Metropolitana de Palmas,2015,DIESEL S10,2.9607626628075145
+Região Metropolitana de Palmas,2015,ALCOOL,2.6046584269662794
+Região Metropolitana de Palmas,2015,GASOLINA,3.456104868913852
+Região Metropolitana de Palmas,2016,DIESEL,3.0224642004773226
+Região Metropolitana de Palmas,2016,DIESEL S10,3.1199049881235164
+Região Metropolitana de Palmas,2016,ALCOOL,3.2376553398058143
+Região Metropolitana de Palmas,2016,GASOLINA,3.8035604498593987
+Região Metropolitana de Palmas,2016,GNV,3.049
+Região Metropolitana de Palmas,2017,DIESEL,3.013238952536828
+Região Metropolitana de Palmas,2017,DIESEL S10,3.082528344671191
+Região Metropolitana de Palmas,2017,ALCOOL,3.3873484107579293
+Região Metropolitana de Palmas,2017,GASOLINA,3.818273899033279
+Região Metropolitana de Palmas,2018,DIESEL,3.4999274965800242
+Região Metropolitana de Palmas,2018,DIESEL S10,3.536466375545848
+Região Metropolitana de Palmas,2018,ALCOOL,3.628810707456965
+Região Metropolitana de Palmas,2018,GASOLINA,4.639922056384722
+Região Metropolitana de Palmas,2018,GNV,3.48
+Região Metropolitana de Palmas,2019,DIESEL,3.6123062261753556
+Região Metropolitana de Palmas,2019,DIESEL S10,3.6378482068390423
+Região Metropolitana de Palmas,2019,ALCOOL,3.665414422241525
+Região Metropolitana de Palmas,2019,GASOLINA,4.5501017488076085
+Região Metropolitana de Palmas,2019,GNV,3.499
+Região Metropolitana de Porto Alegre,2013,DIESEL,2.2901854645184243
+Região Metropolitana de Porto Alegre,2013,DIESEL S10,2.477930478589395
+Região Metropolitana de Porto Alegre,2013,ALCOOL,2.382465120810643
+Região Metropolitana de Porto Alegre,2013,GASOLINA,2.786745768392756
+Região Metropolitana de Porto Alegre,2013,GNV,2.007362666666687
+Região Metropolitana de Porto Alegre,2014,DIESEL,2.436860850111844
+Região Metropolitana de Porto Alegre,2014,DIESEL S10,2.642495747873986
+Região Metropolitana de Porto Alegre,2014,ALCOOL,2.4027809474635995
+Região Metropolitana de Porto Alegre,2014,GASOLINA,2.8798427717557136
+Região Metropolitana de Porto Alegre,2014,GNV,2.162432879377434
+Região Metropolitana de Porto Alegre,2015,DIESEL,2.6839436180422678
+Região Metropolitana de Porto Alegre,2015,DIESEL S10,2.9079532592218302
+Região Metropolitana de Porto Alegre,2015,ALCOOL,2.572006744604316
+Região Metropolitana de Porto Alegre,2015,GASOLINA,3.2457412038060696
+Região Metropolitana de Porto Alegre,2015,GNV,2.278381818181783
+Região Metropolitana de Porto Alegre,2016,DIESEL,2.839297915265671
+Região Metropolitana de Porto Alegre,2016,DIESEL S10,3.048445696475675
+Região Metropolitana de Porto Alegre,2016,ALCOOL,3.413959113488791
+Região Metropolitana de Porto Alegre,2016,GASOLINA,3.7648551159618613
+Região Metropolitana de Porto Alegre,2016,GNV,2.608552046783622
+Região Metropolitana de Porto Alegre,2017,DIESEL,2.8851953567383823
+Região Metropolitana de Porto Alegre,2017,DIESEL S10,3.0617209359006115
+Região Metropolitana de Porto Alegre,2017,ALCOOL,3.523637890394834
+Região Metropolitana de Porto Alegre,2017,GASOLINA,3.747349044166207
+Região Metropolitana de Porto Alegre,2017,GNV,2.6852880794702023
+Região Metropolitana de Porto Alegre,2018,DIESEL,3.3125953642383754
+Região Metropolitana de Porto Alegre,2018,DIESEL S10,3.4362325622461865
+Região Metropolitana de Porto Alegre,2018,ALCOOL,3.9205757756563044
+Região Metropolitana de Porto Alegre,2018,GASOLINA,4.4935215869311795
+Região Metropolitana de Porto Alegre,2018,GNV,2.948370069605559
+Região Metropolitana de Porto Alegre,2019,DIESEL,3.3915805763074003
+Região Metropolitana de Porto Alegre,2019,DIESEL S10,3.525832535066594
+Região Metropolitana de Porto Alegre,2019,ALCOOL,3.981850591289281
+Região Metropolitana de Porto Alegre,2019,GASOLINA,4.418717123814417
+Região Metropolitana de Porto Alegre,2019,GNV,3.444183419689133
+Região Metropolitana de Porto Velho,2013,DIESEL,2.466316171617156
+Região Metropolitana de Porto Velho,2013,DIESEL S10,2.6550632603406297
+Região Metropolitana de Porto Velho,2013,ALCOOL,2.4091382113821003
+Região Metropolitana de Porto Velho,2013,GASOLINA,3.0308120978120705
+Região Metropolitana de Porto Velho,2014,DIESEL,2.7457297734627977
+Região Metropolitana de Porto Velho,2014,DIESEL S10,2.851683982683982
+Região Metropolitana de Porto Velho,2014,ALCOOL,2.5846287878787946
+Região Metropolitana de Porto Velho,2014,GASOLINA,3.1810037509377325
+Região Metropolitana de Porto Velho,2015,DIESEL,3.080978756884353
+Região Metropolitana de Porto Velho,2015,DIESEL S10,3.187899244332493
+Região Metropolitana de Porto Velho,2015,ALCOOL,2.68745321637428
+Região Metropolitana de Porto Velho,2015,GASOLINA,3.5485761194029637
+Região Metropolitana de Porto Velho,2016,DIESEL,3.280500514933061
+Região Metropolitana de Porto Velho,2016,DIESEL S10,3.3807370967741925
+Região Metropolitana de Porto Velho,2016,ALCOOL,3.338193502824852
+Região Metropolitana de Porto Velho,2016,GASOLINA,3.794218627450961
+Região Metropolitana de Porto Velho,2017,DIESEL,3.285908433734928
+Região Metropolitana de Porto Velho,2017,DIESEL S10,3.4006845310596607
+Região Metropolitana de Porto Velho,2017,ALCOOL,3.375500000000005
+Região Metropolitana de Porto Velho,2017,GASOLINA,3.8324134615384375
+Região Metropolitana de Porto Velho,2018,DIESEL,3.6435713012477637
+Região Metropolitana de Porto Velho,2018,DIESEL S10,3.738133149678588
+Região Metropolitana de Porto Velho,2018,ALCOOL,3.6060502152080356
+Região Metropolitana de Porto Velho,2018,GASOLINA,4.401229254571016
+Região Metropolitana de Porto Velho,2019,DIESEL,3.8153979686057276
+Região Metropolitana de Porto Velho,2019,DIESEL S10,3.911199999999987
+Região Metropolitana de Porto Velho,2019,ALCOOL,3.6739503649634897
+Região Metropolitana de Porto Velho,2019,GASOLINA,4.45257801899594
+Região Metropolitana de Porto Velho,2019,GNV,3.869
+Região Metropolitana de Recife,2013,DIESEL S10,2.339609718741341
+Região Metropolitana de Recife,2013,ALCOOL,2.257775307003034
+Região Metropolitana de Recife,2013,GASOLINA,2.80187758363528
+Região Metropolitana de Recife,2013,GNV,1.724377793799588
+Região Metropolitana de Recife,2014,DIESEL S10,2.552905360886525
+Região Metropolitana de Recife,2014,ALCOOL,2.361711726166612
+Região Metropolitana de Recife,2014,GASOLINA,2.880436259541995
+Região Metropolitana de Recife,2014,GNV,1.8098669991687044
+Região Metropolitana de Recife,2015,DIESEL S10,2.830388789891524
+Região Metropolitana de Recife,2015,ALCOOL,2.4353194634964197
+Região Metropolitana de Recife,2015,GASOLINA,3.3104404069767726
+Região Metropolitana de Recife,2015,GNV,2.0383634596695916
+Região Metropolitana de Recife,2016,DIESEL S10,3.022410166079506
+Região Metropolitana de Recife,2016,ALCOOL,2.943056568047338
+Região Metropolitana de Recife,2016,GASOLINA,3.631930296127581
+Região Metropolitana de Recife,2016,GNV,2.1223785900783088
+Região Metropolitana de Recife,2017,DIESEL S10,3.0051836290071594
+Região Metropolitana de Recife,2017,ALCOOL,2.921480858468664
+Região Metropolitana de Recife,2017,GASOLINA,3.5555840312674545
+Região Metropolitana de Recife,2017,GNV,2.229848368522059
+Região Metropolitana de Recife,2018,DIESEL S10,3.4617733678458915
+Região Metropolitana de Recife,2018,ALCOOL,3.19369774011303
+Região Metropolitana de Recife,2018,GASOLINA,4.231549275006138
+Região Metropolitana de Recife,2018,GNV,2.564744588744612
+Região Metropolitana de Recife,2019,DIESEL S10,3.5840543270543495
+Região Metropolitana de Recife,2019,ALCOOL,3.3460771276595973
+Região Metropolitana de Recife,2019,GASOLINA,4.249876327590368
+Região Metropolitana de Recife,2019,GNV,2.736148619957523
+Região Metropolitana de Salvador,2013,DIESEL,2.2888595755182823
+Região Metropolitana de Salvador,2013,DIESEL S10,2.4244328793774423
+Região Metropolitana de Salvador,2013,ALCOOL,2.227572620215989
+Região Metropolitana de Salvador,2013,GASOLINA,2.8893807592472043
+Região Metropolitana de Salvador,2013,GNV,1.7587215447154456
+Região Metropolitana de Salvador,2014,DIESEL,2.4721705750080165
+Região Metropolitana de Salvador,2014,DIESEL S10,2.6298405281868993
+Região Metropolitana de Salvador,2014,ALCOOL,2.3812098087483395
+Região Metropolitana de Salvador,2014,GASOLINA,3.039448417132266
+Região Metropolitana de Salvador,2014,GNV,1.897809523809526
+Região Metropolitana de Salvador,2015,DIESEL,2.792825734549119
+Região Metropolitana de Salvador,2015,DIESEL S10,2.9586285807291577
+Região Metropolitana de Salvador,2015,ALCOOL,2.598901443592951
+Região Metropolitana de Salvador,2015,GASOLINA,3.542165734265754
+Região Metropolitana de Salvador,2015,GNV,2.18234919028341
+Região Metropolitana de Salvador,2016,DIESEL,2.9946998355262884
+Região Metropolitana de Salvador,2016,DIESEL S10,3.1214707100591506
+Região Metropolitana de Salvador,2016,ALCOOL,3.008004584527192
+Região Metropolitana de Salvador,2016,GASOLINA,3.7470158430781146
+Região Metropolitana de Salvador,2016,GNV,2.3612496782496817
+Região Metropolitana de Salvador,2017,DIESEL,3.0412218430033913
+Região Metropolitana de Salvador,2017,DIESEL S10,3.1574953373560217
+Região Metropolitana de Salvador,2017,ALCOOL,3.0079941618014687
+Região Metropolitana de Salvador,2017,GASOLINA,3.7240983743226423
+Região Metropolitana de Salvador,2017,GNV,2.345001432664757
+Região Metropolitana de Salvador,2018,DIESEL,3.4059039345937534
+Região Metropolitana de Salvador,2018,DIESEL S10,3.5050273224043527
+Região Metropolitana de Salvador,2018,ALCOOL,3.3705010922534355
+Região Metropolitana de Salvador,2018,GASOLINA,4.461172023614329
+Região Metropolitana de Salvador,2018,GNV,2.6865524296675245
+Região Metropolitana de Salvador,2019,DIESEL,3.539665744327599
+Região Metropolitana de Salvador,2019,DIESEL S10,3.659906319045567
+Região Metropolitana de Salvador,2019,ALCOOL,3.4500819145518506
+Região Metropolitana de Salvador,2019,GASOLINA,4.4806349357449236
+Região Metropolitana de Salvador,2019,GNV,3.1527565714285677
+Região Metropolitana de São Paulo,2013,DIESEL,2.269316818589601
+Região Metropolitana de São Paulo,2013,DIESEL S10,2.437822454653722
+Região Metropolitana de São Paulo,2013,ALCOOL,1.8329243143862646
+Região Metropolitana de São Paulo,2013,GASOLINA,2.7292353782130943
+Região Metropolitana de São Paulo,2013,GNV,1.6320075093867574
+Região Metropolitana de São Paulo,2014,DIESEL,2.451005578990364
+Região Metropolitana de São Paulo,2014,DIESEL S10,2.627180498230998
+Região Metropolitana de São Paulo,2014,ALCOOL,1.923211647214465
+Região Metropolitana de São Paulo,2014,GASOLINA,2.8556762680777554
+Região Metropolitana de São Paulo,2014,GNV,1.7376005167958621
+Região Metropolitana de São Paulo,2015,DIESEL,2.7209712387519662
+Região Metropolitana de São Paulo,2015,DIESEL S10,2.898008063552911
+Região Metropolitana de São Paulo,2015,ALCOOL,2.070780926661236
+Região Metropolitana de São Paulo,2015,GASOLINA,3.141017608384337
+Região Metropolitana de São Paulo,2015,GNV,1.8735504643962617
+Região Metropolitana de São Paulo,2016,DIESEL,2.922052832811939
+Região Metropolitana de São Paulo,2016,DIESEL S10,3.0749786211349943
+Região Metropolitana de São Paulo,2016,ALCOOL,2.4740066317303158
+Região Metropolitana de São Paulo,2016,GASOLINA,3.46700023195409
+Região Metropolitana de São Paulo,2016,GNV,2.0334714532871843
+Região Metropolitana de São Paulo,2017,DIESEL,3.0187493350023575
+Região Metropolitana de São Paulo,2017,DIESEL S10,3.18671695142112
+Região Metropolitana de São Paulo,2017,ALCOOL,2.5053780988344894
+Região Metropolitana de São Paulo,2017,GASOLINA,3.5186358163211406
+Região Metropolitana de São Paulo,2017,GNV,2.1489778516057543
+Região Metropolitana de São Paulo,2018,DIESEL,3.373782018659863
+Região Metropolitana de São Paulo,2018,DIESEL S10,3.5084962290832498
+Região Metropolitana de São Paulo,2018,ALCOOL,2.7184379511263286
+Região Metropolitana de São Paulo,2018,GASOLINA,4.169903676918914
+Região Metropolitana de São Paulo,2018,GNV,2.261014285714267
+Região Metropolitana de São Paulo,2019,DIESEL,3.47452335205435
+Região Metropolitana de São Paulo,2019,DIESEL S10,3.615288090188803
+Região Metropolitana de São Paulo,2019,ALCOOL,2.7178972859249155
+Região Metropolitana de São Paulo,2019,GASOLINA,4.125241622125919
+Região Metropolitana de São Paulo,2019,GNV,2.910239861949936
+Região Metropolitana do Rio de Janeiro,2013,DIESEL,2.2663326375711472
+Região Metropolitana do Rio de Janeiro,2013,DIESEL S10,2.441382331106147
+Região Metropolitana do Rio de Janeiro,2013,ALCOOL,2.271829855825267
+Região Metropolitana do Rio de Janeiro,2013,GASOLINA,2.9677382815937015
+Região Metropolitana do Rio de Janeiro,2013,GNV,1.6796749058972074
+Região Metropolitana do Rio de Janeiro,2014,DIESEL,2.458611379665542
+Região Metropolitana do Rio de Janeiro,2014,DIESEL S10,2.6636631379365703
+Região Metropolitana do Rio de Janeiro,2014,ALCOOL,2.4361633668499234
+Região Metropolitana do Rio de Janeiro,2014,GASOLINA,3.101196272598214
+Região Metropolitana do Rio de Janeiro,2014,GNV,1.7247331628304192
+Região Metropolitana do Rio de Janeiro,2015,DIESEL,2.7782330414702328
+Região Metropolitana do Rio de Janeiro,2015,DIESEL S10,2.985065021297899
+Região Metropolitana do Rio de Janeiro,2015,ALCOOL,2.681641942369338
+Região Metropolitana do Rio de Janeiro,2015,GASOLINA,3.4864187826088457
+Região Metropolitana do Rio de Janeiro,2015,GNV,1.8843850008081529
+Região Metropolitana do Rio de Janeiro,2016,DIESEL,3.058402855767646
+Região Metropolitana do Rio de Janeiro,2016,DIESEL S10,3.2329940058479907
+Região Metropolitana do Rio de Janeiro,2016,ALCOOL,3.211989671277191
+Região Metropolitana do Rio de Janeiro,2016,GASOLINA,3.8852608273794558
+Região Metropolitana do Rio de Janeiro,2016,GNV,2.079553398058235
+Região Metropolitana do Rio de Janeiro,2017,DIESEL,3.1882353185308507
+Região Metropolitana do Rio de Janeiro,2017,DIESEL S10,3.3598621223857603
+Região Metropolitana do Rio de Janeiro,2017,ALCOOL,3.283401648874324
+Região Metropolitana do Rio de Janeiro,2017,GASOLINA,4.041887450407212
+Região Metropolitana do Rio de Janeiro,2017,GNV,2.2154256903505773
+Região Metropolitana do Rio de Janeiro,2018,DIESEL,3.5583433413151537
+Região Metropolitana do Rio de Janeiro,2018,DIESEL S10,3.696650781162154
+Região Metropolitana do Rio de Janeiro,2018,ALCOOL,3.5171440278123365
+Região Metropolitana do Rio de Janeiro,2018,GASOLINA,4.833974191972807
+Região Metropolitana do Rio de Janeiro,2018,GNV,2.6452420955457976
+Região Metropolitana do Rio de Janeiro,2019,DIESEL,3.565543495145635
+Região Metropolitana do Rio de Janeiro,2019,DIESEL S10,3.7250572170300815
+Região Metropolitana do Rio de Janeiro,2019,ALCOOL,3.805197068663558
+Região Metropolitana do Rio de Janeiro,2019,GASOLINA,4.832317528054484
+Região Metropolitana do Rio de Janeiro,2019,GNV,3.0462077656675812
+Região Metropolitana do Vale do Rio Cuiabá,2013,DIESEL,2.5204504103967307
+Região Metropolitana do Vale do Rio Cuiabá,2013,DIESEL S10,2.7125939597315556
+Região Metropolitana do Vale do Rio Cuiabá,2013,ALCOOL,1.9575615069194938
+Região Metropolitana do Vale do Rio Cuiabá,2013,GASOLINA,2.964592621060647
+Região Metropolitana do Vale do Rio Cuiabá,2013,GNV,1.9655894736842114
+Região Metropolitana do Vale do Rio Cuiabá,2014,DIESEL,2.718730301665914
+Região Metropolitana do Vale do Rio Cuiabá,2014,DIESEL S10,2.8906218309858707
+Região Metropolitana do Vale do Rio Cuiabá,2014,ALCOOL,2.042142732811125
+Região Metropolitana do Vale do Rio Cuiabá,2014,GASOLINA,3.0415263004940303
+Região Metropolitana do Vale do Rio Cuiabá,2014,GNV,2.13667469879518
+Região Metropolitana do Vale do Rio Cuiabá,2015,DIESEL,3.0713751160631153
+Região Metropolitana do Vale do Rio Cuiabá,2015,DIESEL S10,3.2544987727049737
+Região Metropolitana do Vale do Rio Cuiabá,2015,ALCOOL,2.077826109660536
+Região Metropolitana do Vale do Rio Cuiabá,2015,GASOLINA,3.3318536012526683
+Região Metropolitana do Vale do Rio Cuiabá,2015,GNV,2.334705882352942
+Região Metropolitana do Vale do Rio Cuiabá,2016,DIESEL,3.2769435307017356
+Região Metropolitana do Vale do Rio Cuiabá,2016,DIESEL S10,3.468857698961933
+Região Metropolitana do Vale do Rio Cuiabá,2016,ALCOOL,2.5487572027239658
+Região Metropolitana do Vale do Rio Cuiabá,2016,GASOLINA,3.7080733176225262
+Região Metropolitana do Vale do Rio Cuiabá,2016,GNV,2.592484375000002
+Região Metropolitana do Vale do Rio Cuiabá,2017,DIESEL,3.3603996437054358
+Região Metropolitana do Vale do Rio Cuiabá,2017,DIESEL S10,3.509795012679598
+Região Metropolitana do Vale do Rio Cuiabá,2017,ALCOOL,2.3957233560091042
+Região Metropolitana do Vale do Rio Cuiabá,2017,GASOLINA,3.7235238095238676
+Região Metropolitana do Vale do Rio Cuiabá,2017,GNV,2.677428571428575
+Região Metropolitana do Vale do Rio Cuiabá,2018,DIESEL,3.717952333166092
+Região Metropolitana do Vale do Rio Cuiabá,2018,DIESEL S10,3.8165115316380174
+Região Metropolitana do Vale do Rio Cuiabá,2018,ALCOOL,2.6236210325857385
+Região Metropolitana do Vale do Rio Cuiabá,2018,GASOLINA,4.420785427666243
+Região Metropolitana do Vale do Rio Cuiabá,2018,GNV,2.706717948717947
+Região Metropolitana do Vale do Rio Cuiabá,2019,DIESEL,3.8421454643048913
+Região Metropolitana do Vale do Rio Cuiabá,2019,DIESEL S10,3.9074010335917744
+Região Metropolitana do Vale do Rio Cuiabá,2019,ALCOOL,2.5324053776683457
+Região Metropolitana do Vale do Rio Cuiabá,2019,GASOLINA,4.423659311198175
+Região Metropolitana do Vale do Rio Cuiabá,2019,GNV,2.924
+Rio Branco,2013,DIESEL,2.7114205128204896
+Rio Branco,2013,DIESEL S10,2.8083781512605
+Rio Branco,2013,ALCOOL,2.6285793103448105
+Rio Branco,2013,GASOLINA,3.207434042553204
+Rio Branco,2014,DIESEL,2.9631464393179554
+Rio Branco,2014,DIESEL S10,3.0617707509881207
+Rio Branco,2014,ALCOOL,2.8189817578772893
+Rio Branco,2014,GASOLINA,3.345793650793639
+Rio Branco,2015,DIESEL,3.31672857142856
+Rio Branco,2015,DIESEL S10,3.418256097560983
+Rio Branco,2015,ALCOOL,3.039746971736204
+Rio Branco,2015,GASOLINA,3.7820386343216454
+Rio Branco,2016,DIESEL,3.5242891089109003
+Rio Branco,2016,DIESEL S10,3.617909743589734
+Rio Branco,2016,ALCOOL,3.330559888579373
+Rio Branco,2016,GASOLINA,4.026330197554083
+Rio Branco,2017,DIESEL,3.7743873441994222
+Rio Branco,2017,DIESEL S10,3.8547181467181506
+Rio Branco,2017,ALCOOL,3.6414228432563713
+Rio Branco,2017,GASOLINA,4.283359633027548
+Rio Branco,2018,DIESEL,4.2187042857142085
+Rio Branco,2018,DIESEL S10,4.283012622720884
+Rio Branco,2018,ALCOOL,3.914697894736799
+Rio Branco,2018,GASOLINA,4.92349324324319
+Rio Branco,2019,DIESEL,4.353933518005525
+Rio Branco,2019,DIESEL S10,4.40483068417416
+Rio Branco,2019,ALCOOL,3.929687645687617
+Rio Branco,2019,GASOLINA,4.7959895013123

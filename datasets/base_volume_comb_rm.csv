@@ -1,0 +1,1748 @@
+RM,Ano,Combustivel,Quantidade
+Campo Grande,2000,Volume_Venda_Alcool,30912568.0
+Campo Grande,2000,Volume_Venda_Diesel,319021566.0
+Campo Grande,2000,Volume_Venda_Gasolina,134413994.0
+Campo Grande,2001,Volume_Venda_Alcool,26725626.0
+Campo Grande,2001,Volume_Venda_Diesel,292123808.0
+Campo Grande,2001,Volume_Venda_Gasolina,134001668.0
+Campo Grande,2002,Volume_Venda_Alcool,28657938.0
+Campo Grande,2002,Volume_Venda_Diesel,284517194.0
+Campo Grande,2002,Volume_Venda_Gasolina,145817210.0
+Campo Grande,2003,Volume_Venda_Alcool,26784490.0
+Campo Grande,2003,Volume_Venda_Diesel,299712741.0
+Campo Grande,2003,Volume_Venda_Gasolina,143911299.0
+Campo Grande,2004,Volume_Venda_Alcool,27646154.0
+Campo Grande,2004,Volume_Venda_Diesel,307566843.0
+Campo Grande,2004,Volume_Venda_Gasolina,152069030.0
+Campo Grande,2005,Volume_Venda_Alcool,29781170.0
+Campo Grande,2005,Volume_Venda_Diesel,283594460.0
+Campo Grande,2005,Volume_Venda_Gasolina,146712259.0
+Campo Grande,2006,Volume_Venda_Alcool,28693346.0
+Campo Grande,2006,Volume_Venda_Diesel,268949308.151469
+Campo Grande,2006,Volume_Venda_Gasolina,149943613.0
+Campo Grande,2007,Volume_Venda_Alcool,48032170.0
+Campo Grande,2007,Volume_Venda_Diesel,301159299.114046
+Campo Grande,2007,Volume_Venda_Gasolina,151188779.0
+Campo Grande,2008,Volume_Venda_Alcool,73123511.0
+Campo Grande,2008,Volume_Venda_Diesel,360059504.0
+Campo Grande,2008,Volume_Venda_Gasolina,156324522.0
+Campo Grande,2009,Volume_Venda_Alcool,93694164.0
+Campo Grande,2009,Volume_Venda_Diesel,322738190.0
+Campo Grande,2009,Volume_Venda_Gasolina,163169170.0
+Campo Grande,2010,Volume_Venda_Alcool,74922103.0
+Campo Grande,2010,Volume_Venda_Diesel,343894439.0
+Campo Grande,2010,Volume_Venda_Gasolina,200413228.0
+Campo Grande,2011,Volume_Venda_Alcool,40778729.0
+Campo Grande,2011,Volume_Venda_Diesel,362125761.0
+Campo Grande,2011,Volume_Venda_Gasolina,249070009.0
+Campo Grande,2012,Volume_Venda_Alcool,36328040.0
+Campo Grande,2012,Volume_Venda_Diesel,372043320.0
+Campo Grande,2012,Volume_Venda_Gasolina,269969882.0
+Campo Grande,2013,Volume_Venda_Alcool,57624076.0
+Campo Grande,2013,Volume_Venda_Diesel,393257847.0
+Campo Grande,2013,Volume_Venda_Gasolina,274268345.0
+Campo Grande,2014,Volume_Venda_Alcool,70150767.0
+Campo Grande,2014,Volume_Venda_Diesel,393143540.0
+Campo Grande,2014,Volume_Venda_Gasolina,289984038.0
+Campo Grande,2014,Volume_Venda_GNV,4276912.0
+Campo Grande,2015,Volume_Venda_Alcool,108316161.0
+Campo Grande,2015,Volume_Venda_Diesel,388315243.0
+Campo Grande,2015,Volume_Venda_Gasolina,276617980.0
+Campo Grande,2015,Volume_Venda_GNV,3726270.0
+Campo Grande,2016,Volume_Venda_Alcool,44040312.0
+Campo Grande,2016,Volume_Venda_Diesel,379676320.0
+Campo Grande,2016,Volume_Venda_Gasolina,325085569.0
+Campo Grande,2016,Volume_Venda_GNV,3348035.0
+Campo Grande,2017,Volume_Venda_Alcool,34081991.0
+Campo Grande,2017,Volume_Venda_Diesel,359671223.531602
+Campo Grande,2017,Volume_Venda_Gasolina,344099975.0
+Campo Grande,2017,Volume_Venda_GNV,2986916.0
+Campo Grande,2018,Volume_Venda_Alcool,54075387.0
+Campo Grande,2018,Volume_Venda_Diesel,396309174.0
+Campo Grande,2018,Volume_Venda_Gasolina,326918928.0
+Campo Grande,2018,Volume_Venda_GNV,3231027.0
+Campo Grande,2019,Volume_Venda_Alcool,37007813.0
+Campo Grande,2019,Volume_Venda_Diesel,435354959.0
+Campo Grande,2019,Volume_Venda_Gasolina,349385268.0
+Campo Grande,2019,Volume_Venda_GNV,3218772.0
+Campo Grande,2020,Volume_Venda_GNV,2692227.0
+Região Integrada de Desenvolvimento da Grande Teresina,2000,Volume_Venda_Alcool,17303856.0
+Região Integrada de Desenvolvimento da Grande Teresina,2000,Volume_Venda_Diesel,151340359.0
+Região Integrada de Desenvolvimento da Grande Teresina,2000,Volume_Venda_Gasolina,79224548.0
+Região Integrada de Desenvolvimento da Grande Teresina,2001,Volume_Venda_Alcool,13594320.0
+Região Integrada de Desenvolvimento da Grande Teresina,2001,Volume_Venda_Diesel,147926188.0
+Região Integrada de Desenvolvimento da Grande Teresina,2001,Volume_Venda_Gasolina,81430128.0
+Região Integrada de Desenvolvimento da Grande Teresina,2002,Volume_Venda_Alcool,12850807.0
+Região Integrada de Desenvolvimento da Grande Teresina,2002,Volume_Venda_Diesel,144880971.0
+Região Integrada de Desenvolvimento da Grande Teresina,2002,Volume_Venda_Gasolina,91880146.0
+Região Integrada de Desenvolvimento da Grande Teresina,2003,Volume_Venda_Alcool,10824783.0
+Região Integrada de Desenvolvimento da Grande Teresina,2003,Volume_Venda_Diesel,140994336.0
+Região Integrada de Desenvolvimento da Grande Teresina,2003,Volume_Venda_Gasolina,90103443.0
+Região Integrada de Desenvolvimento da Grande Teresina,2004,Volume_Venda_Alcool,11076230.0
+Região Integrada de Desenvolvimento da Grande Teresina,2004,Volume_Venda_Diesel,164880646.0
+Região Integrada de Desenvolvimento da Grande Teresina,2004,Volume_Venda_Gasolina,98959785.0
+Região Integrada de Desenvolvimento da Grande Teresina,2005,Volume_Venda_Alcool,10490326.0
+Região Integrada de Desenvolvimento da Grande Teresina,2005,Volume_Venda_Diesel,158467389.0
+Região Integrada de Desenvolvimento da Grande Teresina,2005,Volume_Venda_Gasolina,102521395.0
+Região Integrada de Desenvolvimento da Grande Teresina,2006,Volume_Venda_Alcool,9608296.0
+Região Integrada de Desenvolvimento da Grande Teresina,2006,Volume_Venda_Diesel,144943318.32475618
+Região Integrada de Desenvolvimento da Grande Teresina,2006,Volume_Venda_Gasolina,113644441.0
+Região Integrada de Desenvolvimento da Grande Teresina,2007,Volume_Venda_Alcool,14833932.0
+Região Integrada de Desenvolvimento da Grande Teresina,2007,Volume_Venda_Diesel,155866847.0
+Região Integrada de Desenvolvimento da Grande Teresina,2007,Volume_Venda_Gasolina,121088569.0
+Região Integrada de Desenvolvimento da Grande Teresina,2008,Volume_Venda_Alcool,21855424.0
+Região Integrada de Desenvolvimento da Grande Teresina,2008,Volume_Venda_Diesel,188801282.0
+Região Integrada de Desenvolvimento da Grande Teresina,2008,Volume_Venda_Gasolina,132275094.0
+Região Integrada de Desenvolvimento da Grande Teresina,2009,Volume_Venda_Alcool,25686091.0
+Região Integrada de Desenvolvimento da Grande Teresina,2009,Volume_Venda_Diesel,173518254.0
+Região Integrada de Desenvolvimento da Grande Teresina,2009,Volume_Venda_Gasolina,146131550.0
+Região Integrada de Desenvolvimento da Grande Teresina,2010,Volume_Venda_Alcool,13411671.0
+Região Integrada de Desenvolvimento da Grande Teresina,2010,Volume_Venda_Diesel,194114525.0
+Região Integrada de Desenvolvimento da Grande Teresina,2010,Volume_Venda_Gasolina,182721900.0
+Região Integrada de Desenvolvimento da Grande Teresina,2011,Volume_Venda_Alcool,9435123.0
+Região Integrada de Desenvolvimento da Grande Teresina,2011,Volume_Venda_Diesel,191328589.0
+Região Integrada de Desenvolvimento da Grande Teresina,2011,Volume_Venda_Gasolina,203345500.0
+Região Integrada de Desenvolvimento da Grande Teresina,2012,Volume_Venda_Alcool,10764000.0
+Região Integrada de Desenvolvimento da Grande Teresina,2012,Volume_Venda_Diesel,209265575.0
+Região Integrada de Desenvolvimento da Grande Teresina,2012,Volume_Venda_Gasolina,237254696.0
+Região Integrada de Desenvolvimento da Grande Teresina,2013,Volume_Venda_Alcool,12026000.0
+Região Integrada de Desenvolvimento da Grande Teresina,2013,Volume_Venda_Diesel,225007251.0
+Região Integrada de Desenvolvimento da Grande Teresina,2013,Volume_Venda_Gasolina,257380020.0
+Região Integrada de Desenvolvimento da Grande Teresina,2014,Volume_Venda_Alcool,14530544.0
+Região Integrada de Desenvolvimento da Grande Teresina,2014,Volume_Venda_Diesel,231652450.0
+Região Integrada de Desenvolvimento da Grande Teresina,2014,Volume_Venda_Gasolina,285360898.0
+Região Integrada de Desenvolvimento da Grande Teresina,2015,Volume_Venda_Alcool,27285407.0
+Região Integrada de Desenvolvimento da Grande Teresina,2015,Volume_Venda_Diesel,214061416.0
+Região Integrada de Desenvolvimento da Grande Teresina,2015,Volume_Venda_Gasolina,284356100.0
+Região Integrada de Desenvolvimento da Grande Teresina,2016,Volume_Venda_Alcool,25374635.0
+Região Integrada de Desenvolvimento da Grande Teresina,2016,Volume_Venda_Diesel,188183250.0
+Região Integrada de Desenvolvimento da Grande Teresina,2016,Volume_Venda_Gasolina,292423812.0
+Região Integrada de Desenvolvimento da Grande Teresina,2017,Volume_Venda_Alcool,26233179.0
+Região Integrada de Desenvolvimento da Grande Teresina,2017,Volume_Venda_Diesel,183179517.829293
+Região Integrada de Desenvolvimento da Grande Teresina,2017,Volume_Venda_Gasolina,299320989.0
+Região Integrada de Desenvolvimento da Grande Teresina,2018,Volume_Venda_Alcool,52882425.0
+Região Integrada de Desenvolvimento da Grande Teresina,2018,Volume_Venda_Diesel,185811531.0
+Região Integrada de Desenvolvimento da Grande Teresina,2018,Volume_Venda_Gasolina,270045662.0
+Região Integrada de Desenvolvimento da Grande Teresina,2019,Volume_Venda_Alcool,68470186.0
+Região Integrada de Desenvolvimento da Grande Teresina,2019,Volume_Venda_Diesel,194404070.0
+Região Integrada de Desenvolvimento da Grande Teresina,2019,Volume_Venda_Gasolina,270241226.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2000,Volume_Venda_Alcool,181616003.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2000,Volume_Venda_Diesel,558141560.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2000,Volume_Venda_Gasolina,697410763.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2001,Volume_Venda_Alcool,3895950.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2001,Volume_Venda_Diesel,620925556.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2001,Volume_Venda_Gasolina,709438775.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2002,Volume_Venda_Alcool,140225471.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2002,Volume_Venda_Diesel,639458192.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2002,Volume_Venda_Gasolina,753821267.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2003,Volume_Venda_Alcool,118193879.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2003,Volume_Venda_Diesel,606478305.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2003,Volume_Venda_Gasolina,752775949.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2004,Volume_Venda_Alcool,108113151.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2004,Volume_Venda_Diesel,613203572.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2004,Volume_Venda_Gasolina,826830256.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2005,Volume_Venda_Alcool,102805812.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2005,Volume_Venda_Diesel,627383433.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2005,Volume_Venda_Gasolina,841259523.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2006,Volume_Venda_Alcool,112779088.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2006,Volume_Venda_Diesel,580862284.5189943
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2006,Volume_Venda_Gasolina,866729138.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2007,Volume_Venda_Alcool,201464670.530804
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2007,Volume_Venda_Diesel,638177232.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2007,Volume_Venda_Gasolina,868983644.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2008,Volume_Venda_Alcool,243108458.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2008,Volume_Venda_Diesel,674614883.182384
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2008,Volume_Venda_Gasolina,927534993.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2009,Volume_Venda_Alcool,335770301.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2009,Volume_Venda_Diesel,658418836.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2009,Volume_Venda_Gasolina,935087550.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2010,Volume_Venda_Alcool,229664696.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2010,Volume_Venda_Diesel,723864343.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2010,Volume_Venda_Gasolina,1119040220.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2011,Volume_Venda_Alcool,156378226.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2011,Volume_Venda_Diesel,755437729.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2011,Volume_Venda_Gasolina,1251558022.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2012,Volume_Venda_Alcool,129822775.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2012,Volume_Venda_Diesel,775386291.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2012,Volume_Venda_Gasolina,1371477203.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2013,Volume_Venda_Alcool,175280480.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2013,Volume_Venda_Diesel,809486439.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2013,Volume_Venda_Gasolina,1434817102.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2014,Volume_Venda_Alcool,175922983.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2014,Volume_Venda_Diesel,839735563.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2014,Volume_Venda_Gasolina,1521069703.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2014,Volume_Venda_GNV,2469235.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2015,Volume_Venda_Alcool,237526543.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2015,Volume_Venda_Diesel,803139886.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2015,Volume_Venda_Gasolina,1470565168.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2015,Volume_Venda_GNV,2286795.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2016,Volume_Venda_Alcool,145908757.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2016,Volume_Venda_Diesel,770325442.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2016,Volume_Venda_Gasolina,1540808821.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2016,Volume_Venda_GNV,2149267.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2017,Volume_Venda_Alcool,245295095.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2017,Volume_Venda_Diesel,779459773.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2017,Volume_Venda_Gasolina,1565017423.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2017,Volume_Venda_GNV,1610216.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2018,Volume_Venda_Alcool,418136352.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2018,Volume_Venda_Diesel,805613541.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2018,Volume_Venda_Gasolina,1336317557.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2018,Volume_Venda_GNV,2031413.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2019,Volume_Venda_Alcool,485578448.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2019,Volume_Venda_Diesel,822822275.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2019,Volume_Venda_Gasolina,1342292877.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2019,Volume_Venda_GNV,2240229.0
+Região Integrada de Desenvolvimento do Distrito Federal e Entorno,2020,Volume_Venda_GNV,1538442.0
+Região Metropolitana da Capital,2000,Volume_Venda_Alcool,1547241.0
+Região Metropolitana da Capital,2000,Volume_Venda_Diesel,111319137.0
+Região Metropolitana da Capital,2000,Volume_Venda_Gasolina,40211129.0
+Região Metropolitana da Capital,2001,Volume_Venda_Alcool,1313500.0
+Região Metropolitana da Capital,2001,Volume_Venda_Diesel,58211067.0
+Região Metropolitana da Capital,2001,Volume_Venda_Gasolina,35576113.0
+Região Metropolitana da Capital,2002,Volume_Venda_Alcool,1027300.0
+Região Metropolitana da Capital,2002,Volume_Venda_Diesel,44298502.0
+Região Metropolitana da Capital,2002,Volume_Venda_Gasolina,44672546.0
+Região Metropolitana da Capital,2003,Volume_Venda_Alcool,568000.0
+Região Metropolitana da Capital,2003,Volume_Venda_Diesel,33837950.0
+Região Metropolitana da Capital,2003,Volume_Venda_Gasolina,43558349.0
+Região Metropolitana da Capital,2004,Volume_Venda_Alcool,578100.0
+Região Metropolitana da Capital,2004,Volume_Venda_Diesel,37736900.0
+Região Metropolitana da Capital,2004,Volume_Venda_Gasolina,43367234.0
+Região Metropolitana da Capital,2005,Volume_Venda_Alcool,736200.0
+Região Metropolitana da Capital,2005,Volume_Venda_Diesel,36502132.0
+Região Metropolitana da Capital,2005,Volume_Venda_Gasolina,39790650.0
+Região Metropolitana da Capital,2006,Volume_Venda_Alcool,1144000.0
+Região Metropolitana da Capital,2006,Volume_Venda_Diesel,38452407.89996513
+Região Metropolitana da Capital,2006,Volume_Venda_Gasolina,44478950.0
+Região Metropolitana da Capital,2007,Volume_Venda_Alcool,2176270.0
+Região Metropolitana da Capital,2007,Volume_Venda_Diesel,37818645.0
+Região Metropolitana da Capital,2007,Volume_Venda_Gasolina,47031884.0
+Região Metropolitana da Capital,2008,Volume_Venda_Alcool,2850817.0
+Região Metropolitana da Capital,2008,Volume_Venda_Diesel,47496680.0
+Região Metropolitana da Capital,2008,Volume_Venda_Gasolina,56229191.0
+Região Metropolitana da Capital,2009,Volume_Venda_Alcool,2848072.0
+Região Metropolitana da Capital,2009,Volume_Venda_Diesel,47955218.0
+Região Metropolitana da Capital,2009,Volume_Venda_Gasolina,67220000.0
+Região Metropolitana da Capital,2010,Volume_Venda_Alcool,2705315.0
+Região Metropolitana da Capital,2010,Volume_Venda_Diesel,113877173.0
+Região Metropolitana da Capital,2010,Volume_Venda_Gasolina,76714400.0
+Região Metropolitana da Capital,2011,Volume_Venda_Alcool,2481818.0
+Região Metropolitana da Capital,2011,Volume_Venda_Diesel,50286881.0
+Região Metropolitana da Capital,2011,Volume_Venda_Gasolina,78419250.0
+Região Metropolitana da Capital,2012,Volume_Venda_Alcool,1852800.0
+Região Metropolitana da Capital,2012,Volume_Venda_Diesel,56721472.0
+Região Metropolitana da Capital,2012,Volume_Venda_Gasolina,87413000.0
+Região Metropolitana da Capital,2013,Volume_Venda_Alcool,1735800.0
+Região Metropolitana da Capital,2013,Volume_Venda_Diesel,86241900.0
+Região Metropolitana da Capital,2013,Volume_Venda_Gasolina,95946300.0
+Região Metropolitana da Capital,2014,Volume_Venda_Alcool,1871604.0
+Região Metropolitana da Capital,2014,Volume_Venda_Diesel,108833900.0
+Região Metropolitana da Capital,2014,Volume_Venda_Gasolina,107785081.0
+Região Metropolitana da Capital,2015,Volume_Venda_Alcool,2795400.0
+Região Metropolitana da Capital,2015,Volume_Venda_Diesel,103294273.0
+Região Metropolitana da Capital,2015,Volume_Venda_Gasolina,108687243.0
+Região Metropolitana da Capital,2016,Volume_Venda_Alcool,1378400.0
+Região Metropolitana da Capital,2016,Volume_Venda_Diesel,88888858.0
+Região Metropolitana da Capital,2016,Volume_Venda_Gasolina,114723602.0
+Região Metropolitana da Capital,2017,Volume_Venda_Alcool,959600.0
+Região Metropolitana da Capital,2017,Volume_Venda_Diesel,90265008.1246537
+Região Metropolitana da Capital,2017,Volume_Venda_Gasolina,122533464.0
+Região Metropolitana da Capital,2018,Volume_Venda_Alcool,1900000.0
+Região Metropolitana da Capital,2018,Volume_Venda_Diesel,156056154.0
+Região Metropolitana da Capital,2018,Volume_Venda_Gasolina,125909984.0
+Região Metropolitana da Capital,2019,Volume_Venda_Alcool,1552200.0
+Região Metropolitana da Capital,2019,Volume_Venda_Diesel,384611902.0
+Região Metropolitana da Capital,2019,Volume_Venda_Gasolina,138836130.0
+Região Metropolitana da Grande São Luís,2000,Volume_Venda_Alcool,7977636.0
+Região Metropolitana da Grande São Luís,2000,Volume_Venda_Diesel,237404168.0
+Região Metropolitana da Grande São Luís,2000,Volume_Venda_Gasolina,106805035.0
+Região Metropolitana da Grande São Luís,2001,Volume_Venda_Alcool,5061039.0
+Região Metropolitana da Grande São Luís,2001,Volume_Venda_Diesel,231821175.0
+Região Metropolitana da Grande São Luís,2001,Volume_Venda_Gasolina,107249597.0
+Região Metropolitana da Grande São Luís,2002,Volume_Venda_Alcool,4651578.0
+Região Metropolitana da Grande São Luís,2002,Volume_Venda_Diesel,183782805.0
+Região Metropolitana da Grande São Luís,2002,Volume_Venda_Gasolina,115816242.0
+Região Metropolitana da Grande São Luís,2003,Volume_Venda_Alcool,3553007.0
+Região Metropolitana da Grande São Luís,2003,Volume_Venda_Diesel,151006413.0
+Região Metropolitana da Grande São Luís,2003,Volume_Venda_Gasolina,114857330.0
+Região Metropolitana da Grande São Luís,2004,Volume_Venda_Alcool,3471425.0
+Região Metropolitana da Grande São Luís,2004,Volume_Venda_Diesel,164992777.0
+Região Metropolitana da Grande São Luís,2004,Volume_Venda_Gasolina,126634719.0
+Região Metropolitana da Grande São Luís,2005,Volume_Venda_Alcool,5720872.0
+Região Metropolitana da Grande São Luís,2005,Volume_Venda_Diesel,214857547.0
+Região Metropolitana da Grande São Luís,2005,Volume_Venda_Gasolina,129072270.0
+Região Metropolitana da Grande São Luís,2006,Volume_Venda_Alcool,10680219.0
+Região Metropolitana da Grande São Luís,2006,Volume_Venda_Diesel,219868671.088879
+Região Metropolitana da Grande São Luís,2006,Volume_Venda_Gasolina,136682637.0
+Região Metropolitana da Grande São Luís,2007,Volume_Venda_Alcool,36975995.0
+Região Metropolitana da Grande São Luís,2007,Volume_Venda_Diesel,278608812.0
+Região Metropolitana da Grande São Luís,2007,Volume_Venda_Gasolina,135286396.0
+Região Metropolitana da Grande São Luís,2008,Volume_Venda_Alcool,80637197.0
+Região Metropolitana da Grande São Luís,2008,Volume_Venda_Diesel,372273063.334
+Região Metropolitana da Grande São Luís,2008,Volume_Venda_Gasolina,134506449.0
+Região Metropolitana da Grande São Luís,2009,Volume_Venda_Alcool,104266679.0
+Região Metropolitana da Grande São Luís,2009,Volume_Venda_Diesel,333142254.0
+Região Metropolitana da Grande São Luís,2009,Volume_Venda_Gasolina,134968543.0
+Região Metropolitana da Grande São Luís,2010,Volume_Venda_Alcool,60722046.0
+Região Metropolitana da Grande São Luís,2010,Volume_Venda_Diesel,250596583.0
+Região Metropolitana da Grande São Luís,2010,Volume_Venda_Gasolina,202832025.0
+Região Metropolitana da Grande São Luís,2011,Volume_Venda_Alcool,20984844.0
+Região Metropolitana da Grande São Luís,2011,Volume_Venda_Diesel,458128029.0
+Região Metropolitana da Grande São Luís,2011,Volume_Venda_Gasolina,258248050.0
+Região Metropolitana da Grande São Luís,2012,Volume_Venda_Alcool,11695000.0
+Região Metropolitana da Grande São Luís,2012,Volume_Venda_Diesel,494706418.0
+Região Metropolitana da Grande São Luís,2012,Volume_Venda_Gasolina,300747399.0
+Região Metropolitana da Grande São Luís,2013,Volume_Venda_Alcool,12646831.0
+Região Metropolitana da Grande São Luís,2013,Volume_Venda_Diesel,463793221.0
+Região Metropolitana da Grande São Luís,2013,Volume_Venda_Gasolina,312609176.0
+Região Metropolitana da Grande São Luís,2014,Volume_Venda_Alcool,19657613.0
+Região Metropolitana da Grande São Luís,2014,Volume_Venda_Diesel,464054325.0
+Região Metropolitana da Grande São Luís,2014,Volume_Venda_Gasolina,332786545.0
+Região Metropolitana da Grande São Luís,2015,Volume_Venda_Alcool,25787670.0
+Região Metropolitana da Grande São Luís,2015,Volume_Venda_Diesel,506955557.0
+Região Metropolitana da Grande São Luís,2015,Volume_Venda_Gasolina,322824413.0
+Região Metropolitana da Grande São Luís,2016,Volume_Venda_Alcool,12268000.0
+Região Metropolitana da Grande São Luís,2016,Volume_Venda_Diesel,488661517.0
+Região Metropolitana da Grande São Luís,2016,Volume_Venda_Gasolina,333999684.0
+Região Metropolitana da Grande São Luís,2017,Volume_Venda_Alcool,8542678.0
+Região Metropolitana da Grande São Luís,2017,Volume_Venda_Diesel,531384787.527843
+Região Metropolitana da Grande São Luís,2017,Volume_Venda_Gasolina,344381560.0
+Região Metropolitana da Grande São Luís,2018,Volume_Venda_Alcool,16191123.0
+Região Metropolitana da Grande São Luís,2018,Volume_Venda_Diesel,583383290.0
+Região Metropolitana da Grande São Luís,2018,Volume_Venda_Gasolina,337469400.0
+Região Metropolitana da Grande São Luís,2019,Volume_Venda_Alcool,22725900.0
+Região Metropolitana da Grande São Luís,2019,Volume_Venda_Diesel,551758640.0
+Região Metropolitana da Grande São Luís,2019,Volume_Venda_Gasolina,330005520.0
+Região Metropolitana da Grande Vitória,2000,Volume_Venda_Alcool,40752168.0
+Região Metropolitana da Grande Vitória,2000,Volume_Venda_Diesel,364775450.0
+Região Metropolitana da Grande Vitória,2000,Volume_Venda_Gasolina,316229865.0
+Região Metropolitana da Grande Vitória,2001,Volume_Venda_Alcool,27769559.0
+Região Metropolitana da Grande Vitória,2001,Volume_Venda_Diesel,398286454.0
+Região Metropolitana da Grande Vitória,2001,Volume_Venda_Gasolina,251941245.0
+Região Metropolitana da Grande Vitória,2002,Volume_Venda_Alcool,26492615.0
+Região Metropolitana da Grande Vitória,2002,Volume_Venda_Diesel,390525001.0
+Região Metropolitana da Grande Vitória,2002,Volume_Venda_Gasolina,281311888.0
+Região Metropolitana da Grande Vitória,2003,Volume_Venda_Alcool,23495231.0
+Região Metropolitana da Grande Vitória,2003,Volume_Venda_Diesel,390772189.0
+Região Metropolitana da Grande Vitória,2003,Volume_Venda_Gasolina,232840238.0
+Região Metropolitana da Grande Vitória,2004,Volume_Venda_Alcool,20104542.0
+Região Metropolitana da Grande Vitória,2004,Volume_Venda_Diesel,389837914.0
+Região Metropolitana da Grande Vitória,2004,Volume_Venda_Gasolina,228241297.0
+Região Metropolitana da Grande Vitória,2005,Volume_Venda_Alcool,28589761.0
+Região Metropolitana da Grande Vitória,2005,Volume_Venda_Diesel,407995469.0
+Região Metropolitana da Grande Vitória,2005,Volume_Venda_Gasolina,239452257.0
+Região Metropolitana da Grande Vitória,2006,Volume_Venda_Alcool,24518708.0
+Região Metropolitana da Grande Vitória,2006,Volume_Venda_Diesel,449816971.13631636
+Região Metropolitana da Grande Vitória,2006,Volume_Venda_Gasolina,258391816.0
+Região Metropolitana da Grande Vitória,2007,Volume_Venda_Alcool,43364446.0
+Região Metropolitana da Grande Vitória,2007,Volume_Venda_Diesel,429727974.00000054
+Região Metropolitana da Grande Vitória,2007,Volume_Venda_Gasolina,248276506.0
+Região Metropolitana da Grande Vitória,2008,Volume_Venda_Alcool,82348954.9423821
+Região Metropolitana da Grande Vitória,2008,Volume_Venda_Diesel,487123885.8441996
+Região Metropolitana da Grande Vitória,2008,Volume_Venda_Gasolina,247003253.0
+Região Metropolitana da Grande Vitória,2009,Volume_Venda_Alcool,103920480.0
+Região Metropolitana da Grande Vitória,2009,Volume_Venda_Diesel,446845904.0
+Região Metropolitana da Grande Vitória,2009,Volume_Venda_Gasolina,262850645.0
+Região Metropolitana da Grande Vitória,2010,Volume_Venda_Alcool,48834992.0
+Região Metropolitana da Grande Vitória,2010,Volume_Venda_Diesel,497838128.0
+Região Metropolitana da Grande Vitória,2010,Volume_Venda_Gasolina,257935189.0
+Região Metropolitana da Grande Vitória,2011,Volume_Venda_Alcool,28140019.0
+Região Metropolitana da Grande Vitória,2011,Volume_Venda_Diesel,249530030.0
+Região Metropolitana da Grande Vitória,2011,Volume_Venda_Gasolina,293476372.0
+Região Metropolitana da Grande Vitória,2012,Volume_Venda_Alcool,27791497.0
+Região Metropolitana da Grande Vitória,2012,Volume_Venda_Diesel,275531724.0
+Região Metropolitana da Grande Vitória,2012,Volume_Venda_Gasolina,349011987.0
+Região Metropolitana da Grande Vitória,2013,Volume_Venda_Alcool,26170304.0
+Região Metropolitana da Grande Vitória,2013,Volume_Venda_Diesel,575216291.0
+Região Metropolitana da Grande Vitória,2013,Volume_Venda_Gasolina,439709470.0
+Região Metropolitana da Grande Vitória,2014,Volume_Venda_Alcool,27346954.0
+Região Metropolitana da Grande Vitória,2014,Volume_Venda_Diesel,574314924.0
+Região Metropolitana da Grande Vitória,2014,Volume_Venda_Gasolina,473854855.0
+Região Metropolitana da Grande Vitória,2014,Volume_Venda_GNV,28369974.0
+Região Metropolitana da Grande Vitória,2015,Volume_Venda_Alcool,41149784.0
+Região Metropolitana da Grande Vitória,2015,Volume_Venda_Diesel,467230209.0
+Região Metropolitana da Grande Vitória,2015,Volume_Venda_Gasolina,459600519.0
+Região Metropolitana da Grande Vitória,2015,Volume_Venda_GNV,27636420.0
+Região Metropolitana da Grande Vitória,2016,Volume_Venda_Alcool,29529895.0
+Região Metropolitana da Grande Vitória,2016,Volume_Venda_Diesel,388810594.0
+Região Metropolitana da Grande Vitória,2016,Volume_Venda_Gasolina,469868091.0
+Região Metropolitana da Grande Vitória,2016,Volume_Venda_GNV,28287767.0
+Região Metropolitana da Grande Vitória,2017,Volume_Venda_Alcool,20363957.0
+Região Metropolitana da Grande Vitória,2017,Volume_Venda_Diesel,376693308.2090923
+Região Metropolitana da Grande Vitória,2017,Volume_Venda_Gasolina,472408916.0
+Região Metropolitana da Grande Vitória,2017,Volume_Venda_GNV,34676616.0
+Região Metropolitana da Grande Vitória,2018,Volume_Venda_Alcool,33736234.0
+Região Metropolitana da Grande Vitória,2018,Volume_Venda_Diesel,460211770.0
+Região Metropolitana da Grande Vitória,2018,Volume_Venda_Gasolina,445400846.0
+Região Metropolitana da Grande Vitória,2018,Volume_Venda_GNV,40223024.0
+Região Metropolitana da Grande Vitória,2019,Volume_Venda_Alcool,42123307.0
+Região Metropolitana da Grande Vitória,2019,Volume_Venda_Diesel,466016980.0
+Região Metropolitana da Grande Vitória,2019,Volume_Venda_Gasolina,448989800.0
+Região Metropolitana da Grande Vitória,2019,Volume_Venda_GNV,40485129.0
+Região Metropolitana da Grande Vitória,2020,Volume_Venda_GNV,35096555.0
+Região Metropolitana de Aracaju,2000,Volume_Venda_Alcool,18353616.0
+Região Metropolitana de Aracaju,2000,Volume_Venda_Diesel,96222004.0
+Região Metropolitana de Aracaju,2000,Volume_Venda_Gasolina,99321466.0
+Região Metropolitana de Aracaju,2001,Volume_Venda_Alcool,13409386.0
+Região Metropolitana de Aracaju,2001,Volume_Venda_Diesel,106066456.0
+Região Metropolitana de Aracaju,2001,Volume_Venda_Gasolina,96794452.0
+Região Metropolitana de Aracaju,2002,Volume_Venda_Alcool,10880425.0
+Região Metropolitana de Aracaju,2002,Volume_Venda_Diesel,117437200.0
+Região Metropolitana de Aracaju,2002,Volume_Venda_Gasolina,100868544.0
+Região Metropolitana de Aracaju,2003,Volume_Venda_Alcool,8515421.0
+Região Metropolitana de Aracaju,2003,Volume_Venda_Diesel,115056121.0
+Região Metropolitana de Aracaju,2003,Volume_Venda_Gasolina,95471011.0
+Região Metropolitana de Aracaju,2004,Volume_Venda_Alcool,8907071.0
+Região Metropolitana de Aracaju,2004,Volume_Venda_Diesel,107264563.0
+Região Metropolitana de Aracaju,2004,Volume_Venda_Gasolina,101883950.0
+Região Metropolitana de Aracaju,2005,Volume_Venda_Alcool,8257823.0
+Região Metropolitana de Aracaju,2005,Volume_Venda_Diesel,106344313.0
+Região Metropolitana de Aracaju,2005,Volume_Venda_Gasolina,101768637.0
+Região Metropolitana de Aracaju,2006,Volume_Venda_Alcool,8038989.0
+Região Metropolitana de Aracaju,2006,Volume_Venda_Diesel,102350580.71945482
+Região Metropolitana de Aracaju,2006,Volume_Venda_Gasolina,106825533.0
+Região Metropolitana de Aracaju,2007,Volume_Venda_Alcool,11717757.0
+Região Metropolitana de Aracaju,2007,Volume_Venda_Diesel,136646775.0
+Região Metropolitana de Aracaju,2007,Volume_Venda_Gasolina,110002287.0
+Região Metropolitana de Aracaju,2008,Volume_Venda_Alcool,20324159.0
+Região Metropolitana de Aracaju,2008,Volume_Venda_Diesel,142093951.0
+Região Metropolitana de Aracaju,2008,Volume_Venda_Gasolina,118978351.0
+Região Metropolitana de Aracaju,2009,Volume_Venda_Alcool,37892415.0
+Região Metropolitana de Aracaju,2009,Volume_Venda_Diesel,120720675.0
+Região Metropolitana de Aracaju,2009,Volume_Venda_Gasolina,124957800.0
+Região Metropolitana de Aracaju,2010,Volume_Venda_Alcool,27100881.0
+Região Metropolitana de Aracaju,2010,Volume_Venda_Diesel,126125977.0
+Região Metropolitana de Aracaju,2010,Volume_Venda_Gasolina,153341090.0
+Região Metropolitana de Aracaju,2011,Volume_Venda_Alcool,16099150.0
+Região Metropolitana de Aracaju,2011,Volume_Venda_Diesel,131520184.0
+Região Metropolitana de Aracaju,2011,Volume_Venda_Gasolina,179008940.0
+Região Metropolitana de Aracaju,2012,Volume_Venda_Alcool,13497640.0
+Região Metropolitana de Aracaju,2012,Volume_Venda_Diesel,136970286.0
+Região Metropolitana de Aracaju,2012,Volume_Venda_Gasolina,198527451.0
+Região Metropolitana de Aracaju,2013,Volume_Venda_Alcool,13113415.0
+Região Metropolitana de Aracaju,2013,Volume_Venda_Diesel,131498038.0
+Região Metropolitana de Aracaju,2013,Volume_Venda_Gasolina,212513000.0
+Região Metropolitana de Aracaju,2014,Volume_Venda_Alcool,14092396.0
+Região Metropolitana de Aracaju,2014,Volume_Venda_Diesel,132279466.0
+Região Metropolitana de Aracaju,2014,Volume_Venda_Gasolina,227790710.0
+Região Metropolitana de Aracaju,2014,Volume_Venda_GNV,23041258.0
+Região Metropolitana de Aracaju,2015,Volume_Venda_Alcool,29178399.0
+Região Metropolitana de Aracaju,2015,Volume_Venda_Diesel,113795366.0
+Região Metropolitana de Aracaju,2015,Volume_Venda_Gasolina,213583200.0
+Região Metropolitana de Aracaju,2015,Volume_Venda_GNV,22511423.0
+Região Metropolitana de Aracaju,2016,Volume_Venda_Alcool,15856598.0
+Região Metropolitana de Aracaju,2016,Volume_Venda_Diesel,103263800.0
+Região Metropolitana de Aracaju,2016,Volume_Venda_Gasolina,213197100.0
+Região Metropolitana de Aracaju,2016,Volume_Venda_GNV,23471193.0
+Região Metropolitana de Aracaju,2017,Volume_Venda_Alcool,15751200.0
+Região Metropolitana de Aracaju,2017,Volume_Venda_Diesel,96644173.10433951
+Região Metropolitana de Aracaju,2017,Volume_Venda_Gasolina,211084691.0
+Região Metropolitana de Aracaju,2017,Volume_Venda_GNV,23754570.0
+Região Metropolitana de Aracaju,2018,Volume_Venda_Alcool,35017700.0
+Região Metropolitana de Aracaju,2018,Volume_Venda_Diesel,102399896.0
+Região Metropolitana de Aracaju,2018,Volume_Venda_Gasolina,189451280.0
+Região Metropolitana de Aracaju,2018,Volume_Venda_GNV,25124594.0
+Região Metropolitana de Aracaju,2019,Volume_Venda_Alcool,39854504.0
+Região Metropolitana de Aracaju,2019,Volume_Venda_Diesel,102257494.0
+Região Metropolitana de Aracaju,2019,Volume_Venda_Gasolina,194493100.0
+Região Metropolitana de Aracaju,2019,Volume_Venda_GNV,22166374.0
+Região Metropolitana de Aracaju,2020,Volume_Venda_GNV,16657712.0
+Região Metropolitana de Belo Horizonte,2000,Volume_Venda_Alcool,142090836.0
+Região Metropolitana de Belo Horizonte,2000,Volume_Venda_Diesel,945292425.0
+Região Metropolitana de Belo Horizonte,2000,Volume_Venda_Gasolina,759060160.0
+Região Metropolitana de Belo Horizonte,2001,Volume_Venda_Alcool,109631407.0
+Região Metropolitana de Belo Horizonte,2001,Volume_Venda_Diesel,960738338.0
+Região Metropolitana de Belo Horizonte,2001,Volume_Venda_Gasolina,754815511.0
+Região Metropolitana de Belo Horizonte,2002,Volume_Venda_Alcool,119959912.0
+Região Metropolitana de Belo Horizonte,2002,Volume_Venda_Diesel,970170892.0
+Região Metropolitana de Belo Horizonte,2002,Volume_Venda_Gasolina,773780484.0
+Região Metropolitana de Belo Horizonte,2003,Volume_Venda_Alcool,111476410.0
+Região Metropolitana de Belo Horizonte,2003,Volume_Venda_Diesel,975042183.0
+Região Metropolitana de Belo Horizonte,2003,Volume_Venda_Gasolina,762637779.0
+Região Metropolitana de Belo Horizonte,2004,Volume_Venda_Alcool,113353861.0
+Região Metropolitana de Belo Horizonte,2004,Volume_Venda_Diesel,1037200167.0
+Região Metropolitana de Belo Horizonte,2004,Volume_Venda_Gasolina,810642575.0
+Região Metropolitana de Belo Horizonte,2005,Volume_Venda_Alcool,112157620.0
+Região Metropolitana de Belo Horizonte,2005,Volume_Venda_Diesel,1077201802.0
+Região Metropolitana de Belo Horizonte,2005,Volume_Venda_Gasolina,832067515.0
+Região Metropolitana de Belo Horizonte,2006,Volume_Venda_Alcool,105216543.0
+Região Metropolitana de Belo Horizonte,2006,Volume_Venda_Diesel,1143904011.9958475
+Região Metropolitana de Belo Horizonte,2006,Volume_Venda_Gasolina,887420402.0
+Região Metropolitana de Belo Horizonte,2007,Volume_Venda_Alcool,192402955.0
+Região Metropolitana de Belo Horizonte,2007,Volume_Venda_Diesel,1119393465.0
+Região Metropolitana de Belo Horizonte,2007,Volume_Venda_Gasolina,925361685.0
+Região Metropolitana de Belo Horizonte,2008,Volume_Venda_Alcool,332542890.09474003
+Região Metropolitana de Belo Horizonte,2008,Volume_Venda_Diesel,1233456338.0
+Região Metropolitana de Belo Horizonte,2008,Volume_Venda_Gasolina,940176026.0
+Região Metropolitana de Belo Horizonte,2009,Volume_Venda_Alcool,419334496.0
+Região Metropolitana de Belo Horizonte,2009,Volume_Venda_Diesel,1209029625.0
+Região Metropolitana de Belo Horizonte,2009,Volume_Venda_Gasolina,969397096.0
+Região Metropolitana de Belo Horizonte,2010,Volume_Venda_Alcool,282016170.0
+Região Metropolitana de Belo Horizonte,2010,Volume_Venda_Diesel,1364629522.0
+Região Metropolitana de Belo Horizonte,2010,Volume_Venda_Gasolina,1194150433.0
+Região Metropolitana de Belo Horizonte,2011,Volume_Venda_Alcool,167792154.0
+Região Metropolitana de Belo Horizonte,2011,Volume_Venda_Diesel,1457377395.0
+Região Metropolitana de Belo Horizonte,2011,Volume_Venda_Gasolina,1336347933.0
+Região Metropolitana de Belo Horizonte,2012,Volume_Venda_Alcool,146611345.0
+Região Metropolitana de Belo Horizonte,2012,Volume_Venda_Diesel,1488511195.0
+Região Metropolitana de Belo Horizonte,2012,Volume_Venda_Gasolina,1426559127.0
+Região Metropolitana de Belo Horizonte,2013,Volume_Venda_Alcool,195234680.0
+Região Metropolitana de Belo Horizonte,2013,Volume_Venda_Diesel,1473125489.0
+Região Metropolitana de Belo Horizonte,2013,Volume_Venda_Gasolina,1484475248.0
+Região Metropolitana de Belo Horizonte,2014,Volume_Venda_Alcool,199181099.0
+Região Metropolitana de Belo Horizonte,2014,Volume_Venda_Diesel,1474873400.0
+Região Metropolitana de Belo Horizonte,2014,Volume_Venda_Gasolina,1545820491.0
+Região Metropolitana de Belo Horizonte,2014,Volume_Venda_GNV,21049423.0
+Região Metropolitana de Belo Horizonte,2015,Volume_Venda_Alcool,380401931.0
+Região Metropolitana de Belo Horizonte,2015,Volume_Venda_Diesel,1350097012.0
+Região Metropolitana de Belo Horizonte,2015,Volume_Venda_Gasolina,1294495571.0
+Região Metropolitana de Belo Horizonte,2015,Volume_Venda_GNV,19044285.0
+Região Metropolitana de Belo Horizonte,2016,Volume_Venda_Alcool,298070129.0
+Região Metropolitana de Belo Horizonte,2016,Volume_Venda_Diesel,1343055465.0
+Região Metropolitana de Belo Horizonte,2016,Volume_Venda_Gasolina,1371272523.0
+Região Metropolitana de Belo Horizonte,2016,Volume_Venda_GNV,18102425.0
+Região Metropolitana de Belo Horizonte,2017,Volume_Venda_Alcool,404317396.0
+Região Metropolitana de Belo Horizonte,2017,Volume_Venda_Diesel,1346596693.92487
+Região Metropolitana de Belo Horizonte,2017,Volume_Venda_Gasolina,1373199598.0
+Região Metropolitana de Belo Horizonte,2017,Volume_Venda_GNV,18466720.0
+Região Metropolitana de Belo Horizonte,2018,Volume_Venda_Alcool,817819374.0
+Região Metropolitana de Belo Horizonte,2018,Volume_Venda_Diesel,1365621350.0
+Região Metropolitana de Belo Horizonte,2018,Volume_Venda_Gasolina,1000467989.0
+Região Metropolitana de Belo Horizonte,2018,Volume_Venda_GNV,24747538.0
+Região Metropolitana de Belo Horizonte,2019,Volume_Venda_Alcool,1080463424.0
+Região Metropolitana de Belo Horizonte,2019,Volume_Venda_Diesel,1380492326.0
+Região Metropolitana de Belo Horizonte,2019,Volume_Venda_Gasolina,887918741.0
+Região Metropolitana de Belo Horizonte,2019,Volume_Venda_GNV,23793444.0
+Região Metropolitana de Belo Horizonte,2020,Volume_Venda_GNV,16540148.0
+Região Metropolitana de Belém,2000,Volume_Venda_Alcool,18035577.0
+Região Metropolitana de Belém,2000,Volume_Venda_Diesel,391124586.0
+Região Metropolitana de Belém,2000,Volume_Venda_Gasolina,202434165.0
+Região Metropolitana de Belém,2001,Volume_Venda_Alcool,7382242.0
+Região Metropolitana de Belém,2001,Volume_Venda_Diesel,437228608.0
+Região Metropolitana de Belém,2001,Volume_Venda_Gasolina,184056124.0
+Região Metropolitana de Belém,2002,Volume_Venda_Alcool,4014293.0
+Região Metropolitana de Belém,2002,Volume_Venda_Diesel,421767438.0
+Região Metropolitana de Belém,2002,Volume_Venda_Gasolina,194027822.0
+Região Metropolitana de Belém,2003,Volume_Venda_Alcool,4693706.0
+Região Metropolitana de Belém,2003,Volume_Venda_Diesel,405161654.0
+Região Metropolitana de Belém,2003,Volume_Venda_Gasolina,194084313.0
+Região Metropolitana de Belém,2004,Volume_Venda_Alcool,5954468.0
+Região Metropolitana de Belém,2004,Volume_Venda_Diesel,443206355.0
+Região Metropolitana de Belém,2004,Volume_Venda_Gasolina,206272962.0
+Região Metropolitana de Belém,2005,Volume_Venda_Alcool,6232830.0
+Região Metropolitana de Belém,2005,Volume_Venda_Diesel,438257001.0
+Região Metropolitana de Belém,2005,Volume_Venda_Gasolina,213759974.0
+Região Metropolitana de Belém,2006,Volume_Venda_Alcool,6311840.0
+Região Metropolitana de Belém,2006,Volume_Venda_Diesel,413398979.1125692
+Região Metropolitana de Belém,2006,Volume_Venda_Gasolina,222780804.0
+Região Metropolitana de Belém,2007,Volume_Venda_Alcool,11701640.0
+Região Metropolitana de Belém,2007,Volume_Venda_Diesel,450670401.0
+Região Metropolitana de Belém,2007,Volume_Venda_Gasolina,248095814.0
+Região Metropolitana de Belém,2008,Volume_Venda_Alcool,21756195.0
+Região Metropolitana de Belém,2008,Volume_Venda_Diesel,444168148.0
+Região Metropolitana de Belém,2008,Volume_Venda_Gasolina,266049093.0
+Região Metropolitana de Belém,2009,Volume_Venda_Alcool,32690404.0
+Região Metropolitana de Belém,2009,Volume_Venda_Diesel,416300135.0
+Região Metropolitana de Belém,2009,Volume_Venda_Gasolina,276731216.0
+Região Metropolitana de Belém,2010,Volume_Venda_Alcool,33378972.0
+Região Metropolitana de Belém,2010,Volume_Venda_Diesel,439105636.0
+Região Metropolitana de Belém,2010,Volume_Venda_Gasolina,311129803.0
+Região Metropolitana de Belém,2011,Volume_Venda_Alcool,22470204.0
+Região Metropolitana de Belém,2011,Volume_Venda_Diesel,443559244.0
+Região Metropolitana de Belém,2011,Volume_Venda_Gasolina,341855403.0
+Região Metropolitana de Belém,2012,Volume_Venda_Alcool,19666500.0
+Região Metropolitana de Belém,2012,Volume_Venda_Diesel,457351084.0
+Região Metropolitana de Belém,2012,Volume_Venda_Gasolina,380168289.0
+Região Metropolitana de Belém,2013,Volume_Venda_Alcool,19195887.0
+Região Metropolitana de Belém,2013,Volume_Venda_Diesel,450809754.0
+Região Metropolitana de Belém,2013,Volume_Venda_Gasolina,400768054.0
+Região Metropolitana de Belém,2014,Volume_Venda_Alcool,18421341.0
+Região Metropolitana de Belém,2014,Volume_Venda_Diesel,463558842.0
+Região Metropolitana de Belém,2014,Volume_Venda_Gasolina,428802416.0
+Região Metropolitana de Belém,2015,Volume_Venda_Alcool,27008000.0
+Região Metropolitana de Belém,2015,Volume_Venda_Diesel,444288349.0
+Região Metropolitana de Belém,2015,Volume_Venda_Gasolina,430140997.0
+Região Metropolitana de Belém,2016,Volume_Venda_Alcool,19454389.0
+Região Metropolitana de Belém,2016,Volume_Venda_Diesel,418775461.0
+Região Metropolitana de Belém,2016,Volume_Venda_Gasolina,434037448.0
+Região Metropolitana de Belém,2017,Volume_Venda_Alcool,15927273.0
+Região Metropolitana de Belém,2017,Volume_Venda_Diesel,404981910.547054
+Região Metropolitana de Belém,2017,Volume_Venda_Gasolina,443661657.0
+Região Metropolitana de Belém,2018,Volume_Venda_Alcool,37859145.0
+Região Metropolitana de Belém,2018,Volume_Venda_Diesel,432252366.0
+Região Metropolitana de Belém,2018,Volume_Venda_Gasolina,432259641.0
+Região Metropolitana de Belém,2019,Volume_Venda_Alcool,40097410.0
+Região Metropolitana de Belém,2019,Volume_Venda_Diesel,443062551.0
+Região Metropolitana de Belém,2019,Volume_Venda_Gasolina,449824019.0
+Região Metropolitana de Curitiba,2000,Volume_Venda_Alcool,150503033.0
+Região Metropolitana de Curitiba,2000,Volume_Venda_Diesel,944815393.0
+Região Metropolitana de Curitiba,2000,Volume_Venda_Gasolina,644209130.0
+Região Metropolitana de Curitiba,2001,Volume_Venda_Alcool,135142776.0
+Região Metropolitana de Curitiba,2001,Volume_Venda_Diesel,949069852.0
+Região Metropolitana de Curitiba,2001,Volume_Venda_Gasolina,611461820.0
+Região Metropolitana de Curitiba,2002,Volume_Venda_Alcool,132433810.0
+Região Metropolitana de Curitiba,2002,Volume_Venda_Diesel,957401516.0
+Região Metropolitana de Curitiba,2002,Volume_Venda_Gasolina,603895651.0
+Região Metropolitana de Curitiba,2003,Volume_Venda_Alcool,122512534.0
+Região Metropolitana de Curitiba,2003,Volume_Venda_Diesel,982331583.0
+Região Metropolitana de Curitiba,2003,Volume_Venda_Gasolina,606371198.0
+Região Metropolitana de Curitiba,2004,Volume_Venda_Alcool,170770388.0
+Região Metropolitana de Curitiba,2004,Volume_Venda_Diesel,1016421313.0
+Região Metropolitana de Curitiba,2004,Volume_Venda_Gasolina,644346129.0
+Região Metropolitana de Curitiba,2005,Volume_Venda_Alcool,173900447.0
+Região Metropolitana de Curitiba,2005,Volume_Venda_Diesel,1021444563.0
+Região Metropolitana de Curitiba,2005,Volume_Venda_Gasolina,751008501.0
+Região Metropolitana de Curitiba,2006,Volume_Venda_Alcool,167899126.0
+Região Metropolitana de Curitiba,2006,Volume_Venda_Diesel,1104906496.855098
+Região Metropolitana de Curitiba,2006,Volume_Venda_Gasolina,680519742.0
+Região Metropolitana de Curitiba,2007,Volume_Venda_Alcool,311752607.413031
+Região Metropolitana de Curitiba,2007,Volume_Venda_Diesel,1140627533.0
+Região Metropolitana de Curitiba,2007,Volume_Venda_Gasolina,678689663.3979571
+Região Metropolitana de Curitiba,2008,Volume_Venda_Alcool,307391360.0
+Região Metropolitana de Curitiba,2008,Volume_Venda_Diesel,1168638403.0
+Região Metropolitana de Curitiba,2008,Volume_Venda_Gasolina,668384703.0
+Região Metropolitana de Curitiba,2009,Volume_Venda_Alcool,358790384.0
+Região Metropolitana de Curitiba,2009,Volume_Venda_Diesel,1176068409.0
+Região Metropolitana de Curitiba,2009,Volume_Venda_Gasolina,610236737.0
+Região Metropolitana de Curitiba,2010,Volume_Venda_Alcool,525032512.0
+Região Metropolitana de Curitiba,2010,Volume_Venda_Diesel,1283273527.0
+Região Metropolitana de Curitiba,2010,Volume_Venda_Gasolina,743359867.0
+Região Metropolitana de Curitiba,2011,Volume_Venda_Alcool,292640342.0
+Região Metropolitana de Curitiba,2011,Volume_Venda_Diesel,1316272205.0
+Região Metropolitana de Curitiba,2011,Volume_Venda_Gasolina,952665505.0
+Região Metropolitana de Curitiba,2012,Volume_Venda_Alcool,257249147.0
+Região Metropolitana de Curitiba,2012,Volume_Venda_Diesel,1318615337.0
+Região Metropolitana de Curitiba,2012,Volume_Venda_Gasolina,1071492456.0
+Região Metropolitana de Curitiba,2013,Volume_Venda_Alcool,408982919.0
+Região Metropolitana de Curitiba,2013,Volume_Venda_Diesel,1392530451.0
+Região Metropolitana de Curitiba,2013,Volume_Venda_Gasolina,1056891095.0
+Região Metropolitana de Curitiba,2014,Volume_Venda_Alcool,424142088.0
+Região Metropolitana de Curitiba,2014,Volume_Venda_Diesel,1426878060.0
+Região Metropolitana de Curitiba,2014,Volume_Venda_Gasolina,1090925475.0
+Região Metropolitana de Curitiba,2014,Volume_Venda_GNV,26078693.0
+Região Metropolitana de Curitiba,2015,Volume_Venda_Alcool,394312229.0
+Região Metropolitana de Curitiba,2015,Volume_Venda_Diesel,1363427985.0
+Região Metropolitana de Curitiba,2015,Volume_Venda_Gasolina,993042061.0
+Região Metropolitana de Curitiba,2015,Volume_Venda_GNV,24563218.0
+Região Metropolitana de Curitiba,2016,Volume_Venda_Alcool,244876486.0
+Região Metropolitana de Curitiba,2016,Volume_Venda_Diesel,1326902129.0
+Região Metropolitana de Curitiba,2016,Volume_Venda_Gasolina,1109454771.0
+Região Metropolitana de Curitiba,2016,Volume_Venda_GNV,24506607.0
+Região Metropolitana de Curitiba,2017,Volume_Venda_Alcool,199964073.0
+Região Metropolitana de Curitiba,2017,Volume_Venda_Diesel,1392408236.17036
+Região Metropolitana de Curitiba,2017,Volume_Venda_Gasolina,1194358304.0
+Região Metropolitana de Curitiba,2017,Volume_Venda_GNV,21903358.0
+Região Metropolitana de Curitiba,2018,Volume_Venda_Alcool,478148606.0
+Região Metropolitana de Curitiba,2018,Volume_Venda_Diesel,1446248600.0
+Região Metropolitana de Curitiba,2018,Volume_Venda_Gasolina,980082347.0
+Região Metropolitana de Curitiba,2018,Volume_Venda_GNV,25558291.0
+Região Metropolitana de Curitiba,2019,Volume_Venda_Alcool,560638526.0
+Região Metropolitana de Curitiba,2019,Volume_Venda_Diesel,1475944870.0
+Região Metropolitana de Curitiba,2019,Volume_Venda_Gasolina,953316597.0
+Região Metropolitana de Curitiba,2019,Volume_Venda_GNV,24544745.0
+Região Metropolitana de Curitiba,2020,Volume_Venda_GNV,17395803.0
+Região Metropolitana de Florianópolis,2000,Volume_Venda_Alcool,28228023.0
+Região Metropolitana de Florianópolis,2000,Volume_Venda_Diesel,164362478.0
+Região Metropolitana de Florianópolis,2000,Volume_Venda_Gasolina,234459155.0
+Região Metropolitana de Florianópolis,2001,Volume_Venda_Alcool,29488928.0
+Região Metropolitana de Florianópolis,2001,Volume_Venda_Diesel,171743133.0
+Região Metropolitana de Florianópolis,2001,Volume_Venda_Gasolina,248262364.0
+Região Metropolitana de Florianópolis,2002,Volume_Venda_Alcool,30913905.0
+Região Metropolitana de Florianópolis,2002,Volume_Venda_Diesel,171788915.0
+Região Metropolitana de Florianópolis,2002,Volume_Venda_Gasolina,276173728.0
+Região Metropolitana de Florianópolis,2003,Volume_Venda_Alcool,25076414.0
+Região Metropolitana de Florianópolis,2003,Volume_Venda_Diesel,165735316.0
+Região Metropolitana de Florianópolis,2003,Volume_Venda_Gasolina,259652547.0
+Região Metropolitana de Florianópolis,2004,Volume_Venda_Alcool,28890751.0
+Região Metropolitana de Florianópolis,2004,Volume_Venda_Diesel,175198812.0
+Região Metropolitana de Florianópolis,2004,Volume_Venda_Gasolina,275801520.0
+Região Metropolitana de Florianópolis,2005,Volume_Venda_Alcool,32406737.0
+Região Metropolitana de Florianópolis,2005,Volume_Venda_Diesel,170438212.0
+Região Metropolitana de Florianópolis,2005,Volume_Venda_Gasolina,281236233.0
+Região Metropolitana de Florianópolis,2006,Volume_Venda_Alcool,45793081.0
+Região Metropolitana de Florianópolis,2006,Volume_Venda_Diesel,164492748.82005596
+Região Metropolitana de Florianópolis,2006,Volume_Venda_Gasolina,327400416.0
+Região Metropolitana de Florianópolis,2007,Volume_Venda_Alcool,53409769.0
+Região Metropolitana de Florianópolis,2007,Volume_Venda_Diesel,174782957.0
+Região Metropolitana de Florianópolis,2007,Volume_Venda_Gasolina,264316821.0
+Região Metropolitana de Florianópolis,2008,Volume_Venda_Alcool,84480853.0
+Região Metropolitana de Florianópolis,2008,Volume_Venda_Diesel,170485665.0
+Região Metropolitana de Florianópolis,2008,Volume_Venda_Gasolina,259686303.0
+Região Metropolitana de Florianópolis,2009,Volume_Venda_Alcool,121106304.0
+Região Metropolitana de Florianópolis,2009,Volume_Venda_Diesel,171937707.0
+Região Metropolitana de Florianópolis,2009,Volume_Venda_Gasolina,277252702.0
+Região Metropolitana de Florianópolis,2010,Volume_Venda_Alcool,76928125.0
+Região Metropolitana de Florianópolis,2010,Volume_Venda_Diesel,179013964.0
+Região Metropolitana de Florianópolis,2010,Volume_Venda_Gasolina,360531823.0
+Região Metropolitana de Florianópolis,2011,Volume_Venda_Alcool,28179136.0
+Região Metropolitana de Florianópolis,2011,Volume_Venda_Diesel,190066477.0
+Região Metropolitana de Florianópolis,2011,Volume_Venda_Gasolina,398719181.0
+Região Metropolitana de Florianópolis,2012,Volume_Venda_Alcool,19529821.0
+Região Metropolitana de Florianópolis,2012,Volume_Venda_Diesel,203774750.0
+Região Metropolitana de Florianópolis,2012,Volume_Venda_Gasolina,447090336.0
+Região Metropolitana de Florianópolis,2013,Volume_Venda_Alcool,26813288.0
+Região Metropolitana de Florianópolis,2013,Volume_Venda_Diesel,202226619.0
+Região Metropolitana de Florianópolis,2013,Volume_Venda_Gasolina,458045541.0
+Região Metropolitana de Florianópolis,2014,Volume_Venda_Alcool,30662392.0
+Região Metropolitana de Florianópolis,2014,Volume_Venda_Diesel,198965821.0
+Região Metropolitana de Florianópolis,2014,Volume_Venda_Gasolina,489427868.0
+Região Metropolitana de Florianópolis,2014,Volume_Venda_GNV,17761224.0
+Região Metropolitana de Florianópolis,2015,Volume_Venda_Alcool,36203978.0
+Região Metropolitana de Florianópolis,2015,Volume_Venda_Diesel,187818565.0
+Região Metropolitana de Florianópolis,2015,Volume_Venda_Gasolina,489205322.0
+Região Metropolitana de Florianópolis,2015,Volume_Venda_GNV,17108045.0
+Região Metropolitana de Florianópolis,2016,Volume_Venda_Alcool,13749300.0
+Região Metropolitana de Florianópolis,2016,Volume_Venda_Diesel,177827621.0
+Região Metropolitana de Florianópolis,2016,Volume_Venda_Gasolina,522575788.0
+Região Metropolitana de Florianópolis,2016,Volume_Venda_GNV,17844004.0
+Região Metropolitana de Florianópolis,2017,Volume_Venda_Alcool,11266219.0
+Região Metropolitana de Florianópolis,2017,Volume_Venda_Diesel,167699070.950007
+Região Metropolitana de Florianópolis,2017,Volume_Venda_Gasolina,521204301.0
+Região Metropolitana de Florianópolis,2017,Volume_Venda_GNV,21050899.0
+Região Metropolitana de Florianópolis,2018,Volume_Venda_Alcool,22549021.0
+Região Metropolitana de Florianópolis,2018,Volume_Venda_Diesel,167429596.0
+Região Metropolitana de Florianópolis,2018,Volume_Venda_Gasolina,512455388.0
+Região Metropolitana de Florianópolis,2018,Volume_Venda_GNV,28036212.0
+Região Metropolitana de Florianópolis,2019,Volume_Venda_Alcool,19489602.0
+Região Metropolitana de Florianópolis,2019,Volume_Venda_Diesel,184822180.0
+Região Metropolitana de Florianópolis,2019,Volume_Venda_Gasolina,537060603.0
+Região Metropolitana de Florianópolis,2019,Volume_Venda_GNV,30199398.0
+Região Metropolitana de Florianópolis,2020,Volume_Venda_GNV,27348919.0
+Região Metropolitana de Fortaleza,2000,Volume_Venda_Alcool,49362581.0
+Região Metropolitana de Fortaleza,2000,Volume_Venda_Diesel,320743627.0
+Região Metropolitana de Fortaleza,2000,Volume_Venda_Gasolina,337224848.0
+Região Metropolitana de Fortaleza,2001,Volume_Venda_Alcool,31734665.0
+Região Metropolitana de Fortaleza,2001,Volume_Venda_Diesel,339950422.0
+Região Metropolitana de Fortaleza,2001,Volume_Venda_Gasolina,325673728.0
+Região Metropolitana de Fortaleza,2002,Volume_Venda_Alcool,29424792.0
+Região Metropolitana de Fortaleza,2002,Volume_Venda_Diesel,342727232.0
+Região Metropolitana de Fortaleza,2002,Volume_Venda_Gasolina,338274998.0
+Região Metropolitana de Fortaleza,2003,Volume_Venda_Alcool,22106856.0
+Região Metropolitana de Fortaleza,2003,Volume_Venda_Diesel,319242147.0
+Região Metropolitana de Fortaleza,2003,Volume_Venda_Gasolina,325094450.0
+Região Metropolitana de Fortaleza,2004,Volume_Venda_Alcool,22655722.0
+Região Metropolitana de Fortaleza,2004,Volume_Venda_Diesel,312550717.0
+Região Metropolitana de Fortaleza,2004,Volume_Venda_Gasolina,331913848.0
+Região Metropolitana de Fortaleza,2005,Volume_Venda_Alcool,27187086.0
+Região Metropolitana de Fortaleza,2005,Volume_Venda_Diesel,332094346.0
+Região Metropolitana de Fortaleza,2005,Volume_Venda_Gasolina,327389433.0
+Região Metropolitana de Fortaleza,2006,Volume_Venda_Alcool,50821113.0
+Região Metropolitana de Fortaleza,2006,Volume_Venda_Diesel,332169170.65332717
+Região Metropolitana de Fortaleza,2006,Volume_Venda_Gasolina,332240986.0
+Região Metropolitana de Fortaleza,2007,Volume_Venda_Alcool,88317809.0
+Região Metropolitana de Fortaleza,2007,Volume_Venda_Diesel,295082371.0
+Região Metropolitana de Fortaleza,2007,Volume_Venda_Gasolina,337896700.0
+Região Metropolitana de Fortaleza,2008,Volume_Venda_Alcool,123272633.505387
+Região Metropolitana de Fortaleza,2008,Volume_Venda_Diesel,410716499.02258503
+Região Metropolitana de Fortaleza,2008,Volume_Venda_Gasolina,364900562.0
+Região Metropolitana de Fortaleza,2009,Volume_Venda_Alcool,141694465.0
+Região Metropolitana de Fortaleza,2009,Volume_Venda_Diesel,412413990.0
+Região Metropolitana de Fortaleza,2009,Volume_Venda_Gasolina,398518107.0
+Região Metropolitana de Fortaleza,2010,Volume_Venda_Alcool,127391637.0
+Região Metropolitana de Fortaleza,2010,Volume_Venda_Diesel,467254339.0
+Região Metropolitana de Fortaleza,2010,Volume_Venda_Gasolina,487704513.0
+Região Metropolitana de Fortaleza,2011,Volume_Venda_Alcool,87482823.0
+Região Metropolitana de Fortaleza,2011,Volume_Venda_Diesel,505216517.0
+Região Metropolitana de Fortaleza,2011,Volume_Venda_Gasolina,568097001.0
+Região Metropolitana de Fortaleza,2012,Volume_Venda_Alcool,68297532.0
+Região Metropolitana de Fortaleza,2012,Volume_Venda_Diesel,561532412.0
+Região Metropolitana de Fortaleza,2012,Volume_Venda_Gasolina,667112640.0
+Região Metropolitana de Fortaleza,2013,Volume_Venda_Alcool,70403240.0
+Região Metropolitana de Fortaleza,2013,Volume_Venda_Diesel,609633470.0
+Região Metropolitana de Fortaleza,2013,Volume_Venda_Gasolina,728954452.0
+Região Metropolitana de Fortaleza,2014,Volume_Venda_Alcool,79339941.0
+Região Metropolitana de Fortaleza,2014,Volume_Venda_Diesel,583002923.0
+Região Metropolitana de Fortaleza,2014,Volume_Venda_Gasolina,791004376.0
+Região Metropolitana de Fortaleza,2014,Volume_Venda_GNV,50794482.0
+Região Metropolitana de Fortaleza,2015,Volume_Venda_Alcool,104333863.0
+Região Metropolitana de Fortaleza,2015,Volume_Venda_Diesel,518947735.0
+Região Metropolitana de Fortaleza,2015,Volume_Venda_Gasolina,762762997.0
+Região Metropolitana de Fortaleza,2015,Volume_Venda_GNV,51167211.0
+Região Metropolitana de Fortaleza,2016,Volume_Venda_Alcool,89898399.0
+Região Metropolitana de Fortaleza,2016,Volume_Venda_Diesel,495020144.0
+Região Metropolitana de Fortaleza,2016,Volume_Venda_Gasolina,775377906.0
+Região Metropolitana de Fortaleza,2016,Volume_Venda_GNV,53031176.0
+Região Metropolitana de Fortaleza,2017,Volume_Venda_Alcool,77798742.0
+Região Metropolitana de Fortaleza,2017,Volume_Venda_Diesel,484581826.78329396
+Região Metropolitana de Fortaleza,2017,Volume_Venda_Gasolina,777535024.0
+Região Metropolitana de Fortaleza,2017,Volume_Venda_GNV,61132912.0
+Região Metropolitana de Fortaleza,2018,Volume_Venda_Alcool,126384267.0
+Região Metropolitana de Fortaleza,2018,Volume_Venda_Diesel,503133014.0
+Região Metropolitana de Fortaleza,2018,Volume_Venda_Gasolina,735734785.0
+Região Metropolitana de Fortaleza,2018,Volume_Venda_GNV,67250603.0
+Região Metropolitana de Fortaleza,2019,Volume_Venda_Alcool,126274154.0
+Região Metropolitana de Fortaleza,2019,Volume_Venda_Diesel,509322188.0
+Região Metropolitana de Fortaleza,2019,Volume_Venda_Gasolina,769207850.0
+Região Metropolitana de Fortaleza,2019,Volume_Venda_GNV,72353185.0
+Região Metropolitana de Fortaleza,2020,Volume_Venda_GNV,54043579.0
+Região Metropolitana de Goiânia,2000,Volume_Venda_Alcool,91134349.0
+Região Metropolitana de Goiânia,2000,Volume_Venda_Diesel,350999598.0
+Região Metropolitana de Goiânia,2000,Volume_Venda_Gasolina,361164992.0
+Região Metropolitana de Goiânia,2001,Volume_Venda_Alcool,58900389.0
+Região Metropolitana de Goiânia,2001,Volume_Venda_Diesel,360475131.0
+Região Metropolitana de Goiânia,2001,Volume_Venda_Gasolina,364453614.0
+Região Metropolitana de Goiânia,2002,Volume_Venda_Alcool,73149134.0
+Região Metropolitana de Goiânia,2002,Volume_Venda_Diesel,376073517.0
+Região Metropolitana de Goiânia,2002,Volume_Venda_Gasolina,408215621.0
+Região Metropolitana de Goiânia,2003,Volume_Venda_Alcool,62274942.0
+Região Metropolitana de Goiânia,2003,Volume_Venda_Diesel,379329393.0
+Região Metropolitana de Goiânia,2003,Volume_Venda_Gasolina,378626811.0
+Região Metropolitana de Goiânia,2004,Volume_Venda_Alcool,74621369.0
+Região Metropolitana de Goiânia,2004,Volume_Venda_Diesel,410896159.0
+Região Metropolitana de Goiânia,2004,Volume_Venda_Gasolina,421606703.0
+Região Metropolitana de Goiânia,2005,Volume_Venda_Alcool,66703951.0
+Região Metropolitana de Goiânia,2005,Volume_Venda_Diesel,418508044.0
+Região Metropolitana de Goiânia,2005,Volume_Venda_Gasolina,427681163.0
+Região Metropolitana de Goiânia,2006,Volume_Venda_Alcool,118933496.0
+Região Metropolitana de Goiânia,2006,Volume_Venda_Diesel,433795986.86588115
+Região Metropolitana de Goiânia,2006,Volume_Venda_Gasolina,436018315.0
+Região Metropolitana de Goiânia,2007,Volume_Venda_Alcool,209779497.0
+Região Metropolitana de Goiânia,2007,Volume_Venda_Diesel,467802572.0
+Região Metropolitana de Goiânia,2007,Volume_Venda_Gasolina,417200172.0
+Região Metropolitana de Goiânia,2008,Volume_Venda_Alcool,285547844.933536
+Região Metropolitana de Goiânia,2008,Volume_Venda_Diesel,512580082.0
+Região Metropolitana de Goiânia,2008,Volume_Venda_Gasolina,418344793.0
+Região Metropolitana de Goiânia,2009,Volume_Venda_Alcool,356095048.0
+Região Metropolitana de Goiânia,2009,Volume_Venda_Diesel,496893499.0
+Região Metropolitana de Goiânia,2009,Volume_Venda_Gasolina,415651094.0
+Região Metropolitana de Goiânia,2010,Volume_Venda_Alcool,411017012.0
+Região Metropolitana de Goiânia,2010,Volume_Venda_Diesel,560700357.0
+Região Metropolitana de Goiânia,2010,Volume_Venda_Gasolina,455336139.0
+Região Metropolitana de Goiânia,2011,Volume_Venda_Alcool,341100121.0
+Região Metropolitana de Goiânia,2011,Volume_Venda_Diesel,572152517.0
+Região Metropolitana de Goiânia,2011,Volume_Venda_Gasolina,526180487.0
+Região Metropolitana de Goiânia,2012,Volume_Venda_Alcool,327682640.0
+Região Metropolitana de Goiânia,2012,Volume_Venda_Diesel,751190164.0
+Região Metropolitana de Goiânia,2012,Volume_Venda_Gasolina,601174896.0
+Região Metropolitana de Goiânia,2013,Volume_Venda_Alcool,387867623.0
+Região Metropolitana de Goiânia,2013,Volume_Venda_Diesel,869927226.0
+Região Metropolitana de Goiânia,2013,Volume_Venda_Gasolina,638039632.0
+Região Metropolitana de Goiânia,2014,Volume_Venda_Alcool,356495802.0
+Região Metropolitana de Goiânia,2014,Volume_Venda_Diesel,1055676423.0
+Região Metropolitana de Goiânia,2014,Volume_Venda_Gasolina,662438070.0
+Região Metropolitana de Goiânia,2014,Volume_Venda_GNV,641153.0
+Região Metropolitana de Goiânia,2015,Volume_Venda_Alcool,573447001.0
+Região Metropolitana de Goiânia,2015,Volume_Venda_Diesel,749590843.0
+Região Metropolitana de Goiânia,2015,Volume_Venda_Gasolina,562165913.0
+Região Metropolitana de Goiânia,2015,Volume_Venda_GNV,604707.0
+Região Metropolitana de Goiânia,2016,Volume_Venda_Alcool,491915904.0
+Região Metropolitana de Goiânia,2016,Volume_Venda_Diesel,606753175.0
+Região Metropolitana de Goiânia,2016,Volume_Venda_Gasolina,605120271.0
+Região Metropolitana de Goiânia,2016,Volume_Venda_GNV,619859.0
+Região Metropolitana de Goiânia,2017,Volume_Venda_Alcool,464322833.0
+Região Metropolitana de Goiânia,2017,Volume_Venda_Diesel,609937664.050277
+Região Metropolitana de Goiânia,2017,Volume_Venda_Gasolina,643744268.0
+Região Metropolitana de Goiânia,2017,Volume_Venda_GNV,430423.0
+Região Metropolitana de Goiânia,2018,Volume_Venda_Alcool,697934843.0
+Região Metropolitana de Goiânia,2018,Volume_Venda_Diesel,643432847.0
+Região Metropolitana de Goiânia,2018,Volume_Venda_Gasolina,465118511.0
+Região Metropolitana de Goiânia,2018,Volume_Venda_GNV,438061.0
+Região Metropolitana de Goiânia,2019,Volume_Venda_Alcool,779128207.0
+Região Metropolitana de Goiânia,2019,Volume_Venda_Diesel,689271046.0
+Região Metropolitana de Goiânia,2019,Volume_Venda_Gasolina,434852000.0
+Região Metropolitana de João Pessoa,2000,Volume_Venda_Alcool,19247412.0
+Região Metropolitana de João Pessoa,2000,Volume_Venda_Diesel,103282497.0
+Região Metropolitana de João Pessoa,2000,Volume_Venda_Gasolina,112284562.0
+Região Metropolitana de João Pessoa,2001,Volume_Venda_Alcool,11244991.0
+Região Metropolitana de João Pessoa,2001,Volume_Venda_Diesel,118082731.0
+Região Metropolitana de João Pessoa,2001,Volume_Venda_Gasolina,106686759.0
+Região Metropolitana de João Pessoa,2002,Volume_Venda_Alcool,9259040.0
+Região Metropolitana de João Pessoa,2002,Volume_Venda_Diesel,124084733.0
+Região Metropolitana de João Pessoa,2002,Volume_Venda_Gasolina,114954243.0
+Região Metropolitana de João Pessoa,2003,Volume_Venda_Alcool,14326068.0
+Região Metropolitana de João Pessoa,2003,Volume_Venda_Diesel,121422588.0
+Região Metropolitana de João Pessoa,2003,Volume_Venda_Gasolina,112683713.0
+Região Metropolitana de João Pessoa,2004,Volume_Venda_Alcool,15097312.0
+Região Metropolitana de João Pessoa,2004,Volume_Venda_Diesel,121534913.0
+Região Metropolitana de João Pessoa,2004,Volume_Venda_Gasolina,124369340.0
+Região Metropolitana de João Pessoa,2005,Volume_Venda_Alcool,15969714.0
+Região Metropolitana de João Pessoa,2005,Volume_Venda_Diesel,119910581.0
+Região Metropolitana de João Pessoa,2005,Volume_Venda_Gasolina,119791694.0
+Região Metropolitana de João Pessoa,2006,Volume_Venda_Alcool,17803133.0
+Região Metropolitana de João Pessoa,2006,Volume_Venda_Diesel,127252319.52821136
+Região Metropolitana de João Pessoa,2006,Volume_Venda_Gasolina,120365161.0
+Região Metropolitana de João Pessoa,2007,Volume_Venda_Alcool,33673830.0
+Região Metropolitana de João Pessoa,2007,Volume_Venda_Diesel,137883532.0
+Região Metropolitana de João Pessoa,2007,Volume_Venda_Gasolina,124486502.0
+Região Metropolitana de João Pessoa,2008,Volume_Venda_Alcool,45620983.0
+Região Metropolitana de João Pessoa,2008,Volume_Venda_Diesel,142034189.0
+Região Metropolitana de João Pessoa,2008,Volume_Venda_Gasolina,147121756.0
+Região Metropolitana de João Pessoa,2009,Volume_Venda_Alcool,65262947.0
+Região Metropolitana de João Pessoa,2009,Volume_Venda_Diesel,147634521.0
+Região Metropolitana de João Pessoa,2009,Volume_Venda_Gasolina,156864860.0
+Região Metropolitana de João Pessoa,2010,Volume_Venda_Alcool,51158554.0
+Região Metropolitana de João Pessoa,2010,Volume_Venda_Diesel,160589928.0
+Região Metropolitana de João Pessoa,2010,Volume_Venda_Gasolina,199257424.0
+Região Metropolitana de João Pessoa,2011,Volume_Venda_Alcool,32157440.0
+Região Metropolitana de João Pessoa,2011,Volume_Venda_Diesel,172474859.0
+Região Metropolitana de João Pessoa,2011,Volume_Venda_Gasolina,234719562.0
+Região Metropolitana de João Pessoa,2012,Volume_Venda_Alcool,23450341.0
+Região Metropolitana de João Pessoa,2012,Volume_Venda_Diesel,188237342.0
+Região Metropolitana de João Pessoa,2012,Volume_Venda_Gasolina,259815450.0
+Região Metropolitana de João Pessoa,2013,Volume_Venda_Alcool,28941317.0
+Região Metropolitana de João Pessoa,2013,Volume_Venda_Diesel,187871327.0
+Região Metropolitana de João Pessoa,2013,Volume_Venda_Gasolina,273244098.0
+Região Metropolitana de João Pessoa,2014,Volume_Venda_Alcool,37629009.0
+Região Metropolitana de João Pessoa,2014,Volume_Venda_Diesel,186595214.0
+Região Metropolitana de João Pessoa,2014,Volume_Venda_Gasolina,298724743.0
+Região Metropolitana de João Pessoa,2014,Volume_Venda_GNV,21145890.0
+Região Metropolitana de João Pessoa,2015,Volume_Venda_Alcool,44888705.0
+Região Metropolitana de João Pessoa,2015,Volume_Venda_Diesel,180618914.0
+Região Metropolitana de João Pessoa,2015,Volume_Venda_Gasolina,295190732.0
+Região Metropolitana de João Pessoa,2015,Volume_Venda_GNV,19948696.0
+Região Metropolitana de João Pessoa,2016,Volume_Venda_Alcool,32617490.0
+Região Metropolitana de João Pessoa,2016,Volume_Venda_Diesel,178618983.0
+Região Metropolitana de João Pessoa,2016,Volume_Venda_Gasolina,306577810.0
+Região Metropolitana de João Pessoa,2016,Volume_Venda_GNV,20361940.0
+Região Metropolitana de João Pessoa,2017,Volume_Venda_Alcool,33067926.0
+Região Metropolitana de João Pessoa,2017,Volume_Venda_Diesel,167555325.09079552
+Região Metropolitana de João Pessoa,2017,Volume_Venda_Gasolina,309688028.0
+Região Metropolitana de João Pessoa,2017,Volume_Venda_GNV,21437004.0
+Região Metropolitana de João Pessoa,2018,Volume_Venda_Alcool,98310365.0
+Região Metropolitana de João Pessoa,2018,Volume_Venda_Diesel,165439133.0
+Região Metropolitana de João Pessoa,2018,Volume_Venda_Gasolina,266656587.0
+Região Metropolitana de João Pessoa,2018,Volume_Venda_GNV,21260685.0
+Região Metropolitana de João Pessoa,2019,Volume_Venda_Alcool,106521241.0
+Região Metropolitana de João Pessoa,2019,Volume_Venda_Diesel,156984610.0
+Região Metropolitana de João Pessoa,2019,Volume_Venda_Gasolina,270078307.0
+Região Metropolitana de João Pessoa,2019,Volume_Venda_GNV,17433997.0
+Região Metropolitana de João Pessoa,2020,Volume_Venda_GNV,12709722.0
+Região Metropolitana de Macapá,2000,Volume_Venda_Alcool,1476700.0
+Região Metropolitana de Macapá,2000,Volume_Venda_Diesel,110911500.0
+Região Metropolitana de Macapá,2000,Volume_Venda_Gasolina,42596450.0
+Região Metropolitana de Macapá,2001,Volume_Venda_Alcool,2330650.0
+Região Metropolitana de Macapá,2001,Volume_Venda_Diesel,97456901.0
+Região Metropolitana de Macapá,2001,Volume_Venda_Gasolina,41937590.0
+Região Metropolitana de Macapá,2002,Volume_Venda_Alcool,1253130.0
+Região Metropolitana de Macapá,2002,Volume_Venda_Diesel,104842512.0
+Região Metropolitana de Macapá,2002,Volume_Venda_Gasolina,46546700.0
+Região Metropolitana de Macapá,2003,Volume_Venda_Alcool,866400.0
+Região Metropolitana de Macapá,2003,Volume_Venda_Diesel,115885086.0
+Região Metropolitana de Macapá,2003,Volume_Venda_Gasolina,46044289.0
+Região Metropolitana de Macapá,2004,Volume_Venda_Alcool,765900.0
+Região Metropolitana de Macapá,2004,Volume_Venda_Diesel,164013990.0
+Região Metropolitana de Macapá,2004,Volume_Venda_Gasolina,49393200.0
+Região Metropolitana de Macapá,2005,Volume_Venda_Alcool,890750.0
+Região Metropolitana de Macapá,2005,Volume_Venda_Diesel,186711676.0
+Região Metropolitana de Macapá,2005,Volume_Venda_Gasolina,51045150.0
+Região Metropolitana de Macapá,2006,Volume_Venda_Alcool,910300.0
+Região Metropolitana de Macapá,2006,Volume_Venda_Diesel,119705731.46805751
+Região Metropolitana de Macapá,2006,Volume_Venda_Gasolina,56811100.0
+Região Metropolitana de Macapá,2007,Volume_Venda_Alcool,1425374.0
+Região Metropolitana de Macapá,2007,Volume_Venda_Diesel,198736326.99999952
+Região Metropolitana de Macapá,2007,Volume_Venda_Gasolina,64429844.0
+Região Metropolitana de Macapá,2008,Volume_Venda_Alcool,2706449.0
+Região Metropolitana de Macapá,2008,Volume_Venda_Diesel,188813724.0
+Região Metropolitana de Macapá,2008,Volume_Venda_Gasolina,72834128.0
+Região Metropolitana de Macapá,2009,Volume_Venda_Alcool,8172102.0
+Região Metropolitana de Macapá,2009,Volume_Venda_Diesel,213178180.0
+Região Metropolitana de Macapá,2009,Volume_Venda_Gasolina,76139950.0
+Região Metropolitana de Macapá,2010,Volume_Venda_Alcool,6721643.0
+Região Metropolitana de Macapá,2010,Volume_Venda_Diesel,233530506.0
+Região Metropolitana de Macapá,2010,Volume_Venda_Gasolina,88426500.0
+Região Metropolitana de Macapá,2011,Volume_Venda_Alcool,4709643.0
+Região Metropolitana de Macapá,2011,Volume_Venda_Diesel,273558896.0
+Região Metropolitana de Macapá,2011,Volume_Venda_Gasolina,97316100.0
+Região Metropolitana de Macapá,2012,Volume_Venda_Alcool,3176000.0
+Região Metropolitana de Macapá,2012,Volume_Venda_Diesel,359040203.0
+Região Metropolitana de Macapá,2012,Volume_Venda_Gasolina,112525000.0
+Região Metropolitana de Macapá,2013,Volume_Venda_Alcool,1428800.0
+Região Metropolitana de Macapá,2013,Volume_Venda_Diesel,342521248.0
+Região Metropolitana de Macapá,2013,Volume_Venda_Gasolina,119461800.0
+Região Metropolitana de Macapá,2014,Volume_Venda_Alcool,1176604.0
+Região Metropolitana de Macapá,2014,Volume_Venda_Diesel,369782500.0
+Região Metropolitana de Macapá,2014,Volume_Venda_Gasolina,135304400.0
+Região Metropolitana de Macapá,2015,Volume_Venda_Alcool,2193000.0
+Região Metropolitana de Macapá,2015,Volume_Venda_Diesel,180237151.0
+Região Metropolitana de Macapá,2015,Volume_Venda_Gasolina,134973721.0
+Região Metropolitana de Macapá,2016,Volume_Venda_Alcool,539000.0
+Região Metropolitana de Macapá,2016,Volume_Venda_Diesel,58090900.0
+Região Metropolitana de Macapá,2016,Volume_Venda_Gasolina,132872190.0
+Região Metropolitana de Macapá,2017,Volume_Venda_Alcool,364650.0
+Região Metropolitana de Macapá,2017,Volume_Venda_Diesel,50703248.2745357
+Região Metropolitana de Macapá,2017,Volume_Venda_Gasolina,136600187.0
+Região Metropolitana de Macapá,2018,Volume_Venda_Alcool,829081.0
+Região Metropolitana de Macapá,2018,Volume_Venda_Diesel,42077949.0
+Região Metropolitana de Macapá,2018,Volume_Venda_Gasolina,140784942.0
+Região Metropolitana de Macapá,2019,Volume_Venda_Alcool,792280.0
+Região Metropolitana de Macapá,2019,Volume_Venda_Diesel,49510500.0
+Região Metropolitana de Macapá,2019,Volume_Venda_Gasolina,152051056.0
+Região Metropolitana de Maceió,2000,Volume_Venda_Alcool,16147326.0
+Região Metropolitana de Maceió,2000,Volume_Venda_Diesel,128748046.0
+Região Metropolitana de Maceió,2000,Volume_Venda_Gasolina,108188021.0
+Região Metropolitana de Maceió,2001,Volume_Venda_Alcool,10669949.0
+Região Metropolitana de Maceió,2001,Volume_Venda_Diesel,134333809.0
+Região Metropolitana de Maceió,2001,Volume_Venda_Gasolina,104434990.0
+Região Metropolitana de Maceió,2002,Volume_Venda_Alcool,9825319.0
+Região Metropolitana de Maceió,2002,Volume_Venda_Diesel,143681556.0
+Região Metropolitana de Maceió,2002,Volume_Venda_Gasolina,105757969.0
+Região Metropolitana de Maceió,2003,Volume_Venda_Alcool,10943994.0
+Região Metropolitana de Maceió,2003,Volume_Venda_Diesel,128919456.0
+Região Metropolitana de Maceió,2003,Volume_Venda_Gasolina,100327980.0
+Região Metropolitana de Maceió,2004,Volume_Venda_Alcool,12803141.0
+Região Metropolitana de Maceió,2004,Volume_Venda_Diesel,144227458.0
+Região Metropolitana de Maceió,2004,Volume_Venda_Gasolina,102407024.0
+Região Metropolitana de Maceió,2005,Volume_Venda_Alcool,16467377.0
+Região Metropolitana de Maceió,2005,Volume_Venda_Diesel,136484791.0
+Região Metropolitana de Maceió,2005,Volume_Venda_Gasolina,99156112.0
+Região Metropolitana de Maceió,2006,Volume_Venda_Alcool,23027082.0
+Região Metropolitana de Maceió,2006,Volume_Venda_Diesel,140421866.92454883
+Região Metropolitana de Maceió,2006,Volume_Venda_Gasolina,98196538.0
+Região Metropolitana de Maceió,2007,Volume_Venda_Alcool,36485225.0
+Região Metropolitana de Maceió,2007,Volume_Venda_Diesel,140443068.0
+Região Metropolitana de Maceió,2007,Volume_Venda_Gasolina,90044310.0
+Região Metropolitana de Maceió,2008,Volume_Venda_Alcool,58774368.0
+Região Metropolitana de Maceió,2008,Volume_Venda_Diesel,140580283.0
+Região Metropolitana de Maceió,2008,Volume_Venda_Gasolina,90737015.0
+Região Metropolitana de Maceió,2009,Volume_Venda_Alcool,73140800.0
+Região Metropolitana de Maceió,2009,Volume_Venda_Diesel,141680508.0
+Região Metropolitana de Maceió,2009,Volume_Venda_Gasolina,94136245.0
+Região Metropolitana de Maceió,2010,Volume_Venda_Alcool,50258224.0
+Região Metropolitana de Maceió,2010,Volume_Venda_Diesel,155467714.0
+Região Metropolitana de Maceió,2010,Volume_Venda_Gasolina,135126892.0
+Região Metropolitana de Maceió,2011,Volume_Venda_Alcool,33478759.0
+Região Metropolitana de Maceió,2011,Volume_Venda_Diesel,167142410.0
+Região Metropolitana de Maceió,2011,Volume_Venda_Gasolina,168096912.0
+Região Metropolitana de Maceió,2012,Volume_Venda_Alcool,23747710.0
+Região Metropolitana de Maceió,2012,Volume_Venda_Diesel,166373308.0
+Região Metropolitana de Maceió,2012,Volume_Venda_Gasolina,198587977.0
+Região Metropolitana de Maceió,2013,Volume_Venda_Alcool,20655081.0
+Região Metropolitana de Maceió,2013,Volume_Venda_Diesel,164786892.0
+Região Metropolitana de Maceió,2013,Volume_Venda_Gasolina,216639358.0
+Região Metropolitana de Maceió,2014,Volume_Venda_Alcool,21401086.0
+Região Metropolitana de Maceió,2014,Volume_Venda_Diesel,181078420.0
+Região Metropolitana de Maceió,2014,Volume_Venda_Gasolina,233157967.0
+Região Metropolitana de Maceió,2014,Volume_Venda_GNV,23523797.0
+Região Metropolitana de Maceió,2015,Volume_Venda_Alcool,35795500.0
+Região Metropolitana de Maceió,2015,Volume_Venda_Diesel,186469352.0
+Região Metropolitana de Maceió,2015,Volume_Venda_Gasolina,225122400.0
+Região Metropolitana de Maceió,2015,Volume_Venda_GNV,21996840.0
+Região Metropolitana de Maceió,2016,Volume_Venda_Alcool,19353500.0
+Região Metropolitana de Maceió,2016,Volume_Venda_Diesel,177176653.0
+Região Metropolitana de Maceió,2016,Volume_Venda_Gasolina,238733162.0
+Região Metropolitana de Maceió,2016,Volume_Venda_GNV,22468513.0
+Região Metropolitana de Maceió,2017,Volume_Venda_Alcool,24030647.0
+Região Metropolitana de Maceió,2017,Volume_Venda_Diesel,163582510.6491414
+Região Metropolitana de Maceió,2017,Volume_Venda_Gasolina,236542200.0
+Região Metropolitana de Maceió,2017,Volume_Venda_GNV,23933395.0
+Região Metropolitana de Maceió,2018,Volume_Venda_Alcool,55489366.0
+Região Metropolitana de Maceió,2018,Volume_Venda_Diesel,161364838.0
+Região Metropolitana de Maceió,2018,Volume_Venda_Gasolina,210393006.0
+Região Metropolitana de Maceió,2018,Volume_Venda_GNV,27362321.0
+Região Metropolitana de Maceió,2019,Volume_Venda_Alcool,49855875.0
+Região Metropolitana de Maceió,2019,Volume_Venda_Diesel,163267587.0
+Região Metropolitana de Maceió,2019,Volume_Venda_Gasolina,234743560.0
+Região Metropolitana de Maceió,2019,Volume_Venda_GNV,27579172.0
+Região Metropolitana de Maceió,2020,Volume_Venda_GNV,20905091.0
+Região Metropolitana de Manaus,2000,Volume_Venda_Alcool,16060388.0
+Região Metropolitana de Manaus,2000,Volume_Venda_Diesel,334449508.0
+Região Metropolitana de Manaus,2000,Volume_Venda_Gasolina,228533132.0
+Região Metropolitana de Manaus,2001,Volume_Venda_Alcool,12927701.0
+Região Metropolitana de Manaus,2001,Volume_Venda_Diesel,314348260.0
+Região Metropolitana de Manaus,2001,Volume_Venda_Gasolina,232879162.0
+Região Metropolitana de Manaus,2002,Volume_Venda_Alcool,11899371.0
+Região Metropolitana de Manaus,2002,Volume_Venda_Diesel,332446072.0
+Região Metropolitana de Manaus,2002,Volume_Venda_Gasolina,250119602.0
+Região Metropolitana de Manaus,2003,Volume_Venda_Alcool,12224610.0
+Região Metropolitana de Manaus,2003,Volume_Venda_Diesel,330932376.0
+Região Metropolitana de Manaus,2003,Volume_Venda_Gasolina,251464748.0
+Região Metropolitana de Manaus,2004,Volume_Venda_Alcool,13073434.0
+Região Metropolitana de Manaus,2004,Volume_Venda_Diesel,520259701.0
+Região Metropolitana de Manaus,2004,Volume_Venda_Gasolina,276942642.0
+Região Metropolitana de Manaus,2005,Volume_Venda_Alcool,18733005.0
+Região Metropolitana de Manaus,2005,Volume_Venda_Diesel,642571384.0
+Região Metropolitana de Manaus,2005,Volume_Venda_Gasolina,279416620.0
+Região Metropolitana de Manaus,2006,Volume_Venda_Alcool,16055730.0
+Região Metropolitana de Manaus,2006,Volume_Venda_Diesel,531949672.9026903
+Região Metropolitana de Manaus,2006,Volume_Venda_Gasolina,307767106.0
+Região Metropolitana de Manaus,2007,Volume_Venda_Alcool,32079389.0
+Região Metropolitana de Manaus,2007,Volume_Venda_Diesel,467478725.0
+Região Metropolitana de Manaus,2007,Volume_Venda_Gasolina,314072856.0
+Região Metropolitana de Manaus,2008,Volume_Venda_Alcool,53949033.0
+Região Metropolitana de Manaus,2008,Volume_Venda_Diesel,636614504.0
+Região Metropolitana de Manaus,2008,Volume_Venda_Gasolina,340549117.0
+Região Metropolitana de Manaus,2009,Volume_Venda_Alcool,78771229.0
+Região Metropolitana de Manaus,2009,Volume_Venda_Diesel,817802798.0
+Região Metropolitana de Manaus,2009,Volume_Venda_Gasolina,350855590.0
+Região Metropolitana de Manaus,2010,Volume_Venda_Alcool,54329576.0
+Região Metropolitana de Manaus,2010,Volume_Venda_Diesel,1027584270.0
+Região Metropolitana de Manaus,2010,Volume_Venda_Gasolina,410783347.0
+Região Metropolitana de Manaus,2011,Volume_Venda_Alcool,39895814.0
+Região Metropolitana de Manaus,2011,Volume_Venda_Diesel,1021719634.0
+Região Metropolitana de Manaus,2011,Volume_Venda_Gasolina,459054579.0
+Região Metropolitana de Manaus,2012,Volume_Venda_Alcool,39620297.0
+Região Metropolitana de Manaus,2012,Volume_Venda_Diesel,1046616485.0
+Região Metropolitana de Manaus,2012,Volume_Venda_Gasolina,497392974.0
+Região Metropolitana de Manaus,2013,Volume_Venda_Alcool,46372300.0
+Região Metropolitana de Manaus,2013,Volume_Venda_Diesel,1011640409.0
+Região Metropolitana de Manaus,2013,Volume_Venda_Gasolina,515566247.0
+Região Metropolitana de Manaus,2014,Volume_Venda_Alcool,49983164.0
+Região Metropolitana de Manaus,2014,Volume_Venda_Diesel,940815983.0
+Região Metropolitana de Manaus,2014,Volume_Venda_Gasolina,542076943.0
+Região Metropolitana de Manaus,2014,Volume_Venda_GNV,3903251.0
+Região Metropolitana de Manaus,2015,Volume_Venda_Alcool,77952570.0
+Região Metropolitana de Manaus,2015,Volume_Venda_Diesel,742742081.0
+Região Metropolitana de Manaus,2015,Volume_Venda_Gasolina,529906253.0
+Região Metropolitana de Manaus,2015,Volume_Venda_GNV,4969623.0
+Região Metropolitana de Manaus,2016,Volume_Venda_Alcool,37990425.0
+Região Metropolitana de Manaus,2016,Volume_Venda_Diesel,609036504.0
+Região Metropolitana de Manaus,2016,Volume_Venda_Gasolina,547288084.0
+Região Metropolitana de Manaus,2016,Volume_Venda_GNV,5108965.0
+Região Metropolitana de Manaus,2017,Volume_Venda_Alcool,38557852.0
+Região Metropolitana de Manaus,2017,Volume_Venda_Diesel,842532553.347214
+Região Metropolitana de Manaus,2017,Volume_Venda_Gasolina,556175205.0
+Região Metropolitana de Manaus,2017,Volume_Venda_GNV,4493659.0
+Região Metropolitana de Manaus,2018,Volume_Venda_Alcool,90167069.0
+Região Metropolitana de Manaus,2018,Volume_Venda_Diesel,1047282153.0
+Região Metropolitana de Manaus,2018,Volume_Venda_Gasolina,524792393.0
+Região Metropolitana de Manaus,2018,Volume_Venda_GNV,4635647.0
+Região Metropolitana de Manaus,2019,Volume_Venda_Alcool,101557400.0
+Região Metropolitana de Manaus,2019,Volume_Venda_Diesel,895294329.0
+Região Metropolitana de Manaus,2019,Volume_Venda_Gasolina,555450101.0
+Região Metropolitana de Manaus,2019,Volume_Venda_GNV,4483837.0
+Região Metropolitana de Manaus,2020,Volume_Venda_GNV,4262107.0
+Região Metropolitana de Natal,2000,Volume_Venda_Alcool,26101073.0
+Região Metropolitana de Natal,2000,Volume_Venda_Diesel,147067886.0
+Região Metropolitana de Natal,2000,Volume_Venda_Gasolina,143647935.0
+Região Metropolitana de Natal,2001,Volume_Venda_Alcool,16216742.0
+Região Metropolitana de Natal,2001,Volume_Venda_Diesel,161021141.0
+Região Metropolitana de Natal,2001,Volume_Venda_Gasolina,143278611.0
+Região Metropolitana de Natal,2002,Volume_Venda_Alcool,12510035.0
+Região Metropolitana de Natal,2002,Volume_Venda_Diesel,160302416.0
+Região Metropolitana de Natal,2002,Volume_Venda_Gasolina,144757462.0
+Região Metropolitana de Natal,2003,Volume_Venda_Alcool,11955795.0
+Região Metropolitana de Natal,2003,Volume_Venda_Diesel,147157254.0
+Região Metropolitana de Natal,2003,Volume_Venda_Gasolina,137914306.0
+Região Metropolitana de Natal,2004,Volume_Venda_Alcool,14865496.0
+Região Metropolitana de Natal,2004,Volume_Venda_Diesel,158514654.0
+Região Metropolitana de Natal,2004,Volume_Venda_Gasolina,147778461.0
+Região Metropolitana de Natal,2005,Volume_Venda_Alcool,18200052.0
+Região Metropolitana de Natal,2005,Volume_Venda_Diesel,160101572.0
+Região Metropolitana de Natal,2005,Volume_Venda_Gasolina,152120467.0
+Região Metropolitana de Natal,2006,Volume_Venda_Alcool,23984670.0
+Região Metropolitana de Natal,2006,Volume_Venda_Diesel,188215567.38526124
+Região Metropolitana de Natal,2006,Volume_Venda_Gasolina,159064372.0
+Região Metropolitana de Natal,2007,Volume_Venda_Alcool,49062266.0
+Região Metropolitana de Natal,2007,Volume_Venda_Diesel,183844614.0
+Região Metropolitana de Natal,2007,Volume_Venda_Gasolina,162740331.0
+Região Metropolitana de Natal,2008,Volume_Venda_Alcool,64593517.0
+Região Metropolitana de Natal,2008,Volume_Venda_Diesel,187088579.0
+Região Metropolitana de Natal,2008,Volume_Venda_Gasolina,181610698.308956
+Região Metropolitana de Natal,2009,Volume_Venda_Alcool,65045231.0
+Região Metropolitana de Natal,2009,Volume_Venda_Diesel,183172219.0
+Região Metropolitana de Natal,2009,Volume_Venda_Gasolina,190815827.0
+Região Metropolitana de Natal,2010,Volume_Venda_Alcool,53528940.0
+Região Metropolitana de Natal,2010,Volume_Venda_Diesel,185114003.0
+Região Metropolitana de Natal,2010,Volume_Venda_Gasolina,232768739.0
+Região Metropolitana de Natal,2011,Volume_Venda_Alcool,35318227.0
+Região Metropolitana de Natal,2011,Volume_Venda_Diesel,187472725.0
+Região Metropolitana de Natal,2011,Volume_Venda_Gasolina,275407800.0
+Região Metropolitana de Natal,2012,Volume_Venda_Alcool,26395236.0
+Região Metropolitana de Natal,2012,Volume_Venda_Diesel,238225752.0
+Região Metropolitana de Natal,2012,Volume_Venda_Gasolina,311768828.0
+Região Metropolitana de Natal,2013,Volume_Venda_Alcool,27973289.0
+Região Metropolitana de Natal,2013,Volume_Venda_Diesel,265409702.0
+Região Metropolitana de Natal,2013,Volume_Venda_Gasolina,337500958.0
+Região Metropolitana de Natal,2014,Volume_Venda_Alcool,24481619.0
+Região Metropolitana de Natal,2014,Volume_Venda_Diesel,319616337.0
+Região Metropolitana de Natal,2014,Volume_Venda_Gasolina,358558956.0
+Região Metropolitana de Natal,2014,Volume_Venda_GNV,29673647.0
+Região Metropolitana de Natal,2015,Volume_Venda_Alcool,31346782.0
+Região Metropolitana de Natal,2015,Volume_Venda_Diesel,300200799.0
+Região Metropolitana de Natal,2015,Volume_Venda_Gasolina,354846723.0
+Região Metropolitana de Natal,2015,Volume_Venda_GNV,28465510.0
+Região Metropolitana de Natal,2016,Volume_Venda_Alcool,28717374.0
+Região Metropolitana de Natal,2016,Volume_Venda_Diesel,203355694.0
+Região Metropolitana de Natal,2016,Volume_Venda_Gasolina,358273010.0
+Região Metropolitana de Natal,2016,Volume_Venda_GNV,28910099.0
+Região Metropolitana de Natal,2017,Volume_Venda_Alcool,28491126.0
+Região Metropolitana de Natal,2017,Volume_Venda_Diesel,191623864.6761733
+Região Metropolitana de Natal,2017,Volume_Venda_Gasolina,364995085.0
+Região Metropolitana de Natal,2017,Volume_Venda_GNV,34706958.0
+Região Metropolitana de Natal,2018,Volume_Venda_Alcool,63618968.0
+Região Metropolitana de Natal,2018,Volume_Venda_Diesel,184864071.0
+Região Metropolitana de Natal,2018,Volume_Venda_Gasolina,325973308.0
+Região Metropolitana de Natal,2018,Volume_Venda_GNV,35744375.0
+Região Metropolitana de Natal,2019,Volume_Venda_Alcool,60784663.0
+Região Metropolitana de Natal,2019,Volume_Venda_Diesel,180467530.0
+Região Metropolitana de Natal,2019,Volume_Venda_Gasolina,330303397.0
+Região Metropolitana de Natal,2019,Volume_Venda_GNV,31059247.0
+Região Metropolitana de Natal,2020,Volume_Venda_GNV,24925862.0
+Região Metropolitana de Palmas,2000,Volume_Venda_Alcool,7244430.0
+Região Metropolitana de Palmas,2000,Volume_Venda_Diesel,94070801.0
+Região Metropolitana de Palmas,2000,Volume_Venda_Gasolina,36846350.0
+Região Metropolitana de Palmas,2001,Volume_Venda_Alcool,5909774.0
+Região Metropolitana de Palmas,2001,Volume_Venda_Diesel,101950651.0
+Região Metropolitana de Palmas,2001,Volume_Venda_Gasolina,39790530.0
+Região Metropolitana de Palmas,2002,Volume_Venda_Alcool,7687200.0
+Região Metropolitana de Palmas,2002,Volume_Venda_Diesel,107734924.0
+Região Metropolitana de Palmas,2002,Volume_Venda_Gasolina,45630524.0
+Região Metropolitana de Palmas,2003,Volume_Venda_Alcool,5579073.0
+Região Metropolitana de Palmas,2003,Volume_Venda_Diesel,103907436.0
+Região Metropolitana de Palmas,2003,Volume_Venda_Gasolina,45718820.0
+Região Metropolitana de Palmas,2004,Volume_Venda_Alcool,5381700.0
+Região Metropolitana de Palmas,2004,Volume_Venda_Diesel,100601603.0
+Região Metropolitana de Palmas,2004,Volume_Venda_Gasolina,52091690.0
+Região Metropolitana de Palmas,2005,Volume_Venda_Alcool,5874200.0
+Região Metropolitana de Palmas,2005,Volume_Venda_Diesel,96347819.0
+Região Metropolitana de Palmas,2005,Volume_Venda_Gasolina,50793550.0
+Região Metropolitana de Palmas,2006,Volume_Venda_Alcool,6569850.0
+Região Metropolitana de Palmas,2006,Volume_Venda_Diesel,96347450.19072254
+Região Metropolitana de Palmas,2006,Volume_Venda_Gasolina,53044200.0
+Região Metropolitana de Palmas,2007,Volume_Venda_Alcool,15501350.0
+Região Metropolitana de Palmas,2007,Volume_Venda_Diesel,106448564.0
+Região Metropolitana de Palmas,2007,Volume_Venda_Gasolina,61143200.0
+Região Metropolitana de Palmas,2008,Volume_Venda_Alcool,26649790.0
+Região Metropolitana de Palmas,2008,Volume_Venda_Diesel,110753075.0
+Região Metropolitana de Palmas,2008,Volume_Venda_Gasolina,66069714.0
+Região Metropolitana de Palmas,2009,Volume_Venda_Alcool,33996262.0
+Região Metropolitana de Palmas,2009,Volume_Venda_Diesel,103455546.0
+Região Metropolitana de Palmas,2009,Volume_Venda_Gasolina,66040731.0
+Região Metropolitana de Palmas,2010,Volume_Venda_Alcool,32075349.0
+Região Metropolitana de Palmas,2010,Volume_Venda_Diesel,139742362.0
+Região Metropolitana de Palmas,2010,Volume_Venda_Gasolina,85151328.0
+Região Metropolitana de Palmas,2011,Volume_Venda_Alcool,20516685.0
+Região Metropolitana de Palmas,2011,Volume_Venda_Diesel,140958223.0
+Região Metropolitana de Palmas,2011,Volume_Venda_Gasolina,103534820.0
+Região Metropolitana de Palmas,2012,Volume_Venda_Alcool,13543450.0
+Região Metropolitana de Palmas,2012,Volume_Venda_Diesel,161151023.0
+Região Metropolitana de Palmas,2012,Volume_Venda_Gasolina,124859244.0
+Região Metropolitana de Palmas,2013,Volume_Venda_Alcool,17745700.0
+Região Metropolitana de Palmas,2013,Volume_Venda_Diesel,192722100.0
+Região Metropolitana de Palmas,2013,Volume_Venda_Gasolina,131610440.0
+Região Metropolitana de Palmas,2014,Volume_Venda_Alcool,16283350.0
+Região Metropolitana de Palmas,2014,Volume_Venda_Diesel,206450273.0
+Região Metropolitana de Palmas,2014,Volume_Venda_Gasolina,145920978.0
+Região Metropolitana de Palmas,2015,Volume_Venda_Alcool,23275300.0
+Região Metropolitana de Palmas,2015,Volume_Venda_Diesel,194979531.0
+Região Metropolitana de Palmas,2015,Volume_Venda_Gasolina,146921010.0
+Região Metropolitana de Palmas,2016,Volume_Venda_Alcool,17550300.0
+Região Metropolitana de Palmas,2016,Volume_Venda_Diesel,186248300.0
+Região Metropolitana de Palmas,2016,Volume_Venda_Gasolina,154492309.0
+Região Metropolitana de Palmas,2017,Volume_Venda_Alcool,10150088.0
+Região Metropolitana de Palmas,2017,Volume_Venda_Diesel,195965051.8467145
+Região Metropolitana de Palmas,2017,Volume_Venda_Gasolina,161265376.0
+Região Metropolitana de Palmas,2018,Volume_Venda_Alcool,16988116.0
+Região Metropolitana de Palmas,2018,Volume_Venda_Diesel,219371146.0
+Região Metropolitana de Palmas,2018,Volume_Venda_Gasolina,148294831.0
+Região Metropolitana de Palmas,2019,Volume_Venda_Alcool,17111583.0
+Região Metropolitana de Palmas,2019,Volume_Venda_Diesel,224723930.0
+Região Metropolitana de Palmas,2019,Volume_Venda_Gasolina,156183570.0
+Região Metropolitana de Porto Alegre,2000,Volume_Venda_Alcool,78390921.0
+Região Metropolitana de Porto Alegre,2000,Volume_Venda_Diesel,697579320.0
+Região Metropolitana de Porto Alegre,2000,Volume_Venda_Gasolina,893326738.0
+Região Metropolitana de Porto Alegre,2001,Volume_Venda_Alcool,58234095.0
+Região Metropolitana de Porto Alegre,2001,Volume_Venda_Diesel,732295129.0
+Região Metropolitana de Porto Alegre,2001,Volume_Venda_Gasolina,878196221.0
+Região Metropolitana de Porto Alegre,2002,Volume_Venda_Alcool,62170111.0
+Região Metropolitana de Porto Alegre,2002,Volume_Venda_Diesel,735196790.0
+Região Metropolitana de Porto Alegre,2002,Volume_Venda_Gasolina,892195476.0
+Região Metropolitana de Porto Alegre,2003,Volume_Venda_Alcool,56951449.0
+Região Metropolitana de Porto Alegre,2003,Volume_Venda_Diesel,714406195.0
+Região Metropolitana de Porto Alegre,2003,Volume_Venda_Gasolina,850296533.0
+Região Metropolitana de Porto Alegre,2004,Volume_Venda_Alcool,79529562.0
+Região Metropolitana de Porto Alegre,2004,Volume_Venda_Diesel,751133913.0
+Região Metropolitana de Porto Alegre,2004,Volume_Venda_Gasolina,891460674.0
+Região Metropolitana de Porto Alegre,2005,Volume_Venda_Alcool,81097845.0
+Região Metropolitana de Porto Alegre,2005,Volume_Venda_Diesel,709562325.0
+Região Metropolitana de Porto Alegre,2005,Volume_Venda_Gasolina,858015614.0
+Região Metropolitana de Porto Alegre,2006,Volume_Venda_Alcool,66338403.0
+Região Metropolitana de Porto Alegre,2006,Volume_Venda_Diesel,727310338.2911786
+Região Metropolitana de Porto Alegre,2006,Volume_Venda_Gasolina,857301374.0
+Região Metropolitana de Porto Alegre,2007,Volume_Venda_Alcool,102246506.20348999
+Região Metropolitana de Porto Alegre,2007,Volume_Venda_Diesel,738053967.0000005
+Região Metropolitana de Porto Alegre,2007,Volume_Venda_Gasolina,897389498.867769
+Região Metropolitana de Porto Alegre,2008,Volume_Venda_Alcool,149542071.0
+Região Metropolitana de Porto Alegre,2008,Volume_Venda_Diesel,758699873.646031
+Região Metropolitana de Porto Alegre,2008,Volume_Venda_Gasolina,910893500.0
+Região Metropolitana de Porto Alegre,2009,Volume_Venda_Alcool,184580971.0
+Região Metropolitana de Porto Alegre,2009,Volume_Venda_Diesel,760572758.0
+Região Metropolitana de Porto Alegre,2009,Volume_Venda_Gasolina,940008221.0
+Região Metropolitana de Porto Alegre,2010,Volume_Venda_Alcool,102260804.0
+Região Metropolitana de Porto Alegre,2010,Volume_Venda_Diesel,827458378.0
+Região Metropolitana de Porto Alegre,2010,Volume_Venda_Gasolina,1088509868.0
+Região Metropolitana de Porto Alegre,2011,Volume_Venda_Alcool,53157804.0
+Região Metropolitana de Porto Alegre,2011,Volume_Venda_Diesel,853583187.0
+Região Metropolitana de Porto Alegre,2011,Volume_Venda_Gasolina,1189170143.0
+Região Metropolitana de Porto Alegre,2012,Volume_Venda_Alcool,43157852.0
+Região Metropolitana de Porto Alegre,2012,Volume_Venda_Diesel,877031706.0
+Região Metropolitana de Porto Alegre,2012,Volume_Venda_Gasolina,1274935730.0
+Região Metropolitana de Porto Alegre,2013,Volume_Venda_Alcool,41976822.0
+Região Metropolitana de Porto Alegre,2013,Volume_Venda_Diesel,894265796.0
+Região Metropolitana de Porto Alegre,2013,Volume_Venda_Gasolina,1356340092.0
+Região Metropolitana de Porto Alegre,2014,Volume_Venda_Alcool,46147686.0
+Região Metropolitana de Porto Alegre,2014,Volume_Venda_Diesel,883398899.0
+Região Metropolitana de Porto Alegre,2014,Volume_Venda_Gasolina,1449477538.0
+Região Metropolitana de Porto Alegre,2014,Volume_Venda_GNV,50861232.0
+Região Metropolitana de Porto Alegre,2015,Volume_Venda_Alcool,70999169.0
+Região Metropolitana de Porto Alegre,2015,Volume_Venda_Diesel,869068306.0
+Região Metropolitana de Porto Alegre,2015,Volume_Venda_Gasolina,1394420777.0
+Região Metropolitana de Porto Alegre,2015,Volume_Venda_GNV,45745960.0
+Região Metropolitana de Porto Alegre,2016,Volume_Venda_Alcool,25817600.0
+Região Metropolitana de Porto Alegre,2016,Volume_Venda_Diesel,866246752.0
+Região Metropolitana de Porto Alegre,2016,Volume_Venda_Gasolina,1378947712.0
+Região Metropolitana de Porto Alegre,2016,Volume_Venda_GNV,47351482.0
+Região Metropolitana de Porto Alegre,2017,Volume_Venda_Alcool,20175587.0
+Região Metropolitana de Porto Alegre,2017,Volume_Venda_Diesel,864690075.711098
+Região Metropolitana de Porto Alegre,2017,Volume_Venda_Gasolina,1450903058.0
+Região Metropolitana de Porto Alegre,2017,Volume_Venda_GNV,51909577.0
+Região Metropolitana de Porto Alegre,2018,Volume_Venda_Alcool,28697815.0
+Região Metropolitana de Porto Alegre,2018,Volume_Venda_Diesel,872119995.0
+Região Metropolitana de Porto Alegre,2018,Volume_Venda_Gasolina,1375826350.0
+Região Metropolitana de Porto Alegre,2018,Volume_Venda_GNV,68779829.0
+Região Metropolitana de Porto Alegre,2019,Volume_Venda_Alcool,22776999.0
+Região Metropolitana de Porto Alegre,2019,Volume_Venda_Diesel,904068717.0
+Região Metropolitana de Porto Alegre,2019,Volume_Venda_Gasolina,1411117488.0
+Região Metropolitana de Porto Alegre,2019,Volume_Venda_GNV,76880122.0
+Região Metropolitana de Porto Alegre,2020,Volume_Venda_GNV,63208781.0
+Região Metropolitana de Porto Velho,2000,Volume_Venda_Alcool,8005668.0
+Região Metropolitana de Porto Velho,2000,Volume_Venda_Diesel,296537219.0
+Região Metropolitana de Porto Velho,2000,Volume_Venda_Gasolina,48416021.0
+Região Metropolitana de Porto Velho,2001,Volume_Venda_Alcool,5269080.0
+Região Metropolitana de Porto Velho,2001,Volume_Venda_Diesel,230213722.0
+Região Metropolitana de Porto Velho,2001,Volume_Venda_Gasolina,48500134.0
+Região Metropolitana de Porto Velho,2002,Volume_Venda_Alcool,5854481.0
+Região Metropolitana de Porto Velho,2002,Volume_Venda_Diesel,178103484.0
+Região Metropolitana de Porto Velho,2002,Volume_Venda_Gasolina,50288512.0
+Região Metropolitana de Porto Velho,2003,Volume_Venda_Alcool,4447155.0
+Região Metropolitana de Porto Velho,2003,Volume_Venda_Diesel,204224188.0
+Região Metropolitana de Porto Velho,2003,Volume_Venda_Gasolina,51111725.0
+Região Metropolitana de Porto Velho,2004,Volume_Venda_Alcool,4645186.0
+Região Metropolitana de Porto Velho,2004,Volume_Venda_Diesel,216354688.0
+Região Metropolitana de Porto Velho,2004,Volume_Venda_Gasolina,60092943.0
+Região Metropolitana de Porto Velho,2005,Volume_Venda_Alcool,4846716.0
+Região Metropolitana de Porto Velho,2005,Volume_Venda_Diesel,287532635.0
+Região Metropolitana de Porto Velho,2005,Volume_Venda_Gasolina,62890952.0
+Região Metropolitana de Porto Velho,2006,Volume_Venda_Alcool,4358031.0
+Região Metropolitana de Porto Velho,2006,Volume_Venda_Diesel,301003683.1371776
+Região Metropolitana de Porto Velho,2006,Volume_Venda_Gasolina,71420861.0
+Região Metropolitana de Porto Velho,2007,Volume_Venda_Alcool,8290173.0
+Região Metropolitana de Porto Velho,2007,Volume_Venda_Diesel,226459425.0
+Região Metropolitana de Porto Velho,2007,Volume_Venda_Gasolina,71879228.0
+Região Metropolitana de Porto Velho,2008,Volume_Venda_Alcool,16789955.0
+Região Metropolitana de Porto Velho,2008,Volume_Venda_Diesel,243368278.0
+Região Metropolitana de Porto Velho,2008,Volume_Venda_Gasolina,76326788.0
+Região Metropolitana de Porto Velho,2009,Volume_Venda_Alcool,22333933.0
+Região Metropolitana de Porto Velho,2009,Volume_Venda_Diesel,264474916.0
+Região Metropolitana de Porto Velho,2009,Volume_Venda_Gasolina,87483941.0
+Região Metropolitana de Porto Velho,2010,Volume_Venda_Alcool,16462666.0
+Região Metropolitana de Porto Velho,2010,Volume_Venda_Diesel,295224016.0
+Região Metropolitana de Porto Velho,2010,Volume_Venda_Gasolina,112712326.0
+Região Metropolitana de Porto Velho,2011,Volume_Venda_Alcool,12332955.0
+Região Metropolitana de Porto Velho,2011,Volume_Venda_Diesel,305044294.0
+Região Metropolitana de Porto Velho,2011,Volume_Venda_Gasolina,132039107.0
+Região Metropolitana de Porto Velho,2012,Volume_Venda_Alcool,9843500.0
+Região Metropolitana de Porto Velho,2012,Volume_Venda_Diesel,266748261.0
+Região Metropolitana de Porto Velho,2012,Volume_Venda_Gasolina,143530523.0
+Região Metropolitana de Porto Velho,2013,Volume_Venda_Alcool,10499467.0
+Região Metropolitana de Porto Velho,2013,Volume_Venda_Diesel,232228906.0
+Região Metropolitana de Porto Velho,2013,Volume_Venda_Gasolina,143691200.0
+Região Metropolitana de Porto Velho,2014,Volume_Venda_Alcool,9384991.0
+Região Metropolitana de Porto Velho,2014,Volume_Venda_Diesel,269091629.0
+Região Metropolitana de Porto Velho,2014,Volume_Venda_Gasolina,148082741.0
+Região Metropolitana de Porto Velho,2015,Volume_Venda_Alcool,14791635.0
+Região Metropolitana de Porto Velho,2015,Volume_Venda_Diesel,239221053.0
+Região Metropolitana de Porto Velho,2015,Volume_Venda_Gasolina,150830810.0
+Região Metropolitana de Porto Velho,2016,Volume_Venda_Alcool,7570000.0
+Região Metropolitana de Porto Velho,2016,Volume_Venda_Diesel,265834300.0
+Região Metropolitana de Porto Velho,2016,Volume_Venda_Gasolina,158827395.0
+Região Metropolitana de Porto Velho,2017,Volume_Venda_Alcool,5911125.0
+Região Metropolitana de Porto Velho,2017,Volume_Venda_Diesel,310919144.785953
+Região Metropolitana de Porto Velho,2017,Volume_Venda_Gasolina,160575348.0
+Região Metropolitana de Porto Velho,2018,Volume_Venda_Alcool,8474293.0
+Região Metropolitana de Porto Velho,2018,Volume_Venda_Diesel,317742864.0
+Região Metropolitana de Porto Velho,2018,Volume_Venda_Gasolina,156534132.0
+Região Metropolitana de Porto Velho,2019,Volume_Venda_Alcool,9541917.0
+Região Metropolitana de Porto Velho,2019,Volume_Venda_Diesel,321129769.0
+Região Metropolitana de Porto Velho,2019,Volume_Venda_Gasolina,157883000.0
+Região Metropolitana de Recife,2000,Volume_Venda_Alcool,56101773.0
+Região Metropolitana de Recife,2000,Volume_Venda_Diesel,322206238.0
+Região Metropolitana de Recife,2000,Volume_Venda_Gasolina,398874876.0
+Região Metropolitana de Recife,2001,Volume_Venda_Alcool,29094620.0
+Região Metropolitana de Recife,2001,Volume_Venda_Diesel,355390857.0
+Região Metropolitana de Recife,2001,Volume_Venda_Gasolina,377431619.0
+Região Metropolitana de Recife,2002,Volume_Venda_Alcool,21386288.0
+Região Metropolitana de Recife,2002,Volume_Venda_Diesel,365446556.0
+Região Metropolitana de Recife,2002,Volume_Venda_Gasolina,378455381.0
+Região Metropolitana de Recife,2003,Volume_Venda_Alcool,17921938.0
+Região Metropolitana de Recife,2003,Volume_Venda_Diesel,309116753.0
+Região Metropolitana de Recife,2003,Volume_Venda_Gasolina,361278493.0
+Região Metropolitana de Recife,2004,Volume_Venda_Alcool,37125740.0
+Região Metropolitana de Recife,2004,Volume_Venda_Diesel,327482079.0
+Região Metropolitana de Recife,2004,Volume_Venda_Gasolina,377690007.0
+Região Metropolitana de Recife,2005,Volume_Venda_Alcool,49963008.0
+Região Metropolitana de Recife,2005,Volume_Venda_Diesel,318664695.0
+Região Metropolitana de Recife,2005,Volume_Venda_Gasolina,370781107.0
+Região Metropolitana de Recife,2006,Volume_Venda_Alcool,60675623.0
+Região Metropolitana de Recife,2006,Volume_Venda_Diesel,296493467.8426355
+Região Metropolitana de Recife,2006,Volume_Venda_Gasolina,359727656.0
+Região Metropolitana de Recife,2007,Volume_Venda_Alcool,106714041.0
+Região Metropolitana de Recife,2007,Volume_Venda_Diesel,352015827.0
+Região Metropolitana de Recife,2007,Volume_Venda_Gasolina,329543851.0
+Região Metropolitana de Recife,2008,Volume_Venda_Alcool,196753583.0
+Região Metropolitana de Recife,2008,Volume_Venda_Diesel,404776727.0
+Região Metropolitana de Recife,2008,Volume_Venda_Gasolina,338054264.0
+Região Metropolitana de Recife,2009,Volume_Venda_Alcool,255414820.0
+Região Metropolitana de Recife,2009,Volume_Venda_Diesel,429486442.0
+Região Metropolitana de Recife,2009,Volume_Venda_Gasolina,339188840.0
+Região Metropolitana de Recife,2010,Volume_Venda_Alcool,217038362.0
+Região Metropolitana de Recife,2010,Volume_Venda_Diesel,480028764.0
+Região Metropolitana de Recife,2010,Volume_Venda_Gasolina,437413744.0
+Região Metropolitana de Recife,2011,Volume_Venda_Alcool,117195492.0
+Região Metropolitana de Recife,2011,Volume_Venda_Diesel,521920087.0
+Região Metropolitana de Recife,2011,Volume_Venda_Gasolina,563825169.0
+Região Metropolitana de Recife,2012,Volume_Venda_Alcool,107238248.0
+Região Metropolitana de Recife,2012,Volume_Venda_Diesel,646776951.0
+Região Metropolitana de Recife,2012,Volume_Venda_Gasolina,636982031.0
+Região Metropolitana de Recife,2013,Volume_Venda_Alcool,99434222.0
+Região Metropolitana de Recife,2013,Volume_Venda_Diesel,679929250.0
+Região Metropolitana de Recife,2013,Volume_Venda_Gasolina,679554056.0
+Região Metropolitana de Recife,2014,Volume_Venda_Alcool,89068324.0
+Região Metropolitana de Recife,2014,Volume_Venda_Diesel,844035012.0
+Região Metropolitana de Recife,2014,Volume_Venda_Gasolina,723845542.0
+Região Metropolitana de Recife,2014,Volume_Venda_GNV,48886048.0
+Região Metropolitana de Recife,2015,Volume_Venda_Alcool,148701935.0
+Região Metropolitana de Recife,2015,Volume_Venda_Diesel,704193978.0
+Região Metropolitana de Recife,2015,Volume_Venda_Gasolina,620787640.0
+Região Metropolitana de Recife,2015,Volume_Venda_GNV,46773648.0
+Região Metropolitana de Recife,2016,Volume_Venda_Alcool,103433412.0
+Região Metropolitana de Recife,2016,Volume_Venda_Diesel,497369656.0
+Região Metropolitana de Recife,2016,Volume_Venda_Gasolina,671311628.0
+Região Metropolitana de Recife,2016,Volume_Venda_GNV,49565222.0
+Região Metropolitana de Recife,2017,Volume_Venda_Alcool,114277980.0
+Região Metropolitana de Recife,2017,Volume_Venda_Diesel,504830325.948417
+Região Metropolitana de Recife,2017,Volume_Venda_Gasolina,693066104.0
+Região Metropolitana de Recife,2017,Volume_Venda_GNV,59531349.0
+Região Metropolitana de Recife,2018,Volume_Venda_Alcool,239865399.0
+Região Metropolitana de Recife,2018,Volume_Venda_Diesel,511714848.0
+Região Metropolitana de Recife,2018,Volume_Venda_Gasolina,576290327.0
+Região Metropolitana de Recife,2018,Volume_Venda_GNV,73601216.0
+Região Metropolitana de Recife,2019,Volume_Venda_Alcool,223111703.0
+Região Metropolitana de Recife,2019,Volume_Venda_Diesel,506028314.0
+Região Metropolitana de Recife,2019,Volume_Venda_Gasolina,597839318.0
+Região Metropolitana de Recife,2019,Volume_Venda_GNV,92015022.0
+Região Metropolitana de Recife,2020,Volume_Venda_GNV,86999289.0
+Região Metropolitana de Salvador,2000,Volume_Venda_Alcool,32511216.0
+Região Metropolitana de Salvador,2000,Volume_Venda_Diesel,470177607.0
+Região Metropolitana de Salvador,2000,Volume_Venda_Gasolina,424261654.0
+Região Metropolitana de Salvador,2001,Volume_Venda_Alcool,22644257.0
+Região Metropolitana de Salvador,2001,Volume_Venda_Diesel,638740867.0
+Região Metropolitana de Salvador,2001,Volume_Venda_Gasolina,417956072.0
+Região Metropolitana de Salvador,2002,Volume_Venda_Alcool,17263827.0
+Região Metropolitana de Salvador,2002,Volume_Venda_Diesel,458422277.0
+Região Metropolitana de Salvador,2002,Volume_Venda_Gasolina,400217275.0
+Região Metropolitana de Salvador,2003,Volume_Venda_Alcool,17383397.0
+Região Metropolitana de Salvador,2003,Volume_Venda_Diesel,417892223.0
+Região Metropolitana de Salvador,2003,Volume_Venda_Gasolina,404059667.0
+Região Metropolitana de Salvador,2004,Volume_Venda_Alcool,19895699.0
+Região Metropolitana de Salvador,2004,Volume_Venda_Diesel,439212639.0
+Região Metropolitana de Salvador,2004,Volume_Venda_Gasolina,418444780.0
+Região Metropolitana de Salvador,2005,Volume_Venda_Alcool,28709290.0
+Região Metropolitana de Salvador,2005,Volume_Venda_Diesel,473898254.0
+Região Metropolitana de Salvador,2005,Volume_Venda_Gasolina,418361476.0
+Região Metropolitana de Salvador,2006,Volume_Venda_Alcool,44306505.0
+Região Metropolitana de Salvador,2006,Volume_Venda_Diesel,466140957.4928786
+Região Metropolitana de Salvador,2006,Volume_Venda_Gasolina,409070180.0
+Região Metropolitana de Salvador,2007,Volume_Venda_Alcool,96251273.0
+Região Metropolitana de Salvador,2007,Volume_Venda_Diesel,479107931.728426
+Região Metropolitana de Salvador,2007,Volume_Venda_Gasolina,385568143.0
+Região Metropolitana de Salvador,2008,Volume_Venda_Alcool,205796555.0
+Região Metropolitana de Salvador,2008,Volume_Venda_Diesel,720775405.505571
+Região Metropolitana de Salvador,2008,Volume_Venda_Gasolina,370343339.0
+Região Metropolitana de Salvador,2009,Volume_Venda_Alcool,271275114.0
+Região Metropolitana de Salvador,2009,Volume_Venda_Diesel,522839933.0
+Região Metropolitana de Salvador,2009,Volume_Venda_Gasolina,357790839.0
+Região Metropolitana de Salvador,2010,Volume_Venda_Alcool,259543884.0
+Região Metropolitana de Salvador,2010,Volume_Venda_Diesel,572767721.0
+Região Metropolitana de Salvador,2010,Volume_Venda_Gasolina,433660348.0
+Região Metropolitana de Salvador,2011,Volume_Venda_Alcool,117437596.0
+Região Metropolitana de Salvador,2011,Volume_Venda_Diesel,568025807.0
+Região Metropolitana de Salvador,2011,Volume_Venda_Gasolina,567106134.0
+Região Metropolitana de Salvador,2012,Volume_Venda_Alcool,81031320.0
+Região Metropolitana de Salvador,2012,Volume_Venda_Diesel,601417181.0
+Região Metropolitana de Salvador,2012,Volume_Venda_Gasolina,636780726.0
+Região Metropolitana de Salvador,2013,Volume_Venda_Alcool,112141544.0
+Região Metropolitana de Salvador,2013,Volume_Venda_Diesel,719775225.0
+Região Metropolitana de Salvador,2013,Volume_Venda_Gasolina,639714866.0
+Região Metropolitana de Salvador,2014,Volume_Venda_Alcool,113171348.0
+Região Metropolitana de Salvador,2014,Volume_Venda_Diesel,706720036.0
+Região Metropolitana de Salvador,2014,Volume_Venda_Gasolina,671607958.0
+Região Metropolitana de Salvador,2014,Volume_Venda_GNV,56237114.0
+Região Metropolitana de Salvador,2015,Volume_Venda_Alcool,170718590.0
+Região Metropolitana de Salvador,2015,Volume_Venda_Diesel,554272449.0
+Região Metropolitana de Salvador,2015,Volume_Venda_Gasolina,616714229.0
+Região Metropolitana de Salvador,2015,Volume_Venda_GNV,55772921.0
+Região Metropolitana de Salvador,2016,Volume_Venda_Alcool,108355675.0
+Região Metropolitana de Salvador,2016,Volume_Venda_Diesel,517514292.0
+Região Metropolitana de Salvador,2016,Volume_Venda_Gasolina,663564613.0
+Região Metropolitana de Salvador,2016,Volume_Venda_GNV,56586002.0
+Região Metropolitana de Salvador,2017,Volume_Venda_Alcool,98669130.0
+Região Metropolitana de Salvador,2017,Volume_Venda_Diesel,502490514.386152
+Região Metropolitana de Salvador,2017,Volume_Venda_Gasolina,680056317.0
+Região Metropolitana de Salvador,2017,Volume_Venda_GNV,65739427.0
+Região Metropolitana de Salvador,2018,Volume_Venda_Alcool,206773971.0
+Região Metropolitana de Salvador,2018,Volume_Venda_Diesel,503160991.0
+Região Metropolitana de Salvador,2018,Volume_Venda_Gasolina,559789078.0
+Região Metropolitana de Salvador,2018,Volume_Venda_GNV,79141574.0
+Região Metropolitana de Salvador,2019,Volume_Venda_Alcool,244181289.0
+Região Metropolitana de Salvador,2019,Volume_Venda_Diesel,512253367.0
+Região Metropolitana de Salvador,2019,Volume_Venda_Gasolina,566713205.0
+Região Metropolitana de Salvador,2019,Volume_Venda_GNV,86139015.0
+Região Metropolitana de Salvador,2020,Volume_Venda_GNV,68652772.0
+Região Metropolitana de São Paulo,2000,Volume_Venda_Alcool,851296434.0
+Região Metropolitana de São Paulo,2000,Volume_Venda_Diesel,2558300529.0
+Região Metropolitana de São Paulo,2000,Volume_Venda_Gasolina,3760230801.0
+Região Metropolitana de São Paulo,2001,Volume_Venda_Alcool,504644041.0
+Região Metropolitana de São Paulo,2001,Volume_Venda_Diesel,2736083707.0
+Região Metropolitana de São Paulo,2001,Volume_Venda_Gasolina,3776246445.0
+Região Metropolitana de São Paulo,2002,Volume_Venda_Alcool,547388876.0
+Região Metropolitana de São Paulo,2002,Volume_Venda_Diesel,2625121393.0
+Região Metropolitana de São Paulo,2002,Volume_Venda_Gasolina,3707511223.0
+Região Metropolitana de São Paulo,2003,Volume_Venda_Alcool,517350125.0
+Região Metropolitana de São Paulo,2003,Volume_Venda_Diesel,2463108494.0
+Região Metropolitana de São Paulo,2003,Volume_Venda_Gasolina,3406050178.0
+Região Metropolitana de São Paulo,2004,Volume_Venda_Alcool,797591345.0
+Região Metropolitana de São Paulo,2004,Volume_Venda_Diesel,2587964620.0
+Região Metropolitana de São Paulo,2004,Volume_Venda_Gasolina,3377291785.0
+Região Metropolitana de São Paulo,2005,Volume_Venda_Alcool,834728539.0
+Região Metropolitana de São Paulo,2005,Volume_Venda_Diesel,2614893791.0
+Região Metropolitana de São Paulo,2005,Volume_Venda_Gasolina,3530542234.0
+Região Metropolitana de São Paulo,2006,Volume_Venda_Alcool,1474598500.0
+Região Metropolitana de São Paulo,2006,Volume_Venda_Diesel,2491512944.2993116
+Região Metropolitana de São Paulo,2006,Volume_Venda_Gasolina,3489750619.0
+Região Metropolitana de São Paulo,2007,Volume_Venda_Alcool,2197084298.38424
+Região Metropolitana de São Paulo,2007,Volume_Venda_Diesel,2656317699.23416
+Região Metropolitana de São Paulo,2007,Volume_Venda_Gasolina,3593327402.03732
+Região Metropolitana de São Paulo,2008,Volume_Venda_Alcool,2853942393.374598
+Região Metropolitana de São Paulo,2008,Volume_Venda_Diesel,3011477127.0
+Região Metropolitana de São Paulo,2008,Volume_Venda_Gasolina,3539553808.25227
+Região Metropolitana de São Paulo,2009,Volume_Venda_Alcool,3367023108.0
+Região Metropolitana de São Paulo,2009,Volume_Venda_Diesel,2978301376.0
+Região Metropolitana de São Paulo,2009,Volume_Venda_Gasolina,3364936356.0
+Região Metropolitana de São Paulo,2010,Volume_Venda_Alcool,3183715528.0
+Região Metropolitana de São Paulo,2010,Volume_Venda_Diesel,3196478199.0
+Região Metropolitana de São Paulo,2010,Volume_Venda_Gasolina,3692506473.0
+Região Metropolitana de São Paulo,2011,Volume_Venda_Alcool,2385111176.0
+Região Metropolitana de São Paulo,2011,Volume_Venda_Diesel,3273186807.0
+Região Metropolitana de São Paulo,2011,Volume_Venda_Gasolina,4489413764.0
+Região Metropolitana de São Paulo,2012,Volume_Venda_Alcool,2200084044.0
+Região Metropolitana de São Paulo,2012,Volume_Venda_Diesel,3346872596.0
+Região Metropolitana de São Paulo,2012,Volume_Venda_Gasolina,4780017207.0
+Região Metropolitana de São Paulo,2013,Volume_Venda_Alcool,2522438077.0
+Região Metropolitana de São Paulo,2013,Volume_Venda_Diesel,3317430769.0
+Região Metropolitana de São Paulo,2013,Volume_Venda_Gasolina,4891972513.0
+Região Metropolitana de São Paulo,2014,Volume_Venda_Alcool,2811893317.0
+Região Metropolitana de São Paulo,2014,Volume_Venda_Diesel,3365170355.0
+Região Metropolitana de São Paulo,2014,Volume_Venda_Gasolina,5040322660.0
+Região Metropolitana de São Paulo,2014,Volume_Venda_GNV,169798806.0
+Região Metropolitana de São Paulo,2015,Volume_Venda_Alcool,2828938125.0
+Região Metropolitana de São Paulo,2015,Volume_Venda_Diesel,3200137654.0
+Região Metropolitana de São Paulo,2015,Volume_Venda_Gasolina,4433139084.0
+Região Metropolitana de São Paulo,2015,Volume_Venda_GNV,146576192.0
+Região Metropolitana de São Paulo,2016,Volume_Venda_Alcool,2429784860.0
+Região Metropolitana de São Paulo,2016,Volume_Venda_Diesel,3140380199.0
+Região Metropolitana de São Paulo,2016,Volume_Venda_Gasolina,4654626769.0
+Região Metropolitana de São Paulo,2016,Volume_Venda_GNV,149702071.0
+Região Metropolitana de São Paulo,2017,Volume_Venda_Alcool,2250283857.0
+Região Metropolitana de São Paulo,2017,Volume_Venda_Diesel,3143529351.45302
+Região Metropolitana de São Paulo,2017,Volume_Venda_Gasolina,4869807715.0
+Região Metropolitana de São Paulo,2017,Volume_Venda_GNV,160235287.0
+Região Metropolitana de São Paulo,2018,Volume_Venda_Alcool,3702150497.0
+Região Metropolitana de São Paulo,2018,Volume_Venda_Diesel,3148494880.0
+Região Metropolitana de São Paulo,2018,Volume_Venda_Gasolina,3871867587.0
+Região Metropolitana de São Paulo,2018,Volume_Venda_GNV,181765932.0
+Região Metropolitana de São Paulo,2019,Volume_Venda_Alcool,4567733551.0
+Região Metropolitana de São Paulo,2019,Volume_Venda_Diesel,3222779290.0
+Região Metropolitana de São Paulo,2019,Volume_Venda_Gasolina,3620079011.0
+Região Metropolitana de São Paulo,2019,Volume_Venda_GNV,172811872.0
+Região Metropolitana de São Paulo,2020,Volume_Venda_GNV,121629774.0
+Região Metropolitana do Rio de Janeiro,2000,Volume_Venda_Alcool,161565409.0
+Região Metropolitana do Rio de Janeiro,2000,Volume_Venda_Diesel,1299625211.0
+Região Metropolitana do Rio de Janeiro,2000,Volume_Venda_Gasolina,1436218729.0
+Região Metropolitana do Rio de Janeiro,2001,Volume_Venda_Alcool,115948818.0
+Região Metropolitana do Rio de Janeiro,2001,Volume_Venda_Diesel,1364360152.0
+Região Metropolitana do Rio de Janeiro,2001,Volume_Venda_Gasolina,1385785890.0
+Região Metropolitana do Rio de Janeiro,2002,Volume_Venda_Alcool,114877068.0
+Região Metropolitana do Rio de Janeiro,2002,Volume_Venda_Diesel,1433943077.0
+Região Metropolitana do Rio de Janeiro,2002,Volume_Venda_Gasolina,1524535841.0
+Região Metropolitana do Rio de Janeiro,2003,Volume_Venda_Alcool,65552085.0
+Região Metropolitana do Rio de Janeiro,2003,Volume_Venda_Diesel,1387938712.0
+Região Metropolitana do Rio de Janeiro,2003,Volume_Venda_Gasolina,1388730611.0
+Região Metropolitana do Rio de Janeiro,2004,Volume_Venda_Alcool,73264008.0
+Região Metropolitana do Rio de Janeiro,2004,Volume_Venda_Diesel,1345913025.0
+Região Metropolitana do Rio de Janeiro,2004,Volume_Venda_Gasolina,1421452371.0
+Região Metropolitana do Rio de Janeiro,2005,Volume_Venda_Alcool,131561365.0
+Região Metropolitana do Rio de Janeiro,2005,Volume_Venda_Diesel,1411427576.0
+Região Metropolitana do Rio de Janeiro,2005,Volume_Venda_Gasolina,1328722009.0
+Região Metropolitana do Rio de Janeiro,2006,Volume_Venda_Alcool,167657435.0
+Região Metropolitana do Rio de Janeiro,2006,Volume_Venda_Diesel,1377461496.8028452
+Região Metropolitana do Rio de Janeiro,2006,Volume_Venda_Gasolina,1248971416.0
+Região Metropolitana do Rio de Janeiro,2007,Volume_Venda_Alcool,282875356.0
+Região Metropolitana do Rio de Janeiro,2007,Volume_Venda_Diesel,1538240765.0
+Região Metropolitana do Rio de Janeiro,2007,Volume_Venda_Gasolina,1224447692.0
+Região Metropolitana do Rio de Janeiro,2008,Volume_Venda_Alcool,541773684.4804351
+Região Metropolitana do Rio de Janeiro,2008,Volume_Venda_Diesel,1595528482.0
+Região Metropolitana do Rio de Janeiro,2008,Volume_Venda_Gasolina,1182033129.0
+Região Metropolitana do Rio de Janeiro,2009,Volume_Venda_Alcool,677723678.0
+Região Metropolitana do Rio de Janeiro,2009,Volume_Venda_Diesel,1666970774.0
+Região Metropolitana do Rio de Janeiro,2009,Volume_Venda_Gasolina,1187014592.0
+Região Metropolitana do Rio de Janeiro,2010,Volume_Venda_Alcool,585879390.0
+Região Metropolitana do Rio de Janeiro,2010,Volume_Venda_Diesel,1835699876.0
+Região Metropolitana do Rio de Janeiro,2010,Volume_Venda_Gasolina,1355112228.0
+Região Metropolitana do Rio de Janeiro,2011,Volume_Venda_Alcool,414775583.0
+Região Metropolitana do Rio de Janeiro,2011,Volume_Venda_Diesel,1939764407.0
+Região Metropolitana do Rio de Janeiro,2011,Volume_Venda_Gasolina,1657576433.0
+Região Metropolitana do Rio de Janeiro,2012,Volume_Venda_Alcool,337228381.0
+Região Metropolitana do Rio de Janeiro,2012,Volume_Venda_Diesel,1956193896.0
+Região Metropolitana do Rio de Janeiro,2012,Volume_Venda_Gasolina,1781049600.0
+Região Metropolitana do Rio de Janeiro,2013,Volume_Venda_Alcool,452745795.0
+Região Metropolitana do Rio de Janeiro,2013,Volume_Venda_Diesel,1920043712.0
+Região Metropolitana do Rio de Janeiro,2013,Volume_Venda_Gasolina,1879991963.0
+Região Metropolitana do Rio de Janeiro,2014,Volume_Venda_Alcool,453769291.0
+Região Metropolitana do Rio de Janeiro,2014,Volume_Venda_Diesel,1982858022.0
+Região Metropolitana do Rio de Janeiro,2014,Volume_Venda_Gasolina,2040368074.0
+Região Metropolitana do Rio de Janeiro,2014,Volume_Venda_GNV,761908294.0
+Região Metropolitana do Rio de Janeiro,2015,Volume_Venda_Alcool,498305468.0
+Região Metropolitana do Rio de Janeiro,2015,Volume_Venda_Diesel,1989106038.0
+Região Metropolitana do Rio de Janeiro,2015,Volume_Venda_Gasolina,1938206692.0
+Região Metropolitana do Rio de Janeiro,2015,Volume_Venda_GNV,757033976.0
+Região Metropolitana do Rio de Janeiro,2016,Volume_Venda_Alcool,365541457.0
+Região Metropolitana do Rio de Janeiro,2016,Volume_Venda_Diesel,1764134287.0
+Região Metropolitana do Rio de Janeiro,2016,Volume_Venda_Gasolina,1903193693.0
+Região Metropolitana do Rio de Janeiro,2016,Volume_Venda_GNV,790641486.0
+Região Metropolitana do Rio de Janeiro,2017,Volume_Venda_Alcool,364179184.0
+Região Metropolitana do Rio de Janeiro,2017,Volume_Venda_Diesel,1545303663.175539
+Região Metropolitana do Rio de Janeiro,2017,Volume_Venda_Gasolina,1757246540.0
+Região Metropolitana do Rio de Janeiro,2017,Volume_Venda_GNV,918494645.0
+Região Metropolitana do Rio de Janeiro,2018,Volume_Venda_Alcool,550682881.0
+Região Metropolitana do Rio de Janeiro,2018,Volume_Venda_Diesel,1453943749.0
+Região Metropolitana do Rio de Janeiro,2018,Volume_Venda_Gasolina,1372853062.0
+Região Metropolitana do Rio de Janeiro,2018,Volume_Venda_GNV,975359558.0
+Região Metropolitana do Rio de Janeiro,2019,Volume_Venda_Alcool,578721508.0
+Região Metropolitana do Rio de Janeiro,2019,Volume_Venda_Diesel,1533454617.0
+Região Metropolitana do Rio de Janeiro,2019,Volume_Venda_Gasolina,1380792933.0
+Região Metropolitana do Rio de Janeiro,2019,Volume_Venda_GNV,972901489.0
+Região Metropolitana do Rio de Janeiro,2020,Volume_Venda_GNV,829678667.0
+Região Metropolitana do Vale do Rio Cuiabá,2000,Volume_Venda_Alcool,24107843.0
+Região Metropolitana do Vale do Rio Cuiabá,2000,Volume_Venda_Diesel,390073674.0
+Região Metropolitana do Vale do Rio Cuiabá,2000,Volume_Venda_Gasolina,143582139.0
+Região Metropolitana do Vale do Rio Cuiabá,2001,Volume_Venda_Alcool,16177709.0
+Região Metropolitana do Vale do Rio Cuiabá,2001,Volume_Venda_Diesel,330531175.0
+Região Metropolitana do Vale do Rio Cuiabá,2001,Volume_Venda_Gasolina,141814856.0
+Região Metropolitana do Vale do Rio Cuiabá,2002,Volume_Venda_Alcool,19085804.0
+Região Metropolitana do Vale do Rio Cuiabá,2002,Volume_Venda_Diesel,383389887.0
+Região Metropolitana do Vale do Rio Cuiabá,2002,Volume_Venda_Gasolina,144444374.0
+Região Metropolitana do Vale do Rio Cuiabá,2003,Volume_Venda_Alcool,17183059.0
+Região Metropolitana do Vale do Rio Cuiabá,2003,Volume_Venda_Diesel,389021651.0
+Região Metropolitana do Vale do Rio Cuiabá,2003,Volume_Venda_Gasolina,138545714.0
+Região Metropolitana do Vale do Rio Cuiabá,2004,Volume_Venda_Alcool,25792202.0
+Região Metropolitana do Vale do Rio Cuiabá,2004,Volume_Venda_Diesel,470220606.0
+Região Metropolitana do Vale do Rio Cuiabá,2004,Volume_Venda_Gasolina,161482016.0
+Região Metropolitana do Vale do Rio Cuiabá,2005,Volume_Venda_Alcool,32297665.0
+Região Metropolitana do Vale do Rio Cuiabá,2005,Volume_Venda_Diesel,428140125.0
+Região Metropolitana do Vale do Rio Cuiabá,2005,Volume_Venda_Gasolina,160331113.0
+Região Metropolitana do Vale do Rio Cuiabá,2006,Volume_Venda_Alcool,30963474.0
+Região Metropolitana do Vale do Rio Cuiabá,2006,Volume_Venda_Diesel,364770394.5823991
+Região Metropolitana do Vale do Rio Cuiabá,2006,Volume_Venda_Gasolina,152995813.0
+Região Metropolitana do Vale do Rio Cuiabá,2007,Volume_Venda_Alcool,48397700.0
+Região Metropolitana do Vale do Rio Cuiabá,2007,Volume_Venda_Diesel,344229622.0829671
+Região Metropolitana do Vale do Rio Cuiabá,2007,Volume_Venda_Gasolina,133975673.0
+Região Metropolitana do Vale do Rio Cuiabá,2008,Volume_Venda_Alcool,129537314.0
+Região Metropolitana do Vale do Rio Cuiabá,2008,Volume_Venda_Diesel,386608341.0
+Região Metropolitana do Vale do Rio Cuiabá,2008,Volume_Venda_Gasolina,124482769.1133451
+Região Metropolitana do Vale do Rio Cuiabá,2009,Volume_Venda_Alcool,192685839.0
+Região Metropolitana do Vale do Rio Cuiabá,2009,Volume_Venda_Diesel,383484940.0
+Região Metropolitana do Vale do Rio Cuiabá,2009,Volume_Venda_Gasolina,119866613.0
+Região Metropolitana do Vale do Rio Cuiabá,2010,Volume_Venda_Alcool,209464331.0
+Região Metropolitana do Vale do Rio Cuiabá,2010,Volume_Venda_Diesel,377103929.0
+Região Metropolitana do Vale do Rio Cuiabá,2010,Volume_Venda_Gasolina,130873275.0
+Região Metropolitana do Vale do Rio Cuiabá,2011,Volume_Venda_Alcool,172646510.0
+Região Metropolitana do Vale do Rio Cuiabá,2011,Volume_Venda_Diesel,404053136.0
+Região Metropolitana do Vale do Rio Cuiabá,2011,Volume_Venda_Gasolina,165914970.0
+Região Metropolitana do Vale do Rio Cuiabá,2012,Volume_Venda_Alcool,188359292.0
+Região Metropolitana do Vale do Rio Cuiabá,2012,Volume_Venda_Diesel,474430041.0
+Região Metropolitana do Vale do Rio Cuiabá,2012,Volume_Venda_Gasolina,197374772.0
+Região Metropolitana do Vale do Rio Cuiabá,2013,Volume_Venda_Alcool,238630044.0
+Região Metropolitana do Vale do Rio Cuiabá,2013,Volume_Venda_Diesel,574230488.0
+Região Metropolitana do Vale do Rio Cuiabá,2013,Volume_Venda_Gasolina,186150520.0
+Região Metropolitana do Vale do Rio Cuiabá,2014,Volume_Venda_Alcool,241963452.0
+Região Metropolitana do Vale do Rio Cuiabá,2014,Volume_Venda_Diesel,537219557.0
+Região Metropolitana do Vale do Rio Cuiabá,2014,Volume_Venda_Gasolina,209649044.0
+Região Metropolitana do Vale do Rio Cuiabá,2014,Volume_Venda_GNV,1130745.0
+Região Metropolitana do Vale do Rio Cuiabá,2015,Volume_Venda_Alcool,232842254.0
+Região Metropolitana do Vale do Rio Cuiabá,2015,Volume_Venda_Diesel,500098072.0
+Região Metropolitana do Vale do Rio Cuiabá,2015,Volume_Venda_Gasolina,164227595.0
+Região Metropolitana do Vale do Rio Cuiabá,2015,Volume_Venda_GNV,815166.0
+Região Metropolitana do Vale do Rio Cuiabá,2016,Volume_Venda_Alcool,210064262.0
+Região Metropolitana do Vale do Rio Cuiabá,2016,Volume_Venda_Diesel,510547564.0
+Região Metropolitana do Vale do Rio Cuiabá,2016,Volume_Venda_Gasolina,166155141.0
+Região Metropolitana do Vale do Rio Cuiabá,2016,Volume_Venda_GNV,499192.0
+Região Metropolitana do Vale do Rio Cuiabá,2017,Volume_Venda_Alcool,236744114.0
+Região Metropolitana do Vale do Rio Cuiabá,2017,Volume_Venda_Diesel,511050082.75455
+Região Metropolitana do Vale do Rio Cuiabá,2017,Volume_Venda_Gasolina,166112499.0
+Região Metropolitana do Vale do Rio Cuiabá,2018,Volume_Venda_Alcool,382960892.0
+Região Metropolitana do Vale do Rio Cuiabá,2018,Volume_Venda_Diesel,535715140.0
+Região Metropolitana do Vale do Rio Cuiabá,2018,Volume_Venda_Gasolina,134046503.0
+Região Metropolitana do Vale do Rio Cuiabá,2019,Volume_Venda_Alcool,435250546.0
+Região Metropolitana do Vale do Rio Cuiabá,2019,Volume_Venda_Diesel,517228741.0
+Região Metropolitana do Vale do Rio Cuiabá,2019,Volume_Venda_Gasolina,114652300.0
+Rio Branco,2000,Volume_Venda_Alcool,5815363.0
+Rio Branco,2000,Volume_Venda_Diesel,148512414.0
+Rio Branco,2000,Volume_Venda_Gasolina,31191602.0
+Rio Branco,2001,Volume_Venda_Alcool,4034937.0
+Rio Branco,2001,Volume_Venda_Diesel,160890452.0
+Rio Branco,2001,Volume_Venda_Gasolina,29133694.0
+Rio Branco,2002,Volume_Venda_Alcool,3648342.0
+Rio Branco,2002,Volume_Venda_Diesel,172808333.0
+Rio Branco,2002,Volume_Venda_Gasolina,34663299.0
+Rio Branco,2003,Volume_Venda_Alcool,3021495.0
+Rio Branco,2003,Volume_Venda_Diesel,129746028.0
+Rio Branco,2003,Volume_Venda_Gasolina,32751055.0
+Rio Branco,2004,Volume_Venda_Alcool,3061449.0
+Rio Branco,2004,Volume_Venda_Diesel,101441836.0
+Rio Branco,2004,Volume_Venda_Gasolina,34593334.0
+Rio Branco,2005,Volume_Venda_Alcool,3359854.0
+Rio Branco,2005,Volume_Venda_Diesel,102939856.0
+Rio Branco,2005,Volume_Venda_Gasolina,35879405.0
+Rio Branco,2006,Volume_Venda_Alcool,3649999.0
+Rio Branco,2006,Volume_Venda_Diesel,64815607.2191319
+Rio Branco,2006,Volume_Venda_Gasolina,39180248.0
+Rio Branco,2007,Volume_Venda_Alcool,5616692.0
+Rio Branco,2007,Volume_Venda_Diesel,46436377.0
+Rio Branco,2007,Volume_Venda_Gasolina,42656357.7555277
+Rio Branco,2008,Volume_Venda_Alcool,7994650.0
+Rio Branco,2008,Volume_Venda_Diesel,50541508.0
+Rio Branco,2008,Volume_Venda_Gasolina,46994000.0
+Rio Branco,2009,Volume_Venda_Alcool,9701007.0
+Rio Branco,2009,Volume_Venda_Diesel,49287591.3803566
+Rio Branco,2009,Volume_Venda_Gasolina,45294600.0
+Rio Branco,2010,Volume_Venda_Alcool,5609532.0
+Rio Branco,2010,Volume_Venda_Diesel,60510160.0
+Rio Branco,2010,Volume_Venda_Gasolina,61671300.0
+Rio Branco,2011,Volume_Venda_Alcool,5046060.0
+Rio Branco,2011,Volume_Venda_Diesel,67662156.0
+Rio Branco,2011,Volume_Venda_Gasolina,69527000.0
+Rio Branco,2012,Volume_Venda_Alcool,4748000.0
+Rio Branco,2012,Volume_Venda_Diesel,127139657.0
+Rio Branco,2012,Volume_Venda_Gasolina,76742250.0
+Rio Branco,2013,Volume_Venda_Alcool,4891000.0
+Rio Branco,2013,Volume_Venda_Diesel,65282500.0
+Rio Branco,2013,Volume_Venda_Gasolina,81327000.0
+Rio Branco,2014,Volume_Venda_Alcool,2922015.0
+Rio Branco,2014,Volume_Venda_Diesel,70111651.0
+Rio Branco,2014,Volume_Venda_Gasolina,88703250.0
+Rio Branco,2015,Volume_Venda_Alcool,6069000.0
+Rio Branco,2015,Volume_Venda_Diesel,61802030.0
+Rio Branco,2015,Volume_Venda_Gasolina,88707840.0
+Rio Branco,2016,Volume_Venda_Alcool,6326607.0
+Rio Branco,2016,Volume_Venda_Diesel,55276150.0
+Rio Branco,2016,Volume_Venda_Gasolina,86549152.0
+Rio Branco,2017,Volume_Venda_Alcool,5524000.0
+Rio Branco,2017,Volume_Venda_Diesel,49796537.701271
+Rio Branco,2017,Volume_Venda_Gasolina,87465128.0
+Rio Branco,2018,Volume_Venda_Alcool,6776500.0
+Rio Branco,2018,Volume_Venda_Diesel,48819694.0
+Rio Branco,2018,Volume_Venda_Gasolina,84783134.0
+Rio Branco,2019,Volume_Venda_Alcool,6139300.0
+Rio Branco,2019,Volume_Venda_Diesel,49512800.0
+Rio Branco,2019,Volume_Venda_Gasolina,86969027.0
