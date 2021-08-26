@@ -2,7 +2,7 @@ import pandas as pd
 
 df_diesel_anual = pd.DataFrame()
 
-for ano in range(2013, 2013, 1):
+for ano in range(2013, 2020, 1):
     if(ano in [2013, 2015]):
         df_diesel = pd.read_excel(f'datasets/diesel_2013-2019/αleo Diesel {ano}.xls', sheet_name='Rel. Ativ. Econ.', header=6)
     else:
@@ -23,9 +23,11 @@ for ano in range(2013, 2013, 1):
     df_diesel_g_fator_volume_real = df_diesel.groupby(['RM'])['Volume_Real'].sum()
     df_diesel_g_fator = df_diesel_g_fator_pesado/df_diesel_g_fator_volume_real
     df_diesel_g_fator = df_diesel_g_fator.reset_index()
-    print(df_diesel_g_fator)
     df_diesel_g_fator['Ano'] = ano
+    #print(df_diesel_g_fator)
 
     df_diesel_anual = pd.concat([df_diesel_anual, df_diesel_g_fator])
-    
-df_diesel_g_fator.to_csv('datasets/base_diesel_rm_rev02.csv')
+
+df_diesel_anual = df_diesel_anual.rename(columns={0: 'Fator_Ajuste_Diesel'})
+print(df_diesel_anual)
+df_diesel_anual.to_csv('datasets/base_diesel_rm_rev02.csv', index=False)
