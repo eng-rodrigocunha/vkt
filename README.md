@@ -1,3 +1,3 @@
-#  VEÍCULO-QUILÔMETROS TRAFEGADOS (VKT)
-##  INDICADOR DE INTENSIDADE DE USO DO SISTEMA VIÁRIO DAS CAPITAIS BRASILEIRAS E SUAS REGIÕES METROPOLITANAS
+#  Veículo-Quilômetros Trafegados (VKT)
+##  Indicador de Intensidade de Uso do Sistema Viário das Capitais Brasileiras e suas Regiões Metropolitanas
 
