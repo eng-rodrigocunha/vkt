@@ -1,3 +1,3 @@
-#  VKT
-##  Volume de tráfego das capitais brasileiras e suas Regiões Metropolitanas.
+#  VEÍCULO-QUILÔMETROS TRAFEGADOS (VKT)
+##  INDICADOR DE INTENSIDADE DE USO DO SISTEMA VIÁRIO DAS CAPITAIS BRASILEIRAS E SUAS REGIÕES METROPOLITANAS
 
